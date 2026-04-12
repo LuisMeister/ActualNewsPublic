@@ -1,0 +1,33 @@
+/* Header */
+header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    position: relative; /* you can change this to absolute/fixed for movement */
+}
+
+/* Navigation links */
+header nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Section titles centered */
+section h2 {
+    text-align: center; /* <-- centers the section headings */
+}
+
+/* Footer */
+footer {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+}

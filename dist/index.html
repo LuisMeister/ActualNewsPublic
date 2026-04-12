@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ActualNews</title>
+    <link rel="stylesheet" href="../static/BaseStyle.css">
+
+</head>
+
+<body>
+
+    <header>
+        <h1>Actual News</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            <a href="#">How to use</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h3>Current reporting location:</h3>
+            <p>[&#39;Europe&#39;], [&#39;UK&#39;, &#39;United Kingdom&#39;], [&#39;London&#39;], [&#39;London&#39;]</p>
+        </section>
+
+        <section>
+            <h2>Tier 1 ([&#39;Europe&#39;]) News</h2>
+            <p id="excelOutput-Tier1">Excel data will appear here.</p>
+
+                <!--<script>
+                fetch('/get-data-Tier1')
+                  .then(response => response.json())
+                  .then(data => {
+                      const output = data.join("<br>");
+                      document.getElementById('excelOutput-Tier1').innerHTML = output;
+                  });
+                </script>-->
+                <script>
+                    fetch("./data.json")
+                      .then(res => res.json())
+                      .then(data => {
+                        const output = data["1"].join("<br>");
+                        document.getElementById('excelOutput-Tier1').innerHTML = output;
+                      });
+                </script>
+        </section>
+
+        <section>
+            <h2>Tier 2 ([&#39;UK&#39;, &#39;United Kingdom&#39;]) News</h2>
+            <p id="excelOutput-Tier2">Excel data will appear here.</p>
+
+                <!--
+                <script>
+                fetch('/get-data-Tier2')
+                  .then(response => response.json())
+                  .then(data => {
+                      const output = data.join("<br>");
+                      document.getElementById('excelOutput-Tier2').innerHTML = output;
+                  });
+                </script> -->
+                <script>
+                    fetch("data.json")
+                      .then(res => res.json())
+                      .then(data => {
+                        const output = data["2"].join("<br>");
+                        document.getElementById('excelOutput-Tier2').innerHTML = output;
+                      });
+                </script>
+        </section>
+
+        <section>
+            <h2>Tier 3 ([&#39;London&#39;]) News</h2>
+            <p id="excelOutput-Tier3">Excel data will appear here.</p>
+
+                <!--
+                <script>
+                fetch('/get-data-Tier3')
+                  .then(response => response.json())
+                  .then(data => {
+                      const output = data.join("<br>");
+                      document.getElementById('excelOutput-Tier3').innerHTML = output;
+                  });
+                </script>-->
+                <script>
+                    fetch("data.json")
+                      .then(res => res.json())
+                      .then(data => {
+                        const output = data["3"].join("<br>");
+                        document.getElementById('excelOutput-Tier3').innerHTML = output;
+                      });
+                </script>
+        </section>
+
+        <section>
+            <h2>Tier 4 ([&#39;London&#39;]) News</h2>
+            <p id="excelOutput-Tier4">Excel data will appear here.</p>
+
+                <!--
+                <script>
+                fetch('/get-data-Tier4')
+                  .then(response => response.json())
+                  .then(data => {
+                      const output = data.join("<br>");
+                      document.getElementById('excelOutput-Tier4').innerHTML = output;
+                  });
+                </script>-->
+                <script>
+                    fetch("data.json")
+                      .then(res => res.json())
+                      .then(data => {
+                        const output = data["4"].join("<br>");
+                        document.getElementById('excelOutput-Tier4').innerHTML = output;
+                      });
+                </script>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website</p>
+    </footer>
+
+
+</body>
+</html>
