@@ -1,33 +1,111 @@
-/* Header */
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== BODY ===== */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: #0f172a;
+    color: #e2e8f0;
+    line-height: 1.6;
+}
+
+/* ===== HEADER ===== */
 header {
-    background-color: lightblue;
-    padding: 20px;
-    text-align: center;
-    position: relative; /* you can change this to absolute/fixed for movement */
+    background: #020617;
+    padding: 20px 30px;
+    border-bottom: 1px solid #1e293b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-/* Navigation links */
+header h1 {
+    color: #38bdf8;
+    font-size: 1.8rem;
+}
+
+/* ===== NAV ===== */
 header nav a {
-    margin: 0 10px;
+    margin-left: 20px;
     text-decoration: none;
-    color: darkblue;
-    font-weight: bold;
+    color: #94a3b8;
+    font-weight: 500;
+    transition: 0.2s;
 }
 
-/* Main content */
+header nav a:hover {
+    color: #38bdf8;
+}
+
+/* ===== MAIN ===== */
 main {
-    padding: 20px;
-    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 0 20px;
 }
 
-/* Section titles centered */
+/* ===== LOCATION BOX ===== */
+section:first-of-type {
+    background: #1e293b;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    border: 1px solid #334155;
+}
+
+/* ===== SECTION TITLES ===== */
 section h2 {
-    text-align: center; /* <-- centers the section headings */
+    text-align: center;
+    margin-bottom: 15px;
+    color: #f1f5f9;
 }
 
-/* Footer */
+/* ===== NEWS BLOCK ===== */
+section p {
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid #334155;
+    margin-bottom: 25px;
+    font-size: 0.95rem;
+}
+
+/* ===== LINKS INSIDE NEWS ===== */
+section p a {
+    color: #38bdf8;
+    text-decoration: none;
+}
+
+section p a:hover {
+    text-decoration: underline;
+}
+
+/* ===== FOOTER ===== */
 footer {
-    background-color: #ddd;
-    padding: 10px;
+    margin-top: 40px;
+    padding: 20px;
     text-align: center;
+    color: #64748b;
+    border-top: 1px solid #1e293b;
+}
+
+/* ===== SMALL TOUCH ===== */
+img {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: 0.6;
+}
+
+.news-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #334155;
+}
+
+.news-item:last-child {
+    border-bottom: none;
 }
