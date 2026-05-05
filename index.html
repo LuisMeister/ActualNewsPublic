@@ -53,7 +53,9 @@
                     fetch("./data.json")
                       .then(res => res.json())
                       .then(data => {
-                        const output = data["1"].map(h => `<div class="news-item">${h}</div>`).join("");
+                        const output = data["1"].map(h => `<div class="news-item">
+                            <a href="${h.URL}" target="_blank">${h.Headline}</a>
+                            </div>`).join("");
                         document.getElementById('excelOutput-Tier1').innerHTML = output;
                       });
                 </script>
