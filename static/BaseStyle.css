@@ -118,7 +118,8 @@ img {
 }
 
 .news-item:hover {
-    color: #38bdf8;
+    text-decoration: underline;
+    text-underline-offset: 3px;
 }
 
 /* ===== CATEGORY BAR ===== */

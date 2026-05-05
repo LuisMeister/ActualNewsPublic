@@ -79,7 +79,10 @@
                     fetch("data.json")
                       .then(res => res.json())
                       .then(data => {
-                        const output = data["2"].map(h => `<div class="news-item">${h}</div>`).join("");
+                        const output = data["2"].map(h =>
+                            `<a href="${h.URL}" target="_blank" class="news-item">
+                                ${h.Headline}
+                            </a>`).join("");
                         document.getElementById('excelOutput-Tier2').innerHTML = output;
                       });
                 </script>
@@ -102,7 +105,10 @@
                     fetch("data.json")
                       .then(res => res.json())
                       .then(data => {
-                        const output = data["3"].map(h => `<div class="news-item">${h}</div>`).join("");
+                        const output = data["3"].map(h =>
+                            `<a href="${h.URL}" target="_blank" class="news-item">
+                                ${h.Headline}
+                            </a>`).join("");
                         document.getElementById('excelOutput-Tier3').innerHTML = output;
                       });
                 </script>
@@ -125,7 +131,10 @@
                     fetch("data.json")
                       .then(res => res.json())
                       .then(data => {
-                        const output = data["4"].map(h => `<div class="news-item">${h}</div>`).join("");
+                        const output = data["4"].map(h =>
+                            `<a href="${h.URL}" target="_blank" class="news-item">
+                                ${h.Headline}
+                            </a>`).join("");
                         document.getElementById('excelOutput-Tier4').innerHTML = output;
                       });
                 </script>
