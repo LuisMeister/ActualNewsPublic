@@ -111,6 +111,16 @@ img {
     border-bottom: none;
 }
 
+.news-item {
+    display: block;
+    color: #e2e8f0;
+    text-decoration: none;
+}
+
+.news-item:hover {
+    color: #38bdf8;
+}
+
 /* ===== CATEGORY BAR ===== */
 .category-bar {
     display: flex;
