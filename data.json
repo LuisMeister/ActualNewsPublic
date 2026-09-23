@@ -2,241 +2,299 @@
   "1": [
     {
       "Headline": "The US, Iran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
-      "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506"
+      "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506",
+      "Category": "CONFLICT"
     },
     {
       "Headline": "US Air Force fighter jet crashes near air base in Germany",
-      "URL": "https://www.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025"
+      "URL": "https://www.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025",
+      "Category": "CONFLICT"
     },
     {
       "Headline": "Despite flurry of New York diplomacy, US-Iran deal remains elusive",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Russia\u2019s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
+      "Category": "CONFLICT"
     },
     {
       "Headline": "Pakistan\u2019s latest Trump bet is on drone firm already selling to India",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
+      "Category": "CONFLICT"
     },
     {
       "Headline": "4,Pakistan\u2019s latest Trump bet is on drone firm already selling to India",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
+      "Category": "CONFLICT"
     },
     {
       "Headline": "6,Despite flurry of New York diplomacy, US-Iran deal remains elusive",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
+      "Category": "Status Quo"
     },
     {
       "Headline": "10,Russia\u2019s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
+      "Category": "CONFLICT"
     },
     {
       "Headline": "U.S. warns Australia\u2019s social media algorithm reforms risk \u2018facilitating censorship\u2019",
-      "URL": "https://www.nbcnews.com/world/asia/us-warns-australia-social-media-algorithm-reforms-risk-censorship-rcna599355"
+      "URL": "https://www.nbcnews.com/world/asia/us-warns-australia-social-media-algorithm-reforms-risk-censorship-rcna599355",
+      "Category": "Rumour"
     },
     {
       "Headline": "Ireland manager gets prime minister Martin\u2019s backing in row with Israel over \u2018genocide\u2019",
-      "URL": "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
+      "URL": "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza",
+      "Category": "CONFLICT"
     }
   ],
   "2": [
     {
       "Headline": "China's new travel rules unsettle tech giants and talent",
-      "URL": "https://www.dw.com/en/chinas-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937"
+      "URL": "https://www.dw.com/en/chinas-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Warnings of famine grow in Ukrainian town of Oleshky",
-      "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887"
+      "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887",
+      "Category": "Rumour"
     },
     {
       "Headline": "The Syrian government announces economic prosperity. But ordinary Syrians say their lives are getting worse.",
-      "URL": "https://www.dw.com/en/is-syrias-new-economy-for-the-rich-only/a-79378442"
+      "URL": "https://www.dw.com/en/is-syrias-new-economy-for-the-rich-only/a-79378442",
+      "Category": "Rumour"
     },
     {
       "Headline": "Argentina loses 33 companies a day under Javier Milei",
-      "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633"
+      "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633",
+      "Category": "Sports Results"
     },
     {
       "Headline": "Thousands of firms have shut down as costs climb and demand falls across Argentina.",
-      "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633"
+      "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633",
+      "Category": "Status Quo"
     },
     {
       "Headline": "As Germany enters winter with unusually low gas storage levels, questions are being raised about supply and prices.",
-      "URL": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317"
+      "URL": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Iran war spreads through region as Trump seeks way out",
-      "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506"
+      "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506",
+      "Category": "Status Quo"
     },
     {
       "Headline": "The US president has announced plans for a new government body as AI industry leaders warn of growing risks.",
-      "URL": "https://www.dw.com/en/trump-announces-creation-of-new-ai-force/video-79375872"
+      "URL": "https://www.dw.com/en/trump-announces-creation-of-new-ai-force/video-79375872",
+      "Category": "Rumour"
     },
     {
       "Headline": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
-      "URL": "https://www.dw.com/en/eu-sanctions-alisher-usmanov-mikhail-fridman/a-79381048"
+      "URL": "https://www.dw.com/en/eu-sanctions-alisher-usmanov-mikhail-fridman/a-79381048",
+      "Category": "Status Quo"
     },
     {
       "Headline": "China is turning to humanoid robots to help care for its rapidly aging population.",
-      "URL": "https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571"
+      "URL": "https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571",
+      "Category": "Status Quo"
     },
     {
       "Headline": "UNGA 2026: Pezeshkian responds to Trump, says Iran \u2018victim of terrorism\u2019",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak"
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak",
+      "Category": "Rumour"
     },
     {
       "Headline": "Rubio says any deal with Iran will involve hard work over a period of time",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un"
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
+      "Category": "Rumour"
     },
     {
       "Headline": "Yemeni government in military and diplomatic push to reverse Houthi gains",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Syrian president warns Israeli attacks endanger delicate post-war recovery",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery",
+      "Category": "Rumour"
     },
     {
       "Headline": "Tigray forces launch offensive against Ethiopian government",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Undermining the UN is not a new US policy",
-      "URL": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy"
+      "URL": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy",
+      "Category": "Status Quo"
     },
     {
       "Headline": "In Senegal, a mother\u2019s ordeal exposes a health system under strain",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/in-senegal-a-mothers-ordeal-exposes-a-health-system-under-strain"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/in-senegal-a-mothers-ordeal-exposes-a-health-system-under-strain",
+      "Category": "Status Quo"
     },
     {
       "Headline": "\u2018Deadly hazards\u2019: Behind Sudan gold mine collapse, a wartime desperation",
-      "URL": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation"
+      "URL": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation",
+      "Category": "Status Quo"
     },
     {
       "Headline": "1,UNGA 2026: Pezeshkian responds to Trump, says Iran \u2018victim of terrorism\u2019",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak"
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak",
+      "Category": "Rumour"
     },
     {
       "Headline": "2,Rubio says any deal with Iran will involve hard work over a period of time",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un"
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
+      "Category": "Rumour"
     },
     {
       "Headline": "9,Tigray forces launch offensive against Ethiopian government",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports"
+      "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports",
+      "Category": "Status Quo"
     },
     {
       "Headline": "NBC News\u2019 Matt Bradley on Iranian leader\u2019s address",
-      "URL": "https://www.nbcnews.com/video/iranian-president-claims-they-are-victims-of-terrorism-in-united-nations-speech-270370373894"
+      "URL": "https://www.nbcnews.com/video/iranian-president-claims-they-are-victims-of-terrorism-in-united-nations-speech-270370373894",
+      "Category": "Status Quo"
     },
     {
       "Headline": "China expands export controls on drug precursors ahead of Trump-Xi meeting",
-      "URL": "https://www.nbcnews.com/world/asia/china-expands-export-controls-drug-precursors-ahead-trump-xi-meeting-rcna599342"
+      "URL": "https://www.nbcnews.com/world/asia/china-expands-export-controls-drug-precursors-ahead-trump-xi-meeting-rcna599342",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
-      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374"
+      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
+      "Category": "Rumour"
     },
     {
       "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
-      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374"
+      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
+      "Category": "Rumour"
     },
     {
       "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
-      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374"
+      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
+      "Category": "Rumour"
     },
     {
       "Headline": "Simone Biles says three masked men burglarized her home and stole her car",
-      "URL": "https://www.nbcnews.com/news/us-news/simone-biles-says-three-masked-men-burglarized-home-stole-car-rcna599299"
+      "URL": "https://www.nbcnews.com/news/us-news/simone-biles-says-three-masked-men-burglarized-home-stole-car-rcna599299",
+      "Category": "Rumour"
     },
     {
       "Headline": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
-      "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348"
+      "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
+      "Category": "Rumour"
     },
     {
       "Headline": "3 shooters kill at least 11 at a house party in South Africa, police say",
-      "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348"
+      "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
+      "Category": "Rumour"
     },
     {
       "Headline": "Polo off Mexican coast is among \u2018the strongest storms ever\u2019 as Odalys becomes a hurricane",
-      "URL": "https://www.nbcnews.com/news/us-news/hurricane-polo-one-strongest-storms-ever-churning-mexicos-pacific-coas-rcna599354"
+      "URL": "https://www.nbcnews.com/news/us-news/hurricane-polo-one-strongest-storms-ever-churning-mexicos-pacific-coas-rcna599354",
+      "Category": "Natural Disaster"
     },
     {
       "Headline": "VenezuelaDelcy Rodr\u00edguez poses with Trump in New York as Maduro languishes in jail nearby",
-      "URL": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york"
+      "URL": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
+      "Category": "Status Quo"
     },
     {
       "Headline": "US mediaFormer Fox News host Gretchen Carlson on press under Trump: \u2018It\u2019s my hope journalists will start speaking up\u2019",
-      "URL": "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban"
+      "URL": "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban",
+      "Category": "Status Quo"
     },
     {
       "Headline": "US politicsRepublican jitters grow as unpopular Trump fuels midterm \u2018bloodbath\u2019 fears",
-      "URL": "https://www.theguardian.com/us-news/2026/sep/23/trump-republicans-midterms"
+      "URL": "https://www.theguardian.com/us-news/2026/sep/23/trump-republicans-midterms",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Leander SchaerlaeckensChelsea are in realm of late-stage American sports capitalism",
-      "URL": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism"
+      "URL": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism",
+      "Category": "Status Quo"
     }
   ],
   "3": [
     {
       "Headline": "Trump's Board of Peace proposes $2.45B to rebuild Gaza",
-      "URL": "https://www.dw.com/en/gaza-board-of-peace-proposal-trump/a-79401612"
+      "URL": "https://www.dw.com/en/gaza-board-of-peace-proposal-trump/a-79401612",
+      "Category": "Status Quo"
     },
     {
       "Headline": "The Left won the Berlin election partly by promising to implement an expropriation referendum to solve the rent crisis.",
-      "URL": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683"
+      "URL": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683",
+      "Category": "Sports Results"
     },
     {
       "Headline": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May.",
-      "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887"
+      "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887",
+      "Category": "Status Quo"
     },
     {
       "Headline": "\u2018Hope\u2019 rises in Berlin immigrant communities as Left wins amid AfD gains",
-      "URL": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains"
+      "URL": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains",
+      "Category": "Sports Results"
     },
     {
       "Headline": "Paramount reaches deal with California, other states over Warner merger",
-      "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645"
+      "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
+      "Category": "Rumour"
     },
     {
       "Headline": "Paramount reaches deal with California, other states over Warner merger",
-      "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645"
+      "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
+      "Category": "Rumour"
     },
     {
       "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
-      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213"
+      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
-      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213"
+      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Voters in Nebraska battleground district divided over Trump",
-      "URL": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753"
+      "URL": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Rays clinch 5th AL East title with win at Yankee Stadium",
-      "URL": "https://www.nbcnews.com/sports/mlb/rays-clinch-5th-al-east-title-with-6-1-victory-at-yankee-stadium-in-2nd-game-of-doubleheader-n1449279"
+      "URL": "https://www.nbcnews.com/sports/mlb/rays-clinch-5th-al-east-title-with-6-1-victory-at-yankee-stadium-in-2nd-game-of-doubleheader-n1449279",
+      "Category": "Sports Results"
     },
     {
       "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
-      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213"
+      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
+      "Category": "Status Quo"
     },
     {
       "Headline": "DoorDash reaches $131.5M settlement with New York City over delivery workers\u2019 pay",
-      "URL": "https://www.nbcnews.com/business/business-news/doordash-settles-nyc-driver-pay-rcna599186"
+      "URL": "https://www.nbcnews.com/business/business-news/doordash-settles-nyc-driver-pay-rcna599186",
+      "Category": "Status Quo"
     }
   ],
   "4": [
     {
       "Headline": "Eviction of 87-year-old woman sparks protests in Madrid",
-      "URL": "https://www.dw.com/en/spain-madrid-protest-87-year-old-woman-evicted/a-79399342"
+      "URL": "https://www.dw.com/en/spain-madrid-protest-87-year-old-woman-evicted/a-79399342",
+      "Category": "Status Quo"
     },
     {
       "Headline": "Rome's Colosseum closes after worker falls to his death",
-      "URL": "https://www.dw.com/en/romes-colosseum-closes-after-worker-falls-to-his-death/a-79387180"
+      "URL": "https://www.dw.com/en/romes-colosseum-closes-after-worker-falls-to-his-death/a-79387180",
+      "Category": "Status Quo"
     }
   ]
 }

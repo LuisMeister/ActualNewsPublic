@@ -148,3 +148,14 @@ img {
     background: #38bdf8;
     color: #0f172a;
 }
+/* Active filter */
+.cat-btn {
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.cat-btn.active {
+    background: #38bdf8;
+    color: #0f172a;
+    border-color: #38bdf8;
+}
