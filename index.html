@@ -86,11 +86,18 @@
             });
         });
 
-        fetch("./data.json")
+        fetch("./data.json", { cache: "no-store" })
             .then(res => res.json())
             .then(data => {
                 newsData = data;
                 renderTiers();
+            })
+            .catch(err => {
+                TIERS.forEach(tier => {
+                    document.getElementById(`excelOutput-Tier${tier}`).innerHTML =
+                        "Failed to load news data. If you're viewing this from a local file instead of the live site, that's why (browsers block local data.json loads) &mdash; open the page through its hosted URL instead.";
+                });
+                console.error("Failed to load data.json:", err);
             });
     </script>
 
