@@ -26,6 +26,19 @@
       "TriggerCity": []
     },
     {
+      "Headline": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
+      "URL": "https://www.dw.com/en/eu-sanctions-alisher-usmanov-mikhail-fridman/a-79381048",
+      "Category": "Status Quo",
+      "TriggerRegion": [
+        "EU"
+      ],
+      "TriggerCountry": [
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Despite flurry of New York diplomacy, US-Iran deal remains elusive",
       "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
       "Category": "Status Quo",
@@ -211,19 +224,6 @@
       "TriggerRegion": [],
       "TriggerCountry": [
         "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
-      "URL": "https://www.dw.com/en/eu-sanctions-alisher-usmanov-mikhail-fridman/a-79381048",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "EU"
-      ],
-      "TriggerCountry": [
-        "Russian"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
