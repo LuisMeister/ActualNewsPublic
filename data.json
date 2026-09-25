@@ -3,298 +3,734 @@
     {
       "Headline": "The US, Iran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
       "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "Iran",
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "US Air Force fighter jet crashes near air base in Germany",
       "URL": "https://www.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "Germany"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Despite flurry of New York diplomacy, US-Iran deal remains elusive",
       "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "Iran"
+      ],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Russia\u2019s attacks on Ukraine kill six after Zelenskyy-Trump talks",
       "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russia",
+        "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Pakistan\u2019s latest Trump bet is on drone firm already selling to India",
       "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Pakistan",
+        "India"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "4,Pakistan\u2019s latest Trump bet is on drone firm already selling to India",
       "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Pakistan",
+        "India"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "6,Despite flurry of New York diplomacy, US-Iran deal remains elusive",
       "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "Iran"
+      ],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "10,Russia\u2019s attacks on Ukraine kill six after Zelenskyy-Trump talks",
       "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russia",
+        "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "U.S. warns Australia\u2019s social media algorithm reforms risk \u2018facilitating censorship\u2019",
       "URL": "https://www.nbcnews.com/world/asia/us-warns-australia-social-media-algorithm-reforms-risk-censorship-rcna599355",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S.",
+        "Australia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Ireland manager gets prime minister Martin\u2019s backing in row with Israel over \u2018genocide\u2019",
       "URL": "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza",
-      "Category": "CONFLICT"
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ireland",
+        "Israel"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     }
   ],
   "2": [
     {
       "Headline": "China's new travel rules unsettle tech giants and talent",
       "URL": "https://www.dw.com/en/chinas-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Warnings of famine grow in Ukrainian town of Oleshky",
       "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukrainian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "The Syrian government announces economic prosperity. But ordinary Syrians say their lives are getting worse.",
       "URL": "https://www.dw.com/en/is-syrias-new-economy-for-the-rich-only/a-79378442",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Syrian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Argentina loses 33 companies a day under Javier Milei",
       "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633",
-      "Category": "Sports Results"
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Argentina"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Thousands of firms have shut down as costs climb and demand falls across Argentina.",
       "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Argentina"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "As Germany enters winter with unusually low gas storage levels, questions are being raised about supply and prices.",
       "URL": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Germany"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Iran war spreads through region as Trump seeks way out",
       "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "The US president has announced plans for a new government body as AI industry leaders warn of growing risks.",
       "URL": "https://www.dw.com/en/trump-announces-creation-of-new-ai-force/video-79375872",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
       "URL": "https://www.dw.com/en/eu-sanctions-alisher-usmanov-mikhail-fridman/a-79381048",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [
+        "EU"
+      ],
+      "TriggerCountry": [
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "China is turning to humanoid robots to help care for its rapidly aging population.",
       "URL": "https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "UNGA 2026: Pezeshkian responds to Trump, says Iran \u2018victim of terrorism\u2019",
       "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Rubio says any deal with Iran will involve hard work over a period of time",
       "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Yemeni government in military and diplomatic push to reverse Houthi gains",
       "URL": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemeni"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Syrian president warns Israeli attacks endanger delicate post-war recovery",
       "URL": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Syrian",
+        "Israeli"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Tigray forces launch offensive against Ethiopian government",
       "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ethiopian"
+      ],
+      "TriggerADM1": [
+        "Tigray"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Undermining the UN is not a new US policy",
       "URL": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "In Senegal, a mother\u2019s ordeal exposes a health system under strain",
       "URL": "https://www.aljazeera.com/news/2026/9/23/in-senegal-a-mothers-ordeal-exposes-a-health-system-under-strain",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Senegal"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "\u2018Deadly hazards\u2019: Behind Sudan gold mine collapse, a wartime desperation",
       "URL": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sudan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "1,UNGA 2026: Pezeshkian responds to Trump, says Iran \u2018victim of terrorism\u2019",
       "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "2,Rubio says any deal with Iran will involve hard work over a period of time",
       "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "9,Tigray forces launch offensive against Ethiopian government",
       "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ethiopian"
+      ],
+      "TriggerADM1": [
+        "Tigray"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "NBC News\u2019 Matt Bradley on Iranian leader\u2019s address",
       "URL": "https://www.nbcnews.com/video/iranian-president-claims-they-are-victims-of-terrorism-in-united-nations-speech-270370373894",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iranian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "China expands export controls on drug precursors ahead of Trump-Xi meeting",
       "URL": "https://www.nbcnews.com/world/asia/china-expands-export-controls-drug-precursors-ahead-trump-xi-meeting-rcna599342",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
       "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Costa Rican"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
       "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Costa Rican"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
       "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Costa Rican"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Simone Biles says three masked men burglarized her home and stole her car",
       "URL": "https://www.nbcnews.com/news/us-news/simone-biles-says-three-masked-men-burglarized-home-stole-car-rcna599299",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "car"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
       "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [
+        "Africa"
+      ],
+      "TriggerCountry": [
+        "South Africa"
+      ],
+      "TriggerADM1": [
+        "South"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "3 shooters kill at least 11 at a house party in South Africa, police say",
       "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [
+        "Africa"
+      ],
+      "TriggerCountry": [
+        "South Africa"
+      ],
+      "TriggerADM1": [
+        "South"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Polo off Mexican coast is among \u2018the strongest storms ever\u2019 as Odalys becomes a hurricane",
       "URL": "https://www.nbcnews.com/news/us-news/hurricane-polo-one-strongest-storms-ever-churning-mexicos-pacific-coas-rcna599354",
-      "Category": "Natural Disaster"
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Mexican"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "VenezuelaDelcy Rodr\u00edguez poses with Trump in New York as Maduro languishes in jail nearby",
       "URL": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "US mediaFormer Fox News host Gretchen Carlson on press under Trump: \u2018It\u2019s my hope journalists will start speaking up\u2019",
       "URL": "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "US politicsRepublican jitters grow as unpopular Trump fuels midterm \u2018bloodbath\u2019 fears",
       "URL": "https://www.theguardian.com/us-news/2026/sep/23/trump-republicans-midterms",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Leander SchaerlaeckensChelsea are in realm of late-stage American sports capitalism",
       "URL": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "American"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     }
   ],
   "3": [
     {
       "Headline": "Trump's Board of Peace proposes $2.45B to rebuild Gaza",
       "URL": "https://www.dw.com/en/gaza-board-of-peace-proposal-trump/a-79401612",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Gaza"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "The Left won the Berlin election partly by promising to implement an expropriation referendum to solve the rent crisis.",
       "URL": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683",
-      "Category": "Sports Results"
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Berlin"
+      ],
+      "TriggerCity": [
+        "Berlin"
+      ]
     },
     {
       "Headline": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May.",
       "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "southern"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "\u2018Hope\u2019 rises in Berlin immigrant communities as Left wins amid AfD gains",
       "URL": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains",
-      "Category": "Sports Results"
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Berlin"
+      ],
+      "TriggerCity": [
+        "Berlin"
+      ]
     },
     {
       "Headline": "Paramount reaches deal with California, other states over Warner merger",
       "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "California"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Paramount reaches deal with California, other states over Warner merger",
       "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
-      "Category": "Rumour"
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "California"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
       "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
       "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Voters in Nebraska battleground district divided over Trump",
       "URL": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Nebraska"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Rays clinch 5th AL East title with win at Yankee Stadium",
       "URL": "https://www.nbcnews.com/sports/mlb/rays-clinch-5th-al-east-title-with-6-1-victory-at-yankee-stadium-in-2nd-game-of-doubleheader-n1449279",
-      "Category": "Sports Results"
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "East"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
       "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "DoorDash reaches $131.5M settlement with New York City over delivery workers\u2019 pay",
       "URL": "https://www.nbcnews.com/business/business-news/doordash-settles-nyc-driver-pay-rcna599186",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": [
+        "New York City"
+      ]
     }
   ],
   "4": [
     {
       "Headline": "Eviction of 87-year-old woman sparks protests in Madrid",
       "URL": "https://www.dw.com/en/spain-madrid-protest-87-year-old-woman-evicted/a-79399342",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Madrid"
+      ]
     },
     {
       "Headline": "Rome's Colosseum closes after worker falls to his death",
       "URL": "https://www.dw.com/en/romes-colosseum-closes-after-worker-falls-to-his-death/a-79387180",
-      "Category": "Status Quo"
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Rome"
+      ]
     }
-  ]
+  ],
+  "locationOptions": {
+    "TriggerRegion": [
+      "Africa",
+      "EU"
+    ],
+    "TriggerCountry": [
+      "American",
+      "Argentina",
+      "Australia",
+      "China",
+      "Costa Rican",
+      "Ethiopian",
+      "Germany",
+      "India",
+      "Iran",
+      "Iranian",
+      "Ireland",
+      "Israel",
+      "Israeli",
+      "Mexican",
+      "Pakistan",
+      "Russia",
+      "Russian",
+      "Senegal",
+      "South Africa",
+      "Sudan",
+      "Syrian",
+      "U.S.",
+      "US",
+      "Ukraine",
+      "Ukrainian",
+      "Yemeni"
+    ],
+    "TriggerADM1": [
+      "Berlin",
+      "California",
+      "East",
+      "Gaza",
+      "Nebraska",
+      "New York",
+      "South",
+      "Tigray",
+      "car",
+      "southern"
+    ],
+    "TriggerCity": [
+      "Berlin",
+      "Madrid",
+      "New York City",
+      "Rome"
+    ]
+  }
 }

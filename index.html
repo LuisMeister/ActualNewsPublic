@@ -33,51 +33,92 @@
     </div>
 
     <main>
-        <section>
-            <h3>Current reporting location:</h3>
-            <p>[&#39;REGEX:.+&#39;], [&#39;REGEX:.+&#39;], [&#39;REGEX:.+&#39;], [&#39;REGEX:.+&#39;]</p>
+        <section class="location-picker">
+            <h3>Reporting location</h3>
+            <p class="location-hint">Pick any combination of places you care about &mdash; a headline shows if it matches ANY of your selections. Leave everything unselected to see all locations. Ctrl/Cmd-click (or shift-click) to select multiple values in a list.</p>
+            <div class="location-selects">
+                <label>Region
+                    <select id="select-TriggerRegion" multiple size="6"></select>
+                </label>
+                <label>Country
+                    <select id="select-TriggerCountry" multiple size="6"></select>
+                </label>
+                <label>Province / State
+                    <select id="select-TriggerADM1" multiple size="6"></select>
+                </label>
+                <label>City
+                    <select id="select-TriggerCity" multiple size="6"></select>
+                </label>
+            </div>
+            <button type="button" id="clear-location-btn" class="cat-btn">Clear location filters</button>
+            <p id="location-summary" class="location-hint">Showing: all locations</p>
         </section>
 
         <section>
-            <h2>Tier 1 ([&#39;REGEX:.+&#39;]) News</h2>
+            <h2>Tier 1 (Region) News</h2>
             <p id="excelOutput-Tier1">Excel data will appear here.</p>
         </section>
 
         <section>
-            <h2>Tier 2 ([&#39;REGEX:.+&#39;]) News</h2>
+            <h2>Tier 2 (Country) News</h2>
             <p id="excelOutput-Tier2">Excel data will appear here.</p>
         </section>
 
         <section>
-            <h2>Tier 3 ([&#39;REGEX:.+&#39;]) News</h2>
+            <h2>Tier 3 (Province / State) News</h2>
             <p id="excelOutput-Tier3">Excel data will appear here.</p>
         </section>
 
         <section>
-            <h2>Tier 4 ([&#39;REGEX:.+&#39;]) News</h2>
+            <h2>Tier 4 (City) News</h2>
             <p id="excelOutput-Tier4">Excel data will appear here.</p>
         </section>
     </main>
 
     <script>
         const TIERS = ["1", "2", "3", "4"];
+        const TRIGGER_COLS = ["TriggerRegion", "TriggerCountry", "TriggerADM1", "TriggerCity"];
+        const LOCATION_LABELS = {
+            TriggerRegion: "Region",
+            TriggerCountry: "Country",
+            TriggerADM1: "Province/State",
+            TriggerCity: "City"
+        };
+
         let newsData = {};
         let activeCategory = "all";
+        let activeLocations = Object.fromEntries(TRIGGER_COLS.map(col => [col, []]));
+
+        function matchesLocation(headline) {
+            const anySelected = TRIGGER_COLS.some(col => activeLocations[col].length > 0);
+            if (!anySelected) return true;
+            return TRIGGER_COLS.some(col =>
+                (headline[col] || []).some(value => activeLocations[col].includes(value))
+            );
+        }
+
+        function updateLocationSummary() {
+            const chosen = TRIGGER_COLS.flatMap(col =>
+                activeLocations[col].map(v => `${v} (${LOCATION_LABELS[col]})`)
+            );
+            document.getElementById("location-summary").textContent =
+                chosen.length ? `Showing: ${chosen.join(", ")}` : "Showing: all locations";
+        }
 
         function renderTiers() {
             TIERS.forEach(tier => {
                 const headlines = (newsData[tier] || []).filter(
-                    h => activeCategory === "all" || h.Category === activeCategory
+                    h => (activeCategory === "all" || h.Category === activeCategory) && matchesLocation(h)
                 );
                 const output = headlines.map(h =>
                     `<a href="${h.URL}" target="_blank" class="news-item">
                         ${h.Headline}
-                    </a>`).join("") || "No headlines in this category.";
+                    </a>`).join("") || "No headlines match your current filters.";
                 document.getElementById(`excelOutput-Tier${tier}`).innerHTML = output;
             });
         }
 
-        document.querySelectorAll(".cat-btn").forEach(btn => {
+        document.querySelectorAll(".cat-btn[data-category]").forEach(btn => {
             btn.addEventListener("click", () => {
                 document.querySelector(".cat-btn.active")?.classList.remove("active");
                 btn.classList.add("active");
@@ -86,10 +127,37 @@
             });
         });
 
+        TRIGGER_COLS.forEach(col => {
+            document.getElementById(`select-${col}`).addEventListener("change", (e) => {
+                activeLocations[col] = Array.from(e.target.selectedOptions).map(opt => opt.value);
+                updateLocationSummary();
+                renderTiers();
+            });
+        });
+
+        document.getElementById("clear-location-btn").addEventListener("click", () => {
+            TRIGGER_COLS.forEach(col => {
+                activeLocations[col] = [];
+                document.getElementById(`select-${col}`).querySelectorAll("option").forEach(opt => opt.selected = false);
+            });
+            updateLocationSummary();
+            renderTiers();
+        });
+
+        function populateLocationSelects(locationOptions) {
+            TRIGGER_COLS.forEach(col => {
+                const select = document.getElementById(`select-${col}`);
+                const values = (locationOptions && locationOptions[col]) || [];
+                select.innerHTML = values.map(v => `<option value="${v}">${v}</option>`).join("")
+                    || `<option disabled>No ${LOCATION_LABELS[col].toLowerCase()} data today</option>`;
+            });
+        }
+
         fetch("./data.json", { cache: "no-store" })
             .then(res => res.json())
             .then(data => {
                 newsData = data;
+                populateLocationSelects(data.locationOptions);
                 renderTiers();
             })
             .catch(err => {

@@ -159,3 +159,53 @@ img {
     color: #0f172a;
     border-color: #38bdf8;
 }
+
+/* ===== LOCATION PICKER ===== */
+.location-picker {
+    background: #1e293b;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    border: 1px solid #334155;
+}
+
+.location-hint {
+    color: #94a3b8;
+    font-size: 0.85rem;
+    margin: 8px 0;
+}
+
+.location-selects {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.location-selects label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    flex: 1 1 150px;
+}
+
+.location-selects select {
+    background: #0f172a;
+    color: #e2e8f0;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 6px;
+    font-family: inherit;
+    font-size: 0.85rem;
+}
+
+.location-selects select option {
+    padding: 3px 6px;
+}
+
+.location-selects select option:checked {
+    background: #38bdf8;
+    color: #0f172a;
+}
