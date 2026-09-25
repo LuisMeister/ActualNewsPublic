@@ -435,9 +435,7 @@
       "Headline": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
       "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
       "Category": "Rumour",
-      "TriggerRegion": [
-        "Africa"
-      ],
+      "TriggerRegion": [],
       "TriggerCountry": [
         "South Africa"
       ],
@@ -450,9 +448,7 @@
       "Headline": "3 shooters kill at least 11 at a house party in South Africa, police say",
       "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
       "Category": "Rumour",
-      "TriggerRegion": [
-        "Africa"
-      ],
+      "TriggerRegion": [],
       "TriggerCountry": [
         "South Africa"
       ],
@@ -683,7 +679,6 @@
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "Africa",
       "EU"
     ],
     "TriggerCountry": [
