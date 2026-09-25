@@ -175,37 +175,111 @@ img {
     margin: 8px 0;
 }
 
-.location-selects {
+
+/* ===== LOCATION TOOLBAR ===== */
+.location-toolbar {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+/* ===== LOCATION DROPDOWNS ===== */
+.location-dropdowns {
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
     margin: 10px 0;
 }
 
-.location-selects label {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    font-size: 0.85rem;
-    color: #94a3b8;
-    flex: 1 1 150px;
+.location-dropdown {
+    position: relative;
+    flex: 1 1 180px;
 }
 
-.location-selects select {
+.dropdown-toggle {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
     background: #0f172a;
     color: #e2e8f0;
     border: 1px solid #334155;
     border-radius: 8px;
-    padding: 6px;
+    padding: 8px 12px;
     font-family: inherit;
     font-size: 0.85rem;
+    cursor: pointer;
+    transition: 0.2s;
 }
 
-.location-selects select option {
-    padding: 3px 6px;
+.dropdown-toggle:hover {
+    border-color: #38bdf8;
 }
 
-.location-selects select option:checked {
+.dropdown-count {
+    color: #38bdf8;
+    font-weight: 600;
+}
+
+.dropdown-caret {
+    color: #64748b;
+    font-size: 0.75rem;
+}
+
+.dropdown-panel {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    right: 0;
+    z-index: 20;
+    background: #0f172a;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+.dropdown-search {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
+    background: #0f172a;
+    color: #e2e8f0;
+    border: none;
+    border-bottom: 1px solid #334155;
+    padding: 8px 12px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    outline: none;
+}
+
+.dropdown-options {
+    padding: 4px 0;
+}
+
+.dropdown-option {
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    color: #e2e8f0;
+}
+
+.dropdown-option:hover {
+    background: #1e293b;
+}
+
+.dropdown-option.selected {
     background: #38bdf8;
     color: #0f172a;
+    font-weight: 600;
+}
+
+.dropdown-empty {
+    padding: 8px 12px;
+    font-size: 0.85rem;
+    color: #64748b;
 }

@@ -35,22 +35,41 @@
     <main>
         <section class="location-picker">
             <h3>Reporting location</h3>
-            <p class="location-hint">Pick any combination of places you care about &mdash; a headline shows if it matches ANY of your selections. Leave everything unselected to see all locations. Ctrl/Cmd-click (or shift-click) to select multiple values in a list.</p>
-            <div class="location-selects">
-                <label>Region
-                    <select id="select-TriggerRegion" multiple size="6"></select>
-                </label>
-                <label>Country
-                    <select id="select-TriggerCountry" multiple size="6"></select>
-                </label>
-                <label>Province / State
-                    <select id="select-TriggerADM1" multiple size="6"></select>
-                </label>
-                <label>City
-                    <select id="select-TriggerCity" multiple size="6"></select>
-                </label>
+            <p class="location-hint">Pick any combination of places you care about &mdash; a headline shows if it matches ANY of your selections. Leave everything unselected to see all locations.</p>
+            <div class="location-toolbar">
+                <button type="button" id="location-scope-toggle" class="cat-btn">Showing: today's locations only</button>
+                <button type="button" id="clear-location-btn" class="cat-btn">Clear location filters</button>
             </div>
-            <button type="button" id="clear-location-btn" class="cat-btn">Clear location filters</button>
+            <div class="location-dropdowns">
+                <div class="location-dropdown" data-col="TriggerRegion">
+                    <button type="button" class="dropdown-toggle">Region <span class="dropdown-count"></span> <span class="dropdown-caret">&#9662;</span></button>
+                    <div class="dropdown-panel" hidden>
+                        <input type="text" class="dropdown-search" placeholder="Search regions...">
+                        <div class="dropdown-options"></div>
+                    </div>
+                </div>
+                <div class="location-dropdown" data-col="TriggerCountry">
+                    <button type="button" class="dropdown-toggle">Country <span class="dropdown-count"></span> <span class="dropdown-caret">&#9662;</span></button>
+                    <div class="dropdown-panel" hidden>
+                        <input type="text" class="dropdown-search" placeholder="Search countries...">
+                        <div class="dropdown-options"></div>
+                    </div>
+                </div>
+                <div class="location-dropdown" data-col="TriggerADM1">
+                    <button type="button" class="dropdown-toggle">Province / State <span class="dropdown-count"></span> <span class="dropdown-caret">&#9662;</span></button>
+                    <div class="dropdown-panel" hidden>
+                        <input type="text" class="dropdown-search" placeholder="Search provinces...">
+                        <div class="dropdown-options"></div>
+                    </div>
+                </div>
+                <div class="location-dropdown" data-col="TriggerCity">
+                    <button type="button" class="dropdown-toggle">City <span class="dropdown-count"></span> <span class="dropdown-caret">&#9662;</span></button>
+                    <div class="dropdown-panel" hidden>
+                        <input type="text" class="dropdown-search" placeholder="Search cities...">
+                        <div class="dropdown-options"></div>
+                    </div>
+                </div>
+            </div>
             <p id="location-summary" class="location-hint">Showing: all locations</p>
         </section>
 
@@ -111,8 +130,8 @@
                     h => (activeCategory === "all" || h.Category === activeCategory) && matchesLocation(h)
                 );
                 const output = headlines.map(h =>
-                    `<a href="${h.URL}" target="_blank" class="news-item">
-                        ${h.Headline}
+                    `<a href="${escapeHtml(h.URL)}" target="_blank" class="news-item">
+                        ${escapeHtml(h.Headline)}
                     </a>`).join("") || "No headlines match your current filters.";
                 document.getElementById(`excelOutput-Tier${tier}`).innerHTML = output;
             });
@@ -127,37 +146,109 @@
             });
         });
 
-        TRIGGER_COLS.forEach(col => {
-            document.getElementById(`select-${col}`).addEventListener("change", (e) => {
-                activeLocations[col] = Array.from(e.target.selectedOptions).map(opt => opt.value);
+        // --- Location dropdowns ---
+        let showAllLocations = false;
+
+        function escapeHtml(str) {
+            return String(str).replace(/[&<>"']/g, c => ({
+                "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+            }[c]));
+        }
+
+        function currentOptionsFor(col) {
+            const source = showAllLocations ? newsData.allLocations : newsData.locationOptions;
+            return (source && source[col]) || [];
+        }
+
+        function updateDropdownCount(col) {
+            const badge = document.querySelector(`.location-dropdown[data-col="${col}"] .dropdown-count`);
+            const n = activeLocations[col].length;
+            badge.textContent = n ? `(${n})` : "";
+        }
+
+        function renderDropdownOptions(col, searchTerm = "") {
+            const container = document.querySelector(`.location-dropdown[data-col="${col}"] .dropdown-options`);
+            const term = searchTerm.trim().toLowerCase();
+            const values = currentOptionsFor(col).filter(v => !term || v.toLowerCase().includes(term));
+            container.innerHTML = values.map(v => {
+                const selectedClass = activeLocations[col].includes(v) ? " selected" : "";
+                return `<div class="dropdown-option${selectedClass}" data-value="${escapeHtml(v)}">${escapeHtml(v)}</div>`;
+            }).join("") || `<div class="dropdown-empty">No matches</div>`;
+            updateDropdownCount(col);
+        }
+
+        function closeAllDropdowns(except) {
+            document.querySelectorAll(".location-dropdown .dropdown-panel").forEach(panel => {
+                if (panel !== except) panel.setAttribute("hidden", "");
+            });
+        }
+
+        document.querySelectorAll(".location-dropdown").forEach(dropdownEl => {
+            const col = dropdownEl.dataset.col;
+            const toggleBtn = dropdownEl.querySelector(".dropdown-toggle");
+            const panel = dropdownEl.querySelector(".dropdown-panel");
+            const searchInput = dropdownEl.querySelector(".dropdown-search");
+            const optionsContainer = dropdownEl.querySelector(".dropdown-options");
+
+            toggleBtn.addEventListener("click", (e) => {
+                e.stopPropagation();
+                const wasHidden = panel.hasAttribute("hidden");
+                closeAllDropdowns();
+                if (wasHidden) {
+                    panel.removeAttribute("hidden");
+                    searchInput.value = "";
+                    renderDropdownOptions(col);
+                    searchInput.focus();
+                }
+            });
+
+            searchInput.addEventListener("click", (e) => e.stopPropagation());
+            searchInput.addEventListener("input", (e) => renderDropdownOptions(col, e.target.value));
+
+            optionsContainer.addEventListener("click", (e) => {
+                const optEl = e.target.closest(".dropdown-option");
+                if (!optEl) return;
+                const value = optEl.dataset.value;
+                const idx = activeLocations[col].indexOf(value);
+                if (idx === -1) activeLocations[col].push(value);
+                else activeLocations[col].splice(idx, 1);
+                optEl.classList.toggle("selected");
+                updateDropdownCount(col);
                 updateLocationSummary();
                 renderTiers();
+            });
+        });
+
+        document.addEventListener("click", (e) => {
+            if (!e.target.closest(".location-dropdown")) closeAllDropdowns();
+        });
+
+        document.getElementById("location-scope-toggle").addEventListener("click", (e) => {
+            showAllLocations = !showAllLocations;
+            e.currentTarget.textContent = showAllLocations
+                ? "Showing: all possible locations"
+                : "Showing: today's locations only";
+            TRIGGER_COLS.forEach(col => {
+                const searchInput = document.querySelector(`.location-dropdown[data-col="${col}"] .dropdown-search`);
+                renderDropdownOptions(col, searchInput.value);
             });
         });
 
         document.getElementById("clear-location-btn").addEventListener("click", () => {
             TRIGGER_COLS.forEach(col => {
                 activeLocations[col] = [];
-                document.getElementById(`select-${col}`).querySelectorAll("option").forEach(opt => opt.selected = false);
+                const searchInput = document.querySelector(`.location-dropdown[data-col="${col}"] .dropdown-search`);
+                renderDropdownOptions(col, searchInput.value);
             });
             updateLocationSummary();
             renderTiers();
         });
 
-        function populateLocationSelects(locationOptions) {
-            TRIGGER_COLS.forEach(col => {
-                const select = document.getElementById(`select-${col}`);
-                const values = (locationOptions && locationOptions[col]) || [];
-                select.innerHTML = values.map(v => `<option value="${v}">${v}</option>`).join("")
-                    || `<option disabled>No ${LOCATION_LABELS[col].toLowerCase()} data today</option>`;
-            });
-        }
-
         fetch("./data.json", { cache: "no-store" })
             .then(res => res.json())
             .then(data => {
                 newsData = data;
-                populateLocationSelects(data.locationOptions);
+                TRIGGER_COLS.forEach(col => renderDropdownOptions(col));
                 renderTiers();
             })
             .catch(err => {
