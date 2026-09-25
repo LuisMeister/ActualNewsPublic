@@ -104,6 +104,19 @@
       "TriggerCity": []
     },
     {
+      "Headline": "9,Poland boosts air defence after \u2018Russian provocations\u2019 amid Ukraine war",
+      "URL": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Poland",
+        "Russian",
+        "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Iran\u2019s president says Tehran wants a deal with U.S. before midterm elections",
       "URL": "https://www.nbcnews.com/world/iran/irans-president-says-tehran-wants-deal-us-midterm-elections-rcna599638",
       "Category": "Rumour",
@@ -116,19 +129,6 @@
       "TriggerCity": []
     },
     {
-      "Headline": "US politics liveTrump told Xi Jinping that China helping Iran is \u2018unacceptable\u2019, official says",
-      "URL": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US",
-        "China",
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
       "Headline": "AnalysisPomp over progress in Xi\u2019s US summit with Trump is a win for China",
       "URL": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
       "Category": "CONFLICT",
@@ -136,19 +136,6 @@
       "TriggerCountry": [
         "US",
         "China"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Nepal-Tibet flood disasterNepal\u2019s PM says flash flood was \u2018warning to world\u2019 as he scolds leaders at UN over climate change",
-      "URL": "https://www.theguardian.com/world/2026/sep/25/nepal-pm-flash-floods-warning-to-world-climate-change",
-      "Category": "Rumour",
-      "TriggerRegion": [
-        "sco"
-      ],
-      "TriggerCountry": [
-        "Nepal"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -178,34 +165,12 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Germany news: Parliament approves fuel tax cut",
-      "URL": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
       "Headline": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. DW has the latest.",
       "URL": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
         "German"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "India news: Protests over 'rigged' elections escalate",
-      "URL": "https://www.dw.com/en/india-news-cockroach-party-rahul-ghandi-claim-elections-rigged/live-79422469",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -219,19 +184,6 @@
         "Italy"
       ],
       "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ethiopia: Internet disrupted in Tigray amid conflict",
-      "URL": "https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ethiopia"
-      ],
-      "TriggerADM1": [
-        "Tigray"
-      ],
       "TriggerCity": []
     },
     {
@@ -323,21 +275,6 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": []
-    },
-    {
-      "Headline": "Germany news: Berlin officially withdraws Olympics bid",
-      "URL": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Germany"
-      ],
-      "TriggerADM1": [
-        "Berlin"
-      ],
-      "TriggerCity": [
-        "Berlin"
-      ]
     },
     {
       "Headline": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
@@ -459,14 +396,14 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Meta CEO says it will lead on smart glasses privacy despite \u2018pervert glasses\u2019 criticism",
-      "URL": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-meta-audio-glasses-privacy-camera-ai-rcna599285",
-      "Category": "Rumour",
+      "Headline": "10,Ethiopia\u2019s new rebel alliance faces an old problem",
+      "URL": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem",
+      "Category": "Status Quo",
       "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Meta"
+      "TriggerCountry": [
+        "Ethiopia"
       ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -487,28 +424,6 @@
       "TriggerRegion": [],
       "TriggerCountry": [
         "Greece"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Nepal\u2019s leader, at U.N., says floods serve as a \u2018warning to the world\u2019 about climate change",
-      "URL": "https://www.nbcnews.com/world/asia/nepal-leader-un-says-recent-floods-serve-warning-world-climate-change-rcna599787",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Nepal"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Senate rejects resolution calling to end Iran war as most Republicans stick with Trump",
-      "URL": "https://www.nbcnews.com/politics/congress/senate-rejects-resolution-calling-end-iran-war-republicans-stick-trump-rcna599624",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -582,27 +497,14 @@
       "TriggerCity": []
     },
     {
-      "Headline": "New YorkSusan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
-      "URL": "https://www.theguardian.com/us-news/2026/sep/25/susan-sarandon-hannah-einbinder-arrested-anti-netanyahu-protest-new-york",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "New York"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "double quotation mark#NotAllLesbians \u2013 we can\u2019t let the Massachusetts bar drama turn us all into a punchline",
-      "URL": "https://www.theguardian.com/global/commentisfree/2026/sep/24/last-ditch-bar-lesbian-massachusetts-viral",
+      "Headline": "Novelist accused of using AI to write book removed from French prize list",
+      "URL": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "us"
+        "French"
       ],
-      "TriggerADM1": [
-        "Massachusetts"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -622,6 +524,19 @@
       "Headline": "The Left won the Berlin election partly by promising to implement an expropriation referendum to solve the rent crisis.",
       "URL": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683",
       "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Berlin"
+      ],
+      "TriggerCity": [
+        "Berlin"
+      ]
+    },
+    {
+      "Headline": "Berlin officially withdraws Olympics bid",
+      "URL": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294",
+      "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -717,8 +632,7 @@
     "TriggerRegion": [
       "Europe",
       "Global South",
-      "NATO",
-      "sco"
+      "NATO"
     ],
     "TriggerCountry": [
       "Belarus",
@@ -731,7 +645,6 @@
       "German",
       "Germany",
       "Greece",
-      "India",
       "Iran",
       "Iranian",
       "Iraq",
@@ -744,7 +657,6 @@
       "Japan",
       "Lebanon",
       "Lithuanian",
-      "Nepal",
       "Netherlands",
       "Pakistan",
       "Pakistani",
@@ -758,20 +670,15 @@
       "US",
       "Ukraine",
       "Yemen",
-      "Yemeni",
-      "us"
+      "Yemeni"
     ],
     "TriggerADM1": [
       "Berlin",
       "Manchester",
-      "Massachusetts",
-      "Meta",
       "Nebraska",
       "New Jersey",
-      "New York",
       "Pennsylvania",
       "South",
-      "Tigray",
       "West"
     ],
     "TriggerCity": [
