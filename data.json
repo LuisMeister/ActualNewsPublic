@@ -1,135 +1,87 @@
 {
   "1": [
     {
-      "Headline": "The US, Iran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
-      "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506",
+      "Headline": "Leaders from Pakistan and Iraq are also set to speak on the meeting's fourth day.",
+      "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US",
-        "Iran",
-        "Iran"
+        "Pakistan",
+        "Iraq"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "US Air Force fighter jet crashes near air base in Germany",
-      "URL": "https://www.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US",
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
-      "URL": "https://www.dw.com/en/eu-sanctions-alisher-usmanov-mikhail-fridman/a-79381048",
+      "Headline": "Lithuanian prime minister urges stronger NATO air defense",
+      "URL": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394",
       "Category": "Status Quo",
       "TriggerRegion": [
-        "EU"
+        "NATO"
       ],
       "TriggerCountry": [
-        "Russian"
+        "Lithuanian"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Despite flurry of New York diplomacy, US-Iran deal remains elusive",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
+      "Headline": "Prime Minister Mindaugas Sinkevicius outlined threats from Russia and Belarus, and NATO's need for stronger air defense.",
+      "URL": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394",
+      "Category": "CONFLICT",
+      "TriggerRegion": [
+        "NATO"
+      ],
+      "TriggerCountry": [
+        "Russia",
+        "Belarus"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "J\u00fcrgen Klopp starts Germany job with shaky Netherlands draw",
+      "URL": "https://www.dw.com/en/j\u00fcrgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US",
-        "Iran"
-      ],
-      "TriggerADM1": [
-        "New York"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Russia\u2019s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia",
-        "Ukraine"
+        "Germany",
+        "Netherlands"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Pakistan\u2019s latest Trump bet is on drone firm already selling to India",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Pakistan",
-        "India"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "4,Pakistan\u2019s latest Trump bet is on drone firm already selling to India",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Pakistan",
-        "India"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "6,Despite flurry of New York diplomacy, US-Iran deal remains elusive",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
+      "Headline": "Iraq\u2019s PM promises to increase crude oil production, Pakistan speaks soon",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US",
-        "Iran"
+        "Iraq",
+        "Pakistan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "The Trump-Xi summit exposes a US disadvantage in the Global South",
+      "URL": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south",
+      "Category": "CONFLICT",
+      "TriggerRegion": [
+        "Global South"
+      ],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [
-        "New York"
+        "South"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "10,Russia\u2019s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia",
-        "Ukraine"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "U.S. warns Australia\u2019s social media algorithm reforms risk \u2018facilitating censorship\u2019",
-      "URL": "https://www.nbcnews.com/world/asia/us-warns-australia-social-media-algorithm-reforms-risk-censorship-rcna599355",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S.",
-        "Australia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ireland manager gets prime minister Martin\u2019s backing in row with Israel over \u2018genocide\u2019",
-      "URL": "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza",
-      "Category": "CONFLICT",
+      "Headline": "\u2018Stop the game\u2019: Understanding the controversy behind Ireland vs Israel",
+      "URL": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained",
+      "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Ireland",
@@ -137,67 +89,99 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": []
-    }
-  ],
-  "2": [
+    },
     {
-      "Headline": "China's new travel rules unsettle tech giants and talent",
-      "URL": "https://www.dw.com/en/chinas-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937",
+      "Headline": "4,Iran pitches seven-day roadmap to end conflict with US",
+      "URL": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran",
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "7,Iraq\u2019s PM promises to increase crude oil production, Pakistan speaks soon",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
+        "Iraq",
+        "Pakistan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Iran\u2019s president says Tehran wants a deal with U.S. before midterm elections",
+      "URL": "https://www.nbcnews.com/world/iran/irans-president-says-tehran-wants-deal-us-midterm-elections-rcna599638",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran",
+        "U.S."
+      ],
+      "TriggerADM1": [
+        "Tehran"
+      ],
+      "TriggerCity": [
+        "Tehran"
+      ]
+    },
+    {
+      "Headline": "AnalysisPomp over progress in Xi\u2019s US summit with Trump is a win for China",
+      "URL": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
         "China"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Warnings of famine grow in Ukrainian town of Oleshky",
-      "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887",
+      "Headline": "Nepal-Tibet flood disasterNepal\u2019s PM says flash flood was \u2018warning to world\u2019 as he scolds leaders at UN over climate change",
+      "URL": "https://www.theguardian.com/world/2026/sep/25/nepal-pm-flash-floods-warning-to-world-climate-change",
       "Category": "Rumour",
-      "TriggerRegion": [],
+      "TriggerRegion": [
+        "sco"
+      ],
       "TriggerCountry": [
-        "Ukrainian"
+        "Nepal"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "The Syrian government announces economic prosperity. But ordinary Syrians say their lives are getting worse.",
-      "URL": "https://www.dw.com/en/is-syrias-new-economy-for-the-rich-only/a-79378442",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Syrian"
+      "Headline": "FifaTop European leagues heighten pressure on Infantino with call for major changes at Fifa",
+      "URL": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
+      "Category": "Status Quo",
+      "TriggerRegion": [
+        "Europe"
       ],
+      "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
-    },
+    }
+  ],
+  "2": [
     {
-      "Headline": "Argentina loses 33 companies a day under Javier Milei",
-      "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633",
-      "Category": "Sports Results",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Argentina"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Thousands of firms have shut down as costs climb and demand falls across Argentina.",
-      "URL": "https://www.dw.com/en/argentina-loses-33-companies-a-day-under-javier-milei/video-79357633",
+      "Headline": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
+      "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Argentina"
+        "Lebanon"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "As Germany enters winter with unusually low gas storage levels, questions are being raised about supply and prices.",
-      "URL": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317",
+      "Headline": "Germany news: Parliament approves fuel tax cut",
+      "URL": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -207,23 +191,185 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Iran war spreads through region as Trump seeks way out",
-      "URL": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506",
+      "Headline": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. DW has the latest.",
+      "URL": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iran"
+        "German"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "The US president has announced plans for a new government body as AI industry leaders warn of growing risks.",
-      "URL": "https://www.dw.com/en/trump-announces-creation-of-new-ai-force/video-79375872",
-      "Category": "Rumour",
+      "Headline": "India news: Protests over 'rigged' elections escalate",
+      "URL": "https://www.dw.com/en/india-news-cockroach-party-rahul-ghandi-claim-elections-rigged/live-79422469",
+      "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "India"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Italy to ban burqa in schools, limit foreign pupils",
+      "URL": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Italy"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ethiopia: Internet disrupted in Tigray amid conflict",
+      "URL": "https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ethiopia"
+      ],
+      "TriggerADM1": [
+        "Tigray"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "The German economy is growing again, thanks to high government spending, but recovery remains on shaky ground.",
+      "URL": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "German"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Yemen's Saudi-Houthi clash fuels humanitarian crisis",
+      "URL": "https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen",
+        "Saudi"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "With over 132,000 people already displaced by the latest fighting, Yemen is sliding back into a humanitarian emergency.",
+      "URL": "https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ecuador struggles to stop violence against women",
+      "URL": "https://www.dw.com/en/ecuador-struggles-to-stop-violence-against-women/video-79415231",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ecuador"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "France sends troops as Houthi attacks threaten Saudi oil",
+      "URL": "https://www.dw.com/en/france-sends-troops-as-houthi-attacks-threaten-saudi-oil/video-79438534",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France",
+        "Saudi"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Germany sets out plan to phase out fossil fuels by 2045",
+      "URL": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Germany"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "As pope visits France, sex abuse survivor hopes for healing",
+      "URL": "https://www.dw.com/en/as-pope-visits-france-sex-abuse-survivor-hopes-for-healing/video-79437701",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "During Pope Leo's visit to France, one stop will be to meet with child survivors of sexual abuse by Catholic priests.",
+      "URL": "https://www.dw.com/en/as-pope-visits-france-sex-abuse-survivor-hopes-for-healing/video-79437701",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Gang warfare in Ecuador fuels wave of femicides",
+      "URL": "https://www.dw.com/en/gang-warfare-in-ecuador-fuels-wave-of-femicides/video-79401557",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ecuador"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Germany news: Berlin officially withdraws Olympics bid",
+      "URL": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Germany"
+      ],
+      "TriggerADM1": [
+        "Berlin"
+      ],
+      "TriggerCity": [
+        "Berlin"
+      ]
+    },
+    {
+      "Headline": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
+      "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Lebanon"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "While perpetual traffic jams gridlock the Italian capital, Florence pays commuters to switch to bicycles.",
+      "URL": "https://www.dw.com/en/romes-traffic-chaos-could-a-biking-bonus-help/video-79332943",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Italian"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -240,238 +386,181 @@
       "TriggerCity": []
     },
     {
-      "Headline": "UNGA 2026: Pezeshkian responds to Trump, says Iran \u2018victim of terrorism\u2019",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak",
-      "Category": "Rumour",
+      "Headline": "Turkish, Pakistani and Saudi army chiefs meet as Yemeni forces claim gains",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
+      "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Rubio says any deal with Iran will involve hard work over a period of time",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Yemeni government in military and diplomatic push to reverse Houthi gains",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
+        "Turkish",
+        "Pakistani",
+        "Saudi",
         "Yemeni"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Syrian president warns Israeli attacks endanger delicate post-war recovery",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Syrian",
-        "Israeli"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Tigray forces launch offensive against Ethiopian government",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports",
+      "Headline": "Israeli shelling continues as Lebanon\u2019s PM demands withdrawal in UN speech",
+      "URL": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ethiopian"
+        "Israeli",
+        "Lebanon"
       ],
-      "TriggerADM1": [
-        "Tigray"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Undermining the UN is not a new US policy",
-      "URL": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy",
+      "Headline": "Ethiopia\u2019s new rebel alliance faces an old problem",
+      "URL": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "Ethiopia"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "In Senegal, a mother\u2019s ordeal exposes a health system under strain",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/in-senegal-a-mothers-ordeal-exposes-a-health-system-under-strain",
+      "Headline": "1,Turkish, Pakistani and Saudi army chiefs meet as Yemeni forces claim gains",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Turkish",
+        "Pakistani",
+        "Saudi",
+        "Yemeni"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "10,Japan moves to tighten rules for foreigners, throwing futures into doubt",
+      "URL": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Senegal"
+        "Japan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018Deadly hazards\u2019: Behind Sudan gold mine collapse, a wartime desperation",
-      "URL": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sudan"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "1,UNGA 2026: Pezeshkian responds to Trump, says Iran \u2018victim of terrorism\u2019",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "2,Rubio says any deal with Iran will involve hard work over a period of time",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "9,Tigray forces launch offensive against Ethiopian government",
-      "URL": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ethiopian"
-      ],
-      "TriggerADM1": [
-        "Tigray"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "NBC News\u2019 Matt Bradley on Iranian leader\u2019s address",
-      "URL": "https://www.nbcnews.com/video/iranian-president-claims-they-are-victims-of-terrorism-in-united-nations-speech-270370373894",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iranian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "China expands export controls on drug precursors ahead of Trump-Xi meeting",
-      "URL": "https://www.nbcnews.com/world/asia/china-expands-export-controls-drug-precursors-ahead-trump-xi-meeting-rcna599342",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "China"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
-      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Costa Rican"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
-      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Costa Rican"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
-      "URL": "https://www.nbcnews.com/news/us-news/costa-rican-man-complained-lack-care-diabetes-death-ice-custody-family-rcna599374",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Costa Rican"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Simone Biles says three masked men burglarized her home and stole her car",
-      "URL": "https://www.nbcnews.com/news/us-news/simone-biles-says-three-masked-men-burglarized-home-stole-car-rcna599299",
+      "Headline": "Meta CEO says it will lead on smart glasses privacy despite \u2018pervert glasses\u2019 criticism",
+      "URL": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-meta-audio-glasses-privacy-camera-ai-rcna599285",
       "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "car"
+        "Meta"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
-      "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
+      "Headline": "Japan says Trump voiced concern over weak yen in summit with PM Sanae Takaichi",
+      "URL": "https://www.nbcnews.com/world/asia/japan-says-trump-voiced-concern-weak-yen-summit-pm-takaichi-rcna599791",
       "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "South Africa"
-      ],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "3 shooters kill at least 11 at a house party in South Africa, police say",
-      "URL": "https://www.nbcnews.com/world/africa/mass-shooting-house-south-africa-leaves-11-dead-3-wounded-police-say-rcna599348",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "South Africa"
-      ],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Polo off Mexican coast is among \u2018the strongest storms ever\u2019 as Odalys becomes a hurricane",
-      "URL": "https://www.nbcnews.com/news/us-news/hurricane-polo-one-strongest-storms-ever-churning-mexicos-pacific-coas-rcna599354",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Mexican"
+        "Japan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "VenezuelaDelcy Rodr\u00edguez poses with Trump in New York as Maduro languishes in jail nearby",
-      "URL": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
+      "Headline": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building",
+      "URL": "https://www.nbcnews.com/world/europe/explosion-acropolis-greece-injures-least-2-people-collapses-building-rcna599790",
       "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Greece"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Nepal\u2019s leader, at U.N., says floods serve as a \u2018warning to the world\u2019 about climate change",
+      "URL": "https://www.nbcnews.com/world/asia/nepal-leader-un-says-recent-floods-serve-warning-world-climate-change-rcna599787",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Nepal"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Senate rejects resolution calling to end Iran war as most Republicans stick with Trump",
+      "URL": "https://www.nbcnews.com/politics/congress/senate-rejects-resolution-calling-end-iran-war-republicans-stick-trump-rcna599624",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "White House says new pro-Trump ad funded by the \u2018U.S. government\u2019 is a \u2018public service announcement\u2019",
+      "URL": "https://www.nbcnews.com/politics/donald-trump/white-house-trump-ad-public-service-announcement-rcna599730",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S."
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Netanyahu calls genocide accusations a lie, defends Iran war in defiant U.N. address",
+      "URL": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building",
+      "URL": "https://www.nbcnews.com/world/europe/explosion-acropolis-greece-injures-least-2-people-collapses-building-rcna599790",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Greece"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Nations LeagueIsrael\u2019s Abu Farchi sent off for corner flag celebration in defeat by Austria",
+      "URL": "https://www.theguardian.com/football/2026/sep/24/israel-saied-abu-farchi-sent-off-gun-gesture-celebration-austria-nations-league",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Austria"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Netherlands 1-1 GermanyGakpo denies Klopp perfect start as Xavi\u2019s side rescue draw",
+      "URL": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Netherlands"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "New YorkSusan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York",
+      "URL": "https://www.theguardian.com/us-news/2026/sep/25/susan-sarandon-hannah-einbinder-arrested-anti-netanyahu-protest-new-york",
+      "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -480,51 +569,31 @@
       "TriggerCity": []
     },
     {
-      "Headline": "US mediaFormer Fox News host Gretchen Carlson on press under Trump: \u2018It\u2019s my hope journalists will start speaking up\u2019",
-      "URL": "https://www.theguardian.com/us-news/2026/sep/23/gretchen-carlson-trump-media-ban",
+      "Headline": "double quotation mark#NotAllLesbians \u2013 we can\u2019t let the Massachusetts bar drama turn us all into a punchline",
+      "URL": "https://www.theguardian.com/global/commentisfree/2026/sep/24/last-ditch-bar-lesbian-massachusetts-viral",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "us"
       ],
-      "TriggerADM1": [],
+      "TriggerADM1": [
+        "Massachusetts"
+      ],
       "TriggerCity": []
     },
     {
-      "Headline": "US politicsRepublican jitters grow as unpopular Trump fuels midterm \u2018bloodbath\u2019 fears",
-      "URL": "https://www.theguardian.com/us-news/2026/sep/23/trump-republicans-midterms",
+      "Headline": "Novelist accused of using AI to write book removed from French prize list",
+      "URL": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Leander SchaerlaeckensChelsea are in realm of late-stage American sports capitalism",
-      "URL": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "American"
+        "French"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     }
   ],
   "3": [
-    {
-      "Headline": "Trump's Board of Peace proposes $2.45B to rebuild Gaza",
-      "URL": "https://www.dw.com/en/gaza-board-of-peace-proposal-trump/a-79401612",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Gaza"
-      ],
-      "TriggerCity": []
-    },
     {
       "Headline": "The Left won the Berlin election partly by promising to implement an expropriation referendum to solve the rent crisis.",
       "URL": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683",
@@ -539,70 +608,13 @@
       ]
     },
     {
-      "Headline": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May.",
-      "URL": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887",
+      "Headline": "New Jersey\u2019s governor calls on her lieutenant governor to resign over ethics report",
+      "URL": "https://www.nbcnews.com/politics/politics-news/new-jerseys-governor-calls-lieutenant-governor-resign-ethics-report-rcna599771",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "southern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018Hope\u2019 rises in Berlin immigrant communities as Left wins amid AfD gains",
-      "URL": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains",
-      "Category": "Sports Results",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Berlin"
-      ],
-      "TriggerCity": [
-        "Berlin"
-      ]
-    },
-    {
-      "Headline": "Paramount reaches deal with California, other states over Warner merger",
-      "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "California"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Paramount reaches deal with California, other states over Warner merger",
-      "URL": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "California"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
-      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "New York"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
-      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "New York"
+        "New Jersey"
       ],
       "TriggerCity": []
     },
@@ -618,114 +630,138 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Rays clinch 5th AL East title with win at Yankee Stadium",
-      "URL": "https://www.nbcnews.com/sports/mlb/rays-clinch-5th-al-east-title-with-6-1-victory-at-yankee-stadium-in-2nd-game-of-doubleheader-n1449279",
-      "Category": "Sports Results",
+      "Headline": "As measles surges in Pennsylvania, doctors warn about a new condition affecting babies",
+      "URL": "https://www.nbcnews.com/health/health-news/congenital-measles-pennsylvania-outbreak-grows-babies-infected-rcna599431",
+      "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "East"
+        "Pennsylvania"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
-      "URL": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
+      "Headline": "Manchester City found guilty of breaking Premier League\u2019s financial fair play rules",
+      "URL": "https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "New York"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "DoorDash reaches $131.5M settlement with New York City over delivery workers\u2019 pay",
-      "URL": "https://www.nbcnews.com/business/business-news/doordash-settles-nyc-driver-pay-rcna599186",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "New York"
+        "Manchester"
       ],
       "TriggerCity": [
-        "New York City"
+        "Manchester"
       ]
+    },
+    {
+      "Headline": "\u2018I\u2019d strip for \u00a3100!\u2019 Dominic West and Sienna Miller on nudity, narcissism and their juicy new show War",
+      "URL": "https://www.theguardian.com/tv-and-radio/2026/sep/25/sienna-miller-and-dominic-west-interview-war",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "West"
+      ],
+      "TriggerCity": []
     }
   ],
   "4": [
     {
-      "Headline": "Eviction of 87-year-old woman sparks protests in Madrid",
-      "URL": "https://www.dw.com/en/spain-madrid-protest-87-year-old-woman-evicted/a-79399342",
+      "Headline": "The discovery of nine murdered women near Johannesburg has ignited protests over government inaction on femicide.",
+      "URL": "https://www.dw.com/en/south-african-women-demand-action-on-gender-based-violence/video-79425433",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Madrid"
+        "Johannesburg"
       ]
     },
     {
-      "Headline": "Rome's Colosseum closes after worker falls to his death",
-      "URL": "https://www.dw.com/en/romes-colosseum-closes-after-worker-falls-to-his-death/a-79387180",
+      "Headline": "Tall, dark and hated: plan to renovate \u2018Paris\u2019s ugliest building\u2019 put on hold",
+      "URL": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Rome"
+        "Paris"
+      ]
+    },
+    {
+      "Headline": "Tall, dark and hated: plan to renovate \u2018Paris\u2019s ugliest building\u2019 put on hold",
+      "URL": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Paris"
       ]
     }
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "EU"
+      "Europe",
+      "Global South",
+      "NATO",
+      "sco"
     ],
     "TriggerCountry": [
-      "American",
-      "Argentina",
-      "Australia",
+      "Austria",
+      "Belarus",
       "China",
-      "Costa Rican",
-      "Ethiopian",
+      "Ecuador",
+      "Ethiopia",
+      "France",
+      "French",
+      "German",
       "Germany",
+      "Greece",
       "India",
       "Iran",
-      "Iranian",
+      "Iraq",
       "Ireland",
       "Israel",
       "Israeli",
-      "Mexican",
+      "Italian",
+      "Italy",
+      "Japan",
+      "Lebanon",
+      "Lithuanian",
+      "Nepal",
+      "Netherlands",
       "Pakistan",
+      "Pakistani",
       "Russia",
-      "Russian",
-      "Senegal",
-      "South Africa",
-      "Sudan",
-      "Syrian",
+      "Saudi",
+      "Turkish",
       "U.S.",
       "US",
-      "Ukraine",
-      "Ukrainian",
-      "Yemeni"
+      "Yemen",
+      "Yemeni",
+      "us"
     ],
     "TriggerADM1": [
       "Berlin",
-      "California",
-      "East",
-      "Gaza",
+      "Manchester",
+      "Massachusetts",
+      "Meta",
       "Nebraska",
+      "New Jersey",
       "New York",
+      "Pennsylvania",
       "South",
+      "Tehran",
       "Tigray",
-      "car",
-      "southern"
+      "West"
     ],
     "TriggerCity": [
       "Berlin",
-      "Madrid",
-      "New York City",
-      "Rome"
+      "Johannesburg",
+      "Manchester",
+      "Paris",
+      "Tehran"
     ]
   }
 }
