@@ -1,7 +1,7 @@
 {
   "1": [
     {
-      "Headline": "Leaders from Pakistan and Iraq are also set to speak on the meeting's fourth day.",
+      "Headline": "Leaders from Pakistan and Iraq also spoke on the meeting's fourth day.",
       "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
       "Category": "CONFLICT",
       "TriggerRegion": [],
@@ -9,17 +9,6 @@
         "Pakistan",
         "Iraq"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "The Bundesliga and three other top European football leagues have called for major reforms to the world-governing body.",
-      "URL": "https://www.dw.com/en/bundesliga-other-top-european-leagues-call-for-major-fifa-reforms/a-79431717",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
     },
@@ -58,18 +47,6 @@
       "TriggerCountry": [
         "Germany",
         "Netherlands"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Iraq\u2019s PM promises to increase crude oil production, Pakistan addresses UN",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iraq",
-        "Pakistan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -115,25 +92,13 @@
       "TriggerCity": []
     },
     {
-      "Headline": "6,Iran pitches seven-day roadmap to end conflict with US",
+      "Headline": "5,Iran pitches seven-day roadmap to end conflict with US",
       "URL": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Iran",
         "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "8,Iraq\u2019s PM promises to increase crude oil production, Pakistan addresses UN",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iraq",
-        "Pakistan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -147,12 +112,21 @@
         "Iran",
         "U.S."
       ],
-      "TriggerADM1": [
-        "Tehran"
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US politics liveTrump told Xi Jinping that China helping Iran is \u2018unacceptable\u2019, official says",
+      "URL": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "China",
+        "Iran"
       ],
-      "TriggerCity": [
-        "Tehran"
-      ]
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "AnalysisPomp over progress in Xi\u2019s US summit with Trump is a win for China",
@@ -413,6 +387,17 @@
       "TriggerCity": []
     },
     {
+      "Headline": "Pakistan\u2019s PM warns of the rising global threat of Islamophobia at the UNGA",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Pakistan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Israeli shelling continues as Lebanon\u2019s PM demands withdrawal in UN speech",
       "URL": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech",
       "Category": "Status Quo",
@@ -420,6 +405,19 @@
       "TriggerCountry": [
         "Israeli",
         "Lebanon"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "URL": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iraqi",
+        "Iranian",
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -450,12 +448,12 @@
       "TriggerCity": []
     },
     {
-      "Headline": "9,Japan moves to tighten rules for foreigners, throwing futures into doubt",
-      "URL": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "Category": "Status Quo",
+      "Headline": "6,Pakistan\u2019s PM warns of the rising global threat of Islamophobia at the UNGA",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
+      "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Japan"
+        "Pakistan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -713,17 +711,6 @@
       "TriggerCity": [
         "Paris"
       ]
-    },
-    {
-      "Headline": "Tall, dark and hated: plan to renovate \u2018Paris\u2019s ugliest building\u2019 put on hold",
-      "URL": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Paris"
-      ]
     }
   ],
   "locationOptions": {
@@ -746,7 +733,9 @@
       "Greece",
       "India",
       "Iran",
+      "Iranian",
       "Iraq",
+      "Iraqi",
       "Ireland",
       "Israel",
       "Israeli",
@@ -782,7 +771,6 @@
       "New York",
       "Pennsylvania",
       "South",
-      "Tehran",
       "Tigray",
       "West"
     ],
@@ -790,8 +778,7 @@
       "Berlin",
       "Johannesburg",
       "Manchester",
-      "Paris",
-      "Tehran"
+      "Paris"
     ]
   },
   "allLocations": {
