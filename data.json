@@ -1,99 +1,97 @@
 {
   "1": [
     {
-      "Headline": "Leaders from Pakistan and Iraq also spoke on the meeting's fourth day.",
-      "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
+      "Headline": "EU enlargement: Reforms seek to prepare bloc for new members",
+      "URL": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493",
+      "Category": "Status Quo",
+      "TriggerRegion": [
+        "EU"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Proposals include earlier access to EU markets, new voting rules and extra safeguards for a bigger bloc.",
+      "URL": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493",
+      "Category": "Status Quo",
+      "TriggerRegion": [
+        "EU"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Pakistan, Turkey boost role in Yemen's Houthi-Saudi conflict",
+      "URL": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Pakistan",
+        "Turkey",
+        "Yemen",
+        "Saudi"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Pakistan and Turkey will provide \"practical measures\" to defend Saudi Arabia against Houthi attacks from Yemen.",
+      "URL": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Pakistan",
-        "Iraq"
+        "Turkey",
+        "Saudi Arabia",
+        "Yemen"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Lithuanian prime minister urges stronger NATO air defense",
-      "URL": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "NATO"
-      ],
-      "TriggerCountry": [
-        "Lithuanian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Prime Minister Mindaugas Sinkevicius outlined threats from Russia and Belarus, and NATO's need for stronger air defense.",
-      "URL": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394",
+      "Headline": "Lithuania is under threat from Russia. Drone attacks, disinformation and hybrid warfare have almost become routine.",
+      "URL": "https://www.dw.com/en/lithuanian-pm-warns-of-russian-nuclear-threat/video-79571624",
       "Category": "CONFLICT",
-      "TriggerRegion": [
-        "NATO"
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Lithuania",
+        "Russia"
       ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "10,At least 20 killed as Russia launches \u2018massive\u2019 attack on Ukraine",
+      "URL": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
       "TriggerCountry": [
         "Russia",
-        "Belarus"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "J\u00fcrgen Klopp starts Germany job with shaky Netherlands draw",
-      "URL": "https://www.dw.com/en/j\u00fcrgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Germany",
-        "Netherlands"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Poland boosts air defence after \u2018Russian provocations\u2019 amid Ukraine war",
-      "URL": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Poland",
-        "Russian",
         "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "The Trump-Xi summit exposes a US disadvantage in the Global South",
-      "URL": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south",
+      "Headline": "Iran-backed Houthis claim new attacks on Saudi Arabia and Yemen\u2019s Aden airport",
+      "URL": "https://www.nbcnews.com/world/middle-east/iran-backed-houthis-claim-new-attacks-saudi-arabia-yemens-aden-airport-rcna602020",
       "Category": "CONFLICT",
-      "TriggerRegion": [
-        "Global South"
-      ],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018Stop the game\u2019: Understanding the controversy behind Ireland vs Israel",
-      "URL": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained",
-      "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ireland",
-        "Israel"
+        "Iran",
+        "Saudi Arabia",
+        "Yemen"
       ],
       "TriggerADM1": [],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Aden"
+      ]
     },
     {
-      "Headline": "5,Iran pitches seven-day roadmap to end conflict with US",
-      "URL": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us",
+      "Headline": "USPaxton admits Trump\u2019s Iran war and US gas prices are plaguing Republicans in leaked audio",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -104,80 +102,241 @@
       "TriggerCity": []
     },
     {
-      "Headline": "9,Poland boosts air defence after \u2018Russian provocations\u2019 amid Ukraine war",
-      "URL": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Poland",
-        "Russian",
-        "Ukraine"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Iran\u2019s president says Tehran wants a deal with U.S. before midterm elections",
-      "URL": "https://www.nbcnews.com/world/iran/irans-president-says-tehran-wants-deal-us-midterm-elections-rcna599638",
+      "Headline": "\u2018I reside in Monaco\u2019: billionaire said to have quit UK over potential wealth tax had already left",
+      "URL": "https://www.theguardian.com/news/2026/oct/07/billionaire-quit-uk-wealth-tax-resident-monaco-super-rich-exodus",
       "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iran",
-        "U.S."
+        "Monaco",
+        "UK"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "AnalysisPomp over progress in Xi\u2019s US summit with Trump is a win for China",
-      "URL": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
-      "Category": "CONFLICT",
+      "Headline": "Extreme Heat Warning issued October 7 at 9:41AM PDT until October 8 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a3cd823e6b24409eb1f063ecf66a93bc6e80f7c5.002.1",
+      "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US",
+        "Sa",
+        "Sa",
+        "Mali",
+        "Sa",
+        "Sa",
+        "Sa",
+        "Sa",
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "Central",
+        "Western",
+        "Eastern",
+        "Western",
+        "San Fernando",
+        "Eastern",
+        "San Fernando"
+      ],
+      "TriggerCity": [
+        "Los Angeles",
+        "Los Angeles",
+        "Los Angeles",
+        "Los Angeles",
+        "Los Angeles"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 10:17AM CDT until October 10 at 1:00AM CDT by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.039265ecf76142087134bf4ea9da2d1a6c3602c0.004.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Iowa"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 10:17AM CDT until October 9 at 1:00AM CDT by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.039265ecf76142087134bf4ea9da2d1a6c3602c0.003.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 10:17AM CDT until October 9 at 9:00AM CDT by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.039265ecf76142087134bf4ea9da2d1a6c3602c0.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 10:17AM CDT until October 9 at 3:00AM CDT by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.039265ecf76142087134bf4ea9da2d1a6c3602c0.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 10:17AM CDT until October 13 at 11:00AM CDT by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.039265ecf76142087134bf4ea9da2d1a6c3602c0.005.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Quad",
+        "Sco"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued October 7 at 4:08AM AKDT until October 9 at 7:00AM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.96e0dba2098a931a94473155c8aa55a4988f5e11.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Western"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "River discharge near Sal\u00e9, Morocco running 1.5x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=34.075005&longitude=-6.774994",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Morocco"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Sal\u00e9"
+      ]
+    }
+  ],
+  "2": [
+    {
+      "Headline": "France suspends use of stun grenades against protesters",
+      "URL": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Political extremism threatens Germany's existing social order, Chancellor Merz has said. DW has more.",
+      "URL": "https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Germany"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "China's Golden Week: Travel surges, but spending stays soft",
+      "URL": "https://www.dw.com/en/chinas-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
         "China"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "FifaTop European leagues heighten pressure on Infantino with call for major changes at Fifa",
-      "URL": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    }
-  ],
-  "2": [
-    {
-      "Headline": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
-      "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
+      "Headline": "Subdued spending by Chinese travelers during the Golden Week holiday raises fresh questions about domestic demand.",
+      "URL": "https://www.dw.com/en/chinas-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Lebanon"
+        "Chinese"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. DW has the latest.",
-      "URL": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882",
+      "Headline": "Iran's regime raises social cost for women defying hijab",
+      "URL": "https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "German"
+        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Italy to ban burqa in schools, limit foreign pupils",
-      "URL": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432",
+      "Headline": "Lithuanian PM warns of Russian nuclear threat",
+      "URL": "https://www.dw.com/en/lithuanian-pm-warns-of-russian-nuclear-threat/video-79571624",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Lithuanian",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Germany shaken by espionage and treason allegations",
+      "URL": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Germany"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Italy: New building material made from shells",
+      "URL": "https://www.dw.com/en/italy-new-building-material-made-from-shells/video-79431724",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Italy"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Researchers in Italy have developed a new building material from mussel shells and sediment.",
+      "URL": "https://www.dw.com/en/italy-new-building-material-made-from-shells/video-79431724",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -187,307 +346,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Yemen's Saudi-Houthi clash fuels humanitarian crisis",
-      "URL": "https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Yemen",
-        "Saudi"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "With over 132,000 people already displaced by the latest fighting, Yemen is sliding back into a humanitarian emergency.",
-      "URL": "https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Yemen"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ecuador struggles to stop violence against women",
-      "URL": "https://www.dw.com/en/ecuador-struggles-to-stop-violence-against-women/video-79415231",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ecuador"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "France sends troops as Houthi attacks threaten Saudi oil",
-      "URL": "https://www.dw.com/en/france-sends-troops-as-houthi-attacks-threaten-saudi-oil/video-79438534",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "France",
-        "Saudi"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Germany sets out plan to phase out fossil fuels by 2045",
-      "URL": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "As pope visits France, sex abuse survivor hopes for healing",
-      "URL": "https://www.dw.com/en/as-pope-visits-france-sex-abuse-survivor-hopes-for-healing/video-79437701",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "France"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "During Pope Leo's visit to France, one stop will be to meet with child survivors of sexual abuse by Catholic priests.",
-      "URL": "https://www.dw.com/en/as-pope-visits-france-sex-abuse-survivor-hopes-for-healing/video-79437701",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "France"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Gang warfare in Ecuador fuels wave of femicides",
-      "URL": "https://www.dw.com/en/gang-warfare-in-ecuador-fuels-wave-of-femicides/video-79401557",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ecuador"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "UNGA day 4: Lebanon calls for peacekeepers to replace UNIFIL",
-      "URL": "https://www.dw.com/en/unga-day-4-lebanon-calls-for-peacekeepers-to-replace-unifil/live-79366211",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Lebanon"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "While perpetual traffic jams gridlock the Italian capital, Florence pays commuters to switch to bicycles.",
-      "URL": "https://www.dw.com/en/romes-traffic-chaos-could-a-biking-bonus-help/video-79332943",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Italian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "China is turning to humanoid robots to help care for its rapidly aging population.",
-      "URL": "https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "China"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Turkish, Pakistani and Saudi army chiefs meet as Yemeni forces claim gains",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Turkish",
-        "Pakistani",
-        "Saudi",
-        "Yemeni"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Pakistan\u2019s PM warns of the rising global threat of Islamophobia at the UNGA",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Pakistan"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Israeli shelling continues as Lebanon\u2019s PM demands withdrawal in UN speech",
-      "URL": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israeli",
-        "Lebanon"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-      "URL": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iraqi",
-        "Iranian",
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ethiopia\u2019s new rebel alliance faces an old problem",
-      "URL": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ethiopia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "1,Turkish, Pakistani and Saudi army chiefs meet as Yemeni forces claim gains",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Turkish",
-        "Pakistani",
-        "Saudi",
-        "Yemeni"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "6,Pakistan\u2019s PM warns of the rising global threat of Islamophobia at the UNGA",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Pakistan"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "10,Ethiopia\u2019s new rebel alliance faces an old problem",
-      "URL": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ethiopia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Japan says Trump voiced concern over weak yen in summit with PM Sanae Takaichi",
-      "URL": "https://www.nbcnews.com/world/asia/japan-says-trump-voiced-concern-weak-yen-summit-pm-takaichi-rcna599791",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Japan"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building",
-      "URL": "https://www.nbcnews.com/world/europe/explosion-acropolis-greece-injures-least-2-people-collapses-building-rcna599790",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Greece"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "White House says new pro-Trump ad funded by the \u2018U.S. government\u2019 is a \u2018public service announcement\u2019",
-      "URL": "https://www.nbcnews.com/politics/donald-trump/white-house-trump-ad-public-service-announcement-rcna599730",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Netanyahu calls genocide accusations a lie, defends Iran war in defiant U.N. address",
-      "URL": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building",
-      "URL": "https://www.nbcnews.com/world/europe/explosion-acropolis-greece-injures-least-2-people-collapses-building-rcna599790",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Greece"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Nations LeagueGakpo denies Klopp perfect start as Dutch rescue draw with Germany",
-      "URL": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Dutch",
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Nations LeagueGakpo denies Klopp perfect start as Dutch rescue draw with Germany",
-      "URL": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Dutch",
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "David HytnerEngland aim to win over Wembley and revive Wonderwall in Spain showdown",
-      "URL": "https://www.theguardian.com/football/2026/sep/25/england-spain-thomas-tuchel-nations-league-wonderwall",
+      "Headline": "Maricarmen dies at 87 after eviction sparked Spain housing protests",
+      "URL": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -497,63 +357,664 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Novelist accused of using AI to write book removed from French prize list",
-      "URL": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
-      "Category": "Status Quo",
+      "Headline": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
+      "URL": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+      "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "French"
+        "Saudi Arabia"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Novelist accused of using AI to write book removed from French prize list",
-      "URL": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
-      "Category": "Status Quo",
+      "Headline": "Democratic FCC member warns of AI robocall misinformation risks in US",
+      "URL": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us",
+      "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "French"
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
+    },
+    {
+      "Headline": "Three years of Israel\u2019s genocide in Gaza: In numbers",
+      "URL": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israel"
+      ],
+      "TriggerADM1": [
+        "Gaza"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Yemen\u2019s displaced children dream of returning to school",
+      "URL": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "7,Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
+      "URL": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Saudi Arabia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Trump keeps touting $21 trillion coming into the U.S. Even his website says it\u2019s half that.",
+      "URL": "https://www.nbcnews.com/politics/donald-trump/trump-keeps-touting-21-trillion-us-investment-not-line-up-rcna601644",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S."
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "U.S. monitors suspected Russian plague case as Trump plans call with Putin",
+      "URL": "https://www.nbcnews.com/politics/donald-trump/says-call-scheduled-putin-possible-pneumonic-plague-case-russia-rcna601978",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S.",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "U.S. monitors suspected Russian plague case as Trump plans call with Putin",
+      "URL": "https://www.nbcnews.com/politics/donald-trump/says-call-scheduled-putin-possible-pneumonic-plague-case-russia-rcna601978",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S.",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Trump keeps touting $21 trillion coming into the U.S. Even his website says it\u2019s half that.",
+      "URL": "https://www.nbcnews.com/politics/donald-trump/trump-keeps-touting-21-trillion-us-investment-not-line-up-rcna601644",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S."
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Russian strikes on Ukrainian cities kill at least 21 in a major attack that Kyiv saw coming",
+      "URL": "https://www.nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russian",
+        "Ukrainian"
+      ],
+      "TriggerADM1": [
+        "Kyiv"
+      ],
+      "TriggerCity": [
+        "Kyiv"
+      ]
+    },
+    {
+      "Headline": "Live updates: Trump set to rally for Senate candidate Ken Paxton in San Antonio",
+      "URL": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-texas-senate-2026-midterm-election-congress-live-updates-rcna601953",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Headline": "Argentina bids Messi farewell in final national team match, ending an era",
+      "URL": "https://www.nbcnews.com/sports/soccer/argentina-bids-messi-farewell-final-national-team-match-ending-era-rcna601998",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Argentina"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "France shuts down nearly 900 schools as violent student protests escalate",
+      "URL": "https://www.nbcnews.com/world/europe/france-protests-riot-police-students-tear-gas-fires-education-rcna601878",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Russian strikes on Ukrainian cities kill at least 21 in a major attack that Kyiv saw coming",
+      "URL": "https://www.nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russian",
+        "Ukrainian"
+      ],
+      "TriggerADM1": [
+        "Kyiv"
+      ],
+      "TriggerCity": [
+        "Kyiv"
+      ]
+    },
+    {
+      "Headline": "RussiaNaval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+      "URL": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "F1Drivers face \u2018unhealthy\u2019 Singapore air as El Ni\u00f1o fuels wildfire haze",
+      "URL": "https://www.theguardian.com/sport/2026/oct/06/f1-drivers-face-unhealthy-singapore-air-as-super-el-nino-fuels-wildfire-haze",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Singapore"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "UK politicsTories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
+      "URL": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "UK"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "British billionaire warned Epstein was a \u2018sexual deviant\u2019 decades before FBI closed in on the abuser",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/07/british-billionaire-epstein-jane-doe-4",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "British"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "\u2018Another coup d\u2019\u00e9tat\u2019: fears grow as Fl\u00e1vio Bolsonaro vows to \u2018re-democratise\u2019 Brazil",
+      "URL": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Brazil"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Fire Weather Watch issued October 7 at 1:20PM MDT until October 9 at 9:00PM MDT by NWS Billings MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f5fe427132f8352bdd3d1c32bee020ef13ff439f.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Extreme Heat Warning issued October 7 at 11:47AM PDT until October 8 at 8:00PM PDT by NWS San Diego CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9a0e67ff8f12acc8f53216f011b4279f7a10fb9d.004.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "San Diego"
+      ]
+    },
+    {
+      "Headline": "Extreme Heat Warning issued October 7 at 11:47AM PDT until October 9 at 8:00PM PDT by NWS San Diego CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9a0e67ff8f12acc8f53216f011b4279f7a10fb9d.005.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "San Diego",
+        "San Diego"
+      ]
+    },
+    {
+      "Headline": "High Wind Warning issued October 7 at 10:42AM AKDT until October 8 at 4:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a20f275f84f01828deb278de42f98d5496ab8afc.003.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Surge Watch issued October 7 at 2:09PM EDT by NWS Tallahassee FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3b0a0b036dc098bd9693bf0219e30bd35f1a5152.008.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tropical Storm Watch issued October 7 at 2:09PM EDT by NWS Tallahassee FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3b0a0b036dc098bd9693bf0219e30bd35f1a5152.009.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Fire Weather Watch issued October 7 at 11:50AM MDT until October 9 at 7:00PM MDT by NWS Riverton WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5dd12e66d3d68cc576026f1eef7607f1987a0c1c.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Roc"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Surge Watch issued October 7 at 11:09AM CDT by NWS Mobile AL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a1c451aa7c472965be119336e4ead8b80d54dd97.005.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "Santa Rosa"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Watch issued October 7 at 11:09AM CDT by NWS Mobile AL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a1c451aa7c472965be119336e4ead8b80d54dd97.011.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Watch issued October 7 at 10:38AM CDT by NWS Mobile AL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3d419fc2809b13b3508cf23797361a5c433a35a.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "North",
+        "Bay",
+        "South",
+        "Bay",
+        "Mississippi",
+        "Bay",
+        "Bay",
+        "Santa Rosa",
+        "Western",
+        "Bay",
+        "Eastern",
+        "Bay"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 7 at 7:22AM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5798992c9fad9cea14e7a66b8bfa7e57f69f8a54.019.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 7 at 7:22AM AKDT until October 7 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5798992c9fad9cea14e7a66b8bfa7e57f69f8a54.028.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 7 at 7:22AM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5798992c9fad9cea14e7a66b8bfa7e57f69f8a54.026.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tropical Storm Watch issued October 7 at 10:21AM CDT by NWS New Orleans LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aed92cfcf4eb08e2d50cde6d1eb5837c126fe7a5.002.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Watch issued October 7 at 11:08AM EDT by NWS Tallahassee FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5a4af3fc9df53200252c3b94e384cf9dc26b0371.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Mexico",
+        "Mexico",
+        "Mexico",
+        "Mexico"
+      ],
+      "TriggerADM1": [
+        "Mexico",
+        "Mexico",
+        "Mexico",
+        "Mexico"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 7:56AM CDT until October 8 at 7:36AM CDT by NWS Topeka KS",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5e9e643638f3690b83225cb589b3f472b95203fc.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued October 7 at 4:06AM AKDT until October 9 at 1:00AM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3a9ff346d0760664baa3a34b50f62ab8e0f631a.002.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued October 7 at 4:06AM AKDT until October 8 at 10:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3a9ff346d0760664baa3a34b50f62ab8e0f631a.001.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 7 at 2:58AM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4e1faab0ad1dc6d9f8481cb2e8b2bef353f87360.024.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 7 at 2:58AM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4e1faab0ad1dc6d9f8481cb2e8b2bef353f87360.037.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 7 at 2:58AM AKDT until October 7 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4e1faab0ad1dc6d9f8481cb2e8b2bef353f87360.027.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 6 at 3:08PM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4bbd4d93b2f994fe75c34c3c325cb3ca539d7f8b.019.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 6 at 3:08PM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4bbd4d93b2f994fe75c34c3c325cb3ca539d7f8b.026.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 6 at 3:08PM AKDT until October 7 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4bbd4d93b2f994fe75c34c3c325cb3ca539d7f8b.029.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 6 at 3:00AM AKDT until October 7 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.11e03cad364d50ed08e080132b94b5e3b11e5b94.029.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 6 at 3:00AM AKDT until October 7 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.11e03cad364d50ed08e080132b94b5e3b11e5b94.027.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "River discharge near Lahore, Pakistan running 2.1x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=31.575005&longitude=74.375015",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Pakistan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Lahore"
+      ]
+    },
+    {
+      "Headline": "River discharge near Gujranwala, Pakistan running 1.9x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=32.175003&longitude=74.175",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Pakistan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Gujranwala"
+      ]
+    },
+    {
+      "Headline": "River discharge near Kampala, Uganda running 1.7x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=0.32500076&longitude=32.575012",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Uganda"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Kampala"
+      ]
+    },
+    {
+      "Headline": "River discharge near Manchester, United Kingdom running 1.7x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=53.475006&longitude=-2.2249908",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United Kingdom"
+      ],
+      "TriggerADM1": [
+        "Manchester"
+      ],
+      "TriggerCity": [
+        "Manchester"
+      ]
     }
   ],
   "3": [
     {
-      "Headline": "The Left won the Berlin election partly by promising to implement an expropriation referendum to solve the rent crisis.",
-      "URL": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683",
+      "Headline": "Separatists win Quebec local elections",
+      "URL": "https://www.dw.com/en/separatists-win-quebec-local-elections/video-79566994",
       "Category": "Sports Results",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Berlin"
+        "Quebec"
       ],
-      "TriggerCity": [
-        "Berlin"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "Berlin officially withdraws Olympics bid",
-      "URL": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294",
+      "Headline": "Texas Latino leaders turn up the pressure on national Democrats",
+      "URL": "https://www.nbcnews.com/politics/2026-election/texas-latino-leaders-democratic-governors-association-gina-hinojosa-rcna602053",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Berlin"
+        "Texas"
       ],
-      "TriggerCity": [
-        "Berlin"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "New Jersey\u2019s governor calls on her lieutenant governor to resign over ethics report",
-      "URL": "https://www.nbcnews.com/politics/politics-news/new-jerseys-governor-calls-lieutenant-governor-resign-ethics-report-rcna599771",
+      "Headline": "Meta\u2019s Oversight Board has a warning for AI companies building their own watchdogs",
+      "URL": "https://www.nbcnews.com/tech/social-media/metas-oversight-board-warning-ai-companies-building-safety-watchdogs-rcna601588",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Meta"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Lawyers seek to block Texas man\u2019s execution, citing failed execution of Christa Pike",
+      "URL": "https://www.nbcnews.com/news/us-news/lawyers-seek-block-texas-mans-execution-citing-failed-execution-pike-rcna602085",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "New Jersey"
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Texas Latino leaders turn up the pressure on the Democratic Governors Association",
+      "URL": "https://www.nbcnews.com/politics/2026-election/texas-latino-leaders-democratic-governors-association-gina-hinojosa-rcna602053",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Meta\u2019s Oversight Board has a warning for AI companies building their own watchdogs",
+      "URL": "https://www.nbcnews.com/tech/social-media/metas-oversight-board-warning-ai-companies-building-safety-watchdogs-rcna601588",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Meta"
       ],
       "TriggerCity": []
     },
@@ -569,123 +1030,583 @@
       "TriggerCity": []
     },
     {
-      "Headline": "As measles surges in Pennsylvania, doctors warn about a new condition affecting babies",
-      "URL": "https://www.nbcnews.com/health/health-news/congenital-measles-pennsylvania-outbreak-grows-babies-infected-rcna599431",
-      "Category": "Rumour",
+      "Headline": "Lawyers seek to block Texas man\u2019s execution, citing failed execution of Christa Pike",
+      "URL": "https://www.nbcnews.com/news/us-news/lawyers-seek-block-texas-mans-execution-citing-failed-execution-pike-rcna602085",
+      "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Pennsylvania"
+        "Texas"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Manchester City found guilty of breaking Premier League\u2019s financial fair play rules",
-      "URL": "https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules",
-      "Category": "Status Quo",
+      "Headline": "Francis Halzen wins physics Nobel for South Pole high-energy neutrino discoveries",
+      "URL": "https://www.nbcnews.com/science/science-news/nobel-prize-physics-awarded-stockholm-rcna601807",
+      "Category": "Sports Results",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Manchester"
+        "South"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Francis Halzen wins physics Nobel for South Pole high-energy neutrino discoveries",
+      "URL": "https://www.nbcnews.com/science/science-news/nobel-prize-physics-awarded-stockholm-rcna601807",
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "South"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Magnitude 5.5 earthquake strikes 92 km NNW of Aleneva, Alaska",
+      "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Alaska"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 3:47PM EDT by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e5b162b63db4059beac74c91ded7803d1d2b8f3d.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Bay"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Extreme Heat Warning issued October 7 at 12:11PM MST until October 9 at 8:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4ed07d3f8810b4ad94c5b5c56c4fbafb1f162eaf.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "West"
       ],
       "TriggerCity": [
-        "Manchester"
+        "Phoenix"
       ]
     },
     {
-      "Headline": "\u2018I\u2019d strip for \u00a3100!\u2019 Dominic West and Sienna Miller on nudity, narcissism and their juicy new show War",
-      "URL": "https://www.theguardian.com/tv-and-radio/2026/sep/25/sienna-miller-and-dominic-west-interview-war",
-      "Category": "Status Quo",
+      "Headline": "Fire Weather Watch issued October 7 at 12:55PM MDT until October 9 at 7:00PM MDT by NWS Cheyenne WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3a94fafc10db602eaa5a868d97f3112ecb8f2d3c.001.1",
+      "Category": "Natural Disaster",
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "West"
+        "Nebraska",
+        "North",
+        "North",
+        "North",
+        "Central",
+        "West",
+        "North",
+        "North"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Fire Weather Watch issued October 7 at 12:41PM MDT until October 9 at 6:00PM MDT by NWS Boise ID",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bd0741d226970039174b734bf637148de7218648.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Watch issued October 7 at 2:09PM EDT by NWS Tallahassee FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3b0a0b036dc098bd9693bf0219e30bd35f1a5152.003.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "North"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Fire Weather Watch issued October 7 at 12:07PM MDT until October 9 at 8:00PM MDT by NWS Rapid City SD",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9f9d9187a530d27fed8cd8ce8a84cd9384efc21f.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Northern",
+        "Eastern",
+        "Northern",
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Surge Watch issued October 7 at 1:00PM CDT by NWS New Orleans LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7f2269a8c48b7317fbb4e1772e6dff5ed89c3a86.007.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tropical Storm Watch issued October 7 at 1:00PM CDT by NWS New Orleans LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7f2269a8c48b7317fbb4e1772e6dff5ed89c3a86.004.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Eastern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Watch issued October 7 at 1:00PM CDT by NWS New Orleans LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7f2269a8c48b7317fbb4e1772e6dff5ed89c3a86.007.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Fire Weather Watch issued October 7 at 11:48AM MDT until October 9 at 6:00PM MDT by NWS Great Falls MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dcb6cff1853b687137f63071264805671a1aa5e4.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Central",
+        "Eastern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Fire Weather Watch issued October 7 at 9:48AM PDT until October 9 at 9:00PM PDT by NWS Reno NV",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b63c891471f162468b6d72b175e365e092806af7.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "California",
+        "Eastern",
+        "Northern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued October 7 at 11:32AM EDT until October 8 at 5:00PM EDT by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.10ba2020daf587326fb8e120df73e46a1b65b356.001.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Eastern",
+        "Eastern",
+        "South",
+        "Central",
+        "Western"
+      ],
+      "TriggerCity": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "Headline": "Hurricane Watch issued October 7 at 10:21AM CDT by NWS New Orleans LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aed92cfcf4eb08e2d50cde6d1eb5837c126fe7a5.001.2",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Mississippi",
+        "Southwest",
+        "Mississippi",
+        "Mississippi",
+        "Southwest",
+        "Mississippi",
+        "Mississippi",
+        "Louisiana"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Surge Watch issued October 7 at 11:13AM EDT by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bb5e9716846757c6fe097e62f9324f04e14ab3ab.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Bay"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tropical Storm Watch issued October 7 at 11:08AM EDT by NWS Tallahassee FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5a4af3fc9df53200252c3b94e384cf9dc26b0371.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Bay"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued October 7 at 4:09AM AKDT until October 11 at 4:00AM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2b1fd10a387a518b2660d4f277cc90f417ff58d1.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Northern",
+        "Eastern",
+        "Alaska",
+        "North"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued October 7 at 4:06AM AKDT until October 9 at 4:00AM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3a9ff346d0760664baa3a34b50f62ab8e0f631a.003.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued October 7 at 1:41AM HST until October 8 at 6:00PM HST by NWS Honolulu HI",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.47a676cc872758220b32c99e05eb135cc34a5de5.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Southwest",
+        "North",
+        "Central",
+        "North",
+        "East",
+        "South",
+        "East",
+        "Ewa"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 7 at 2:42AM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2a8ac4dbd0ec045af840fad52a355b5c38035d88.004.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "South"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 7 at 2:42AM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2a8ac4dbd0ec045af840fad52a355b5c38035d88.005.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "East"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 7 at 2:42AM AKDT until October 8 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2a8ac4dbd0ec045af840fad52a355b5c38035d88.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "West",
+        "East"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 6 at 3:09PM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b6061c7f638a956197d8756e4bd294e95186a497.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "West",
+        "East"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hurricane Force Wind Warning issued October 6 at 3:09PM AKDT until October 8 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b6061c7f638a956197d8756e4bd294e95186a497.004.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "South"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 6 at 2:50AM AKDT until October 7 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0086e223fcbc4049e2001b83778565744b0dd8ab.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "West",
+        "East"
       ],
       "TriggerCity": []
     }
   ],
   "4": [
     {
-      "Headline": "The discovery of nine murdered women near Johannesburg has ignited protests over government inaction on femicide.",
-      "URL": "https://www.dw.com/en/south-african-women-demand-action-on-gender-based-violence/video-79425433",
-      "Category": "Status Quo",
+      "Headline": "Coco Gauff loses after citing an \u2018insane\u2019 wave of racist abuse following previous match in Beijing",
+      "URL": "https://www.nbcnews.com/sports/tennis/coco-gauff-loses-after-citing-an-insane-wave-of-racist-abuse-following-previous-match-in-beijing-n1451251",
+      "Category": "Sports Results",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Johannesburg"
+        "Beijing"
       ]
     },
     {
-      "Headline": "Tall, dark and hated: plan to renovate \u2018Paris\u2019s ugliest building\u2019 put on hold",
-      "URL": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
-      "Category": "Status Quo",
+      "Headline": "Special Marine Warning issued October 7 at 4:47PM EDT until October 7 at 5:45PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ac247060f126171aad55b07f9c7fac090968c951.001.1",
+      "Category": "Natural Disaster",
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Paris"
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Special Marine Warning issued October 7 at 4:10PM EDT until October 7 at 6:15PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e526dc2bb3626fcf53eaac8b5d6aad8f5ba46031.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Extreme Heat Warning issued October 7 at 12:11PM MST until October 8 at 8:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4ed07d3f8810b4ad94c5b5c56c4fbafb1f162eaf.003.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 2:30PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e5435b68e1ad2031724f8b67da651e8b47f906f1.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 7 at 11:32AM EDT until October 8 at 2:00PM EDT by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.718ad341e4c3e8bf4298aad69e5803cf3b92d1d7.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "Headline": "Extreme Heat Warning issued October 7 at 3:08AM PDT until October 9 at 8:00PM PDT by NWS Las Vegas NV",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f0bba6cbe593ad2eabc7185227c4de033c15c100.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Las Vegas"
       ]
     }
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "Europe",
-      "Global South",
-      "NATO"
+      "Arctic",
+      "EU",
+      "Quad",
+      "Sco"
     ],
     "TriggerCountry": [
-      "Belarus",
+      "Argentina",
+      "Brazil",
+      "British",
       "China",
-      "Dutch",
-      "Ecuador",
-      "Ethiopia",
+      "Chinese",
       "France",
-      "French",
-      "German",
       "Germany",
-      "Greece",
       "Iran",
-      "Iranian",
-      "Iraq",
-      "Iraqi",
-      "Ireland",
       "Israel",
-      "Israeli",
-      "Italian",
       "Italy",
-      "Japan",
-      "Lebanon",
+      "Lithuania",
       "Lithuanian",
-      "Netherlands",
+      "Mali",
+      "Mexico",
+      "Monaco",
+      "Morocco",
       "Pakistan",
-      "Pakistani",
-      "Poland",
+      "Roc",
       "Russia",
       "Russian",
+      "Sa",
       "Saudi",
+      "Saudi Arabia",
+      "Singapore",
       "Spain",
-      "Turkish",
+      "Turkey",
       "U.S.",
+      "UK",
       "US",
+      "Uganda",
       "Ukraine",
-      "Yemen",
-      "Yemeni"
+      "Ukrainian",
+      "United Kingdom",
+      "United States",
+      "Yemen"
     ],
     "TriggerADM1": [
-      "Berlin",
+      "Alaska",
+      "Bay",
+      "California",
+      "Central",
+      "East",
+      "Eastern",
+      "Ewa",
+      "Gaza",
+      "Iowa",
+      "Kyiv",
+      "Louisiana",
       "Manchester",
+      "Meta",
+      "Mexico",
+      "Mississippi",
       "Nebraska",
-      "New Jersey",
-      "Pennsylvania",
+      "North",
+      "Northern",
+      "Quebec",
+      "San Fernando",
+      "Santa Rosa",
       "South",
-      "West"
+      "Southern",
+      "Southwest",
+      "Texas",
+      "West",
+      "Western"
     ],
     "TriggerCity": [
-      "Berlin",
-      "Johannesburg",
+      "Aden",
+      "Beijing",
+      "Gujranwala",
+      "Jacksonville",
+      "Kampala",
+      "Kyiv",
+      "Lahore",
+      "Las Vegas",
+      "Los Angeles",
       "Manchester",
-      "Paris"
+      "Melbourne",
+      "Phoenix",
+      "Sal\u00e9",
+      "San Antonio",
+      "San Diego"
     ]
   },
   "allLocations": {
