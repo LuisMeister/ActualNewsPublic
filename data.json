@@ -25,136 +25,76 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Wars in Iran and Ukraine are disrupting diesel supplies. Still, a deal with Russia is unlikely to push down fuel prices.",
-      "URL": "https://www.dw.com/en/trumps-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
+      "Headline": "Qatar says Iran-US talks ongoing, warns of wider regional conflict",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Qatar",
+        "Iran",
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "URL": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending",
       "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran",
-        "Ukraine",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Iran seeking 'harder targets' for attacks abroad, UK warns",
-      "URL": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran",
-        "UK"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "The head of UK's domestic security agency said an attempted plot at a UK air base last month was \"not unique.\"",
-      "URL": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "UK",
-        "UK"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Spiraling housing costs have brought about a political crisis in Spain and are fueling political change across Europe.",
-      "URL": "https://www.dw.com/en/can-far-left-or-far-right-parties-solve-europes-housing-crisis/video-79605763",
-      "Category": "Status Quo",
       "TriggerRegion": [
         "Europe"
       ],
       "TriggerCountry": [
-        "Spain"
+        "Russia",
+        "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit",
+      "Headline": "The human cost of surging US air strikes in Somalia",
+      "URL": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iran",
-        "Yemen",
-        "Saudi"
+        "US",
+        "Somalia"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Qatar warns global energy shockwaves from Iran war have yet to peak",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak",
+      "Headline": "1,Qatar says Iran-US talks ongoing, warns of wider regional conflict",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
       "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Qatar",
-        "Iran"
+        "Iran",
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "5,Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit",
+      "Headline": "6,Iran war updates: 58 recruits killed, 200 hurt in Houthi attacks in Yemen",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Iran",
-        "Yemen",
-        "Saudi"
+        "Yemen"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "6,Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "Headline": "8,US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+      "URL": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms",
       "Category": "CONFLICT",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "9,Qatar warns global energy shockwaves from Iran war have yet to peak",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Qatar",
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again",
-      "URL": "https://www.nbcnews.com/world/ukraine/zelenskyy-says-ukraine-got-no-early-warning-partners-russia-hits-power-rcna604296",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Treasury secretary refuses to say if the U.S. sees Ukraine as an ally",
-      "URL": "https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-refuses-us-ukraine-ally-starlink-rcna604129",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S.",
+        "US",
         "Ukraine"
       ],
       "TriggerADM1": [],
@@ -173,65 +113,180 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Israel police arrest 10 over settler attacks on U.S. journalist, European diplomats",
-      "URL": "https://www.nbcnews.com/world/middle-east/israel-police-arrest-10-settler-attacks-us-journalist-european-diploma-rcna604291",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [
-        "Israel",
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Israel police arrest 10 over settler attacks on U.S. journalist, European diplomats",
-      "URL": "https://www.nbcnews.com/world/middle-east/israel-police-arrest-10-settler-attacks-us-journalist-european-diploma-rcna604291",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [
-        "Israel",
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "UKBritain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank",
-      "URL": "https://www.theguardian.com/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank",
-      "Category": "Rumour",
-      "TriggerRegion": [
-        "EU"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    }
-  ],
-  "2": [
-    {
-      "Headline": "An \"Invest in Germany Summit\" is set to begin in Berlin as the government seeks supplement public funding. DW has more.",
-      "URL": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
-      "URL": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476",
+      "Headline": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again",
+      "URL": "https://www.nbcnews.com/world/ukraine/zelenskyy-says-ukraine-got-no-early-warning-partners-russia-hits-power-rcna604296",
       "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Ukraine",
-        "Russian"
+        "Russia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "URL": "https://www.nbcnews.com/world/asia/rubio-seeks-expand-central-asia-ties-pomp-filled-uzbekistan-visit-rcna604517",
+      "Category": "CONFLICT",
+      "TriggerRegion": [
+        "Central Asia"
+      ],
+      "TriggerCountry": [
+        "Uzbekistan"
+      ],
+      "TriggerADM1": [
+        "Central"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "URL": "https://www.nbcnews.com/world/asia/rubio-seeks-expand-central-asia-ties-pomp-filled-uzbekistan-visit-rcna604517",
+      "Category": "CONFLICT",
+      "TriggerRegion": [
+        "Central Asia"
+      ],
+      "TriggerCountry": [
+        "Uzbekistan"
+      ],
+      "TriggerADM1": [
+        "Central"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "URL": "https://www.nbcnews.com/world/asia/rubio-seeks-expand-central-asia-ties-pomp-filled-uzbekistan-visit-rcna604517",
+      "Category": "CONFLICT",
+      "TriggerRegion": [
+        "Central Asia"
+      ],
+      "TriggerCountry": [
+        "Uzbekistan"
+      ],
+      "TriggerADM1": [
+        "Central"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "URL": "https://www.nbcnews.com/world/asia/rubio-seeks-expand-central-asia-ties-pomp-filled-uzbekistan-visit-rcna604517",
+      "Category": "CONFLICT",
+      "TriggerRegion": [
+        "Central Asia"
+      ],
+      "TriggerCountry": [
+        "Uzbekistan"
+      ],
+      "TriggerADM1": [
+        "Central"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Europe liveFrench cities \u2018calm overnight\u2019 after targeted curfews, prime minister says",
+      "URL": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "Category": "Rumour",
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued October 20 at 12:04AM MST until October 22 at 5:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6e93f7e4c535dd27f16fd41e4e9184460785d1c3.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [
+        "Sco"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Central",
+        "North",
+        "East",
+        "East",
+        "South",
+        "Southeast",
+        "West"
+      ],
+      "TriggerCity": [
+        "Phoenix",
+        "Phoenix",
+        "Phoenix",
+        "Mesa"
+      ]
+    }
+  ],
+  "2": [
+    {
+      "Headline": "After days of rioting, France introduces localized curfews",
+      "URL": "https://www.dw.com/en/after-days-of-rioting-france-introduces-localized-curfews/video-79707235",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Japanese spacecraft begins journey to Mars moon Phobos",
+      "URL": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japanese"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Australian MP Helen Haines loses leg after car attack \u2014 media",
+      "URL": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660",
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Australian"
+      ],
+      "TriggerADM1": [
+        "car"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Zelenskyy accuses US of delaying Patriot missile shipment",
+      "URL": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Weekend of fiery protests in France raises questions, costs millions",
+      "URL": "https://www.dw.com/en/protests-against-high-cost-of-living-turn-violent-in-france-elsewhere-in-europe/g-79696505",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Deforestation in Brazil's Amazon falls to record low",
+      "URL": "https://www.dw.com/en/deforestation-in-brazils-amazon-falls-to-record-low/video-79692309",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Brazil"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -250,80 +305,95 @@
       "TriggerCity": []
     },
     {
-      "Headline": "German lawmakers press Tanzania over rights concerns",
-      "URL": "https://www.dw.com/en/german-lawmakers-condemn-rights-violations-in-tanzania/video-79688415",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "German",
-        "Tanzania"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Two German lawmakers have condemned restrictions on free speech and alleged human rights abuses in Tanzania.",
-      "URL": "https://www.dw.com/en/german-lawmakers-condemn-rights-violations-in-tanzania/video-79688415",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "German",
-        "Tanzania"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Deforestation in Brazil\u2019s Amazon falls to record low",
-      "URL": "https://www.dw.com/en/deforestation-in-brazils-amazon-falls-to-record-low/video-79692309",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Brazil"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Trump's diesel deal with Russia unlikely to bring down fuel prices",
-      "URL": "https://www.dw.com/en/trumps-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Hardliners are stepping up pressure on Iran's government and push to impeach the foreign minister.",
-      "URL": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Italian farmer Alice Cerutti is transforming rice paddies into wetlands to prioritize biodiversity over crop yields",
-      "URL": "https://www.dw.com/en/italian-rice-farmer-brings-conservation-to-agriculture/g-79656765",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Italian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Yemeni forces say Houthi fighters, equipment targeted around Taiz",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares",
+      "Headline": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
+      "URL": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476",
       "Category": "Rumour",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Yemeni"
+        "Ukraine",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters.",
+      "URL": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ethiopia"
+      ],
+      "TriggerADM1": [
+        "Tigray"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "India's Russian oil in focus as Rubio visits major Reliance refinery",
+      "URL": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-worlds-largest-oil-refinery-topping-the-agenda/a-79699826",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "India",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "India's Russian oil in focus as Rubio visits major Reliance refinery",
+      "URL": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-worlds-largest-oil-refinery-topping-the-agenda/a-79699826",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "India",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ghana revives slave trade history through theater",
+      "URL": "https://www.dw.com/en/ghana-revives-slave-trade-history-through-theater/video-79692898",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ghana"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+      "URL": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Palestine",
+        "Israeli"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Drone attacks across Sudan escalate, 160 people reported killed",
+      "URL": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sudan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Morocco\u2019s not-so-new government faces new challenges",
+      "URL": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Morocco"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -341,17 +411,6 @@
       "TriggerCity": [
         "Athens"
       ]
-    },
-    {
-      "Headline": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israeli"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
     },
     {
       "Headline": "Tunisia\u2019s economic crisis deepens as the promise of a better life fades",
@@ -376,55 +435,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "The Israeli politicians seeking to replace Netanyahu",
-      "URL": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israeli"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Hezbollah funding plan indicates a new challenge to Lebanon\u2019s government",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Lebanon"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "1,Yemeni forces say Houthi fighters, equipment targeted around Taiz",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Yemeni"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "4,In pro-Palestine hub of Athens, Israeli buyers increase local resentment",
-      "URL": "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Palestine",
-        "Israeli"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Athens"
-      ]
-    },
-    {
-      "Headline": "NBC News\u2019 Raf Sanchez on France\u2019s worst riots in years",
-      "URL": "https://www.today.com/video/violent-protests-spread-across-france-over-rising-cost-of-living-271806021629",
+      "Headline": "10,France protests updates: Curfews imposed in parts of Paris, other cities",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -434,77 +446,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "U.S. taking Putin\u2019s side would be a \u2018historic mistake,\u2019 Zelenskyy says",
-      "URL": "https://www.nbcnews.com/politics/trump-administration/us-taking-putins-side-historic-mistake-says-zelenskyy-rcna604111",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Measles outbreak in Bangladesh is a \u2018real warning\u2019 to other nations, experts say",
-      "URL": "https://www.nbcnews.com/world/asia/measles-outbreak-bangladesh-real-warning-other-nations-rcna604295",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Bangladesh"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Austrian Airlines flight from Tel Aviv diverts to Bulgaria after \u2018threat\u2019",
-      "URL": "https://www.nbcnews.com/world/europe/austrian-airlines-flight-tel-aviv-diverts-bulgaria-threat-rcna604289",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Austrian",
-        "Bulgaria"
-      ],
-      "TriggerADM1": [
-        "Tel Aviv"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "China\u2019s economy accelerates on robust exports as domestic weakness persists",
-      "URL": "https://www.nbcnews.com/world/asia/china-economy-q3-gdp-robust-exports-domestic-weakness-rcna604285",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "China"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Service member dies after falling during demonstration before college football game in San Antonio",
-      "URL": "https://www.nbcnews.com/news/us-news/service-member-dies-falling-pregame-demonstration-college-football-gam-rcna604128",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "San Antonio"
-      ]
-    },
-    {
-      "Headline": "Priest in Ecuador dies after crucifix falls on him during livestreamed Mass",
-      "URL": "https://www.nbcnews.com/world/ecuador/priest-ecuador-dies-crucifix-falls-livestreamed-mass-rcna604211",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ecuador"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Trump endorses Benjamin Netanyahu ahead of pivotal Israeli election",
-      "URL": "https://www.nbcnews.com/world/israel/trump-endorses-benjamin-netanyahu-israeli-election-rcna604140",
+      "Headline": "Wave of violent settler attacks hits Americans and others in lead-up to Israeli election",
+      "URL": "https://www.nbcnews.com/world/israel/new-wave-violent-settler-attacks-hits-americans-others-lead-key-electi-rcna604308",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -514,6 +457,87 @@
       "TriggerCity": []
     },
     {
+      "Headline": "Lawmaker reportedly loses leg as car ramming stuns Australia",
+      "URL": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Australia"
+      ],
+      "TriggerADM1": [
+        "car"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Lawmaker reportedly loses leg as car ramming stuns Australia",
+      "URL": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Australia"
+      ],
+      "TriggerADM1": [
+        "car"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples",
+      "URL": "https://www.nbcnews.com/world/asia/japan-launches-spacecraft-mars-moons-bold-mission-samples-rcna604511",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Wave of violent settler attacks hits Americans and others in lead-up to Israeli election",
+      "URL": "https://www.nbcnews.com/world/israel/new-wave-violent-settler-attacks-hits-americans-others-lead-key-electi-rcna604308",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israeli"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Mississippi AG says police shooting that killed 1-year-old was \u2018justified\u2019",
+      "URL": "https://www.nbcnews.com/news/us-news/mississippi-ag-says-police-shooting-killed-1-year-old-was-justified-rcna604424",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Mississippi"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples",
+      "URL": "https://www.nbcnews.com/world/asia/japan-launches-spacecraft-mars-moons-bold-mission-samples-rcna604511",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Rare photos of Myanmar\u2019s ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
+      "URL": "https://www.nbcnews.com/world/asia/photos-rare-aung-san-suu-kyi-myanmar-receiving-books-king-charles-rcna604381",
+      "Category": "CONFLICT",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Myanmar"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "China\u2019s economy accelerates on robust exports as domestic weakness persists",
       "URL": "https://www.nbcnews.com/world/asia/china-economy-q3-gdp-robust-exports-domestic-weakness-rcna604285",
       "Category": "Status Quo",
@@ -525,43 +549,63 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Measles outbreak in Bangladesh is a \u2018real warning\u2019 to other nations, experts say",
-      "URL": "https://www.nbcnews.com/world/asia/measles-outbreak-bangladesh-real-warning-other-nations-rcna604295",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Bangladesh"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Congo\u2019s fast-moving Ebola outbreak spreads to eighth province",
-      "URL": "https://www.nbcnews.com/world/africa/dr-congos-fast-moving-ebola-outbreak-spreads-eighth-province-rcna604234",
+      "Headline": "Marine life dramatically declined in Gulf of Mexico in years after BP oil spill, study finds",
+      "URL": "https://www.nbcnews.com/science/environment/marine-life-declined-gulf-mexico-bp-oil-spill-deepwater-horizon-study-rcna604457",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Congo"
+        "Mexico"
+      ],
+      "TriggerADM1": [
+        "Mexico"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US politicsMassachusetts lieutenant governor candidate ends campaign after arrest",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "A protester waving a French national flag walks past a fire during clashes in MarseilleClashes and damage occurred before the start of a protest against the high cost of living, MarseilleRiots in central Paris over the weekend, with 2,400 people arrested nationallyA protester wrapped in a French national flag stands in front of Lyon's tourism officeThe town hall in Limoges",
-      "URL": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "Category": "CONFLICT",
+      "Headline": "US politicsMassachusetts lieutenant governor candidate ends campaign after arrest",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
+      "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "French",
-        "French"
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "ICE agents broke US citizen\u2019s arm as they detained him in California, officials say",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/19/ice-broke-us-citizen-arm-california",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [
-        "central"
+        "California"
       ],
-      "TriggerCity": [
-        "Paris",
-        "Lyon"
-      ]
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Magnitude 6.3 earthquake strikes 197 km NW of Port-Olry, Vanuatu",
+      "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Vanuatu"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "Magnitude 5.7 earthquake strikes 48 km WNW of Khuzdar, Pakistan",
@@ -586,19 +630,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Magnitude 6.1 earthquake strikes 17 km W of R\u00edo Grande, Panama",
-      "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Panama"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Watch issued October 18 at 11:17PM AKDT until October 21 at 4:00PM AKDT by NWS Juneau AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.66bc2aaecd1c83ca9ba359bb5dbfc23fec6534ed.007.1",
+      "Headline": "Flood Watch issued October 20 at 2:44AM AKDT until October 21 at 4:00AM AKDT by NWS Juneau AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e512c690ce888a99610b14562bca654c399dbd0f.001.1",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -608,8 +641,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued October 19 at 2:38AM EDT until October 20 at 5:00PM EDT by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.637f108880319418eacf31b5c0e50c6da1a744f1.002.1",
+      "Headline": "High Wind Warning issued October 20 at 1:55AM AKDT until October 20 at 10:00PM AKDT by NWS Juneau AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.22b3c548532642aed8f67ca99dd9c39da9b88c35.001.2",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -619,54 +652,62 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Freeze Warning issued October 18 at 10:42PM EDT until October 19 at 9:00AM EDT by NWS State College PA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.788a55a7380971227d3e9045757d57cf89649d79.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 18 at 8:47PM EDT until October 19 at 9:00AM EDT by NWS Jackson KY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d62ef1c9ab265103bb8ce3530fb808eecc2bfab9.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued October 18 at 3:08PM AKDT until October 19 at 4:00PM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.987d3c4e9efaa2dad169d04ff8129042a0eb2c42.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Watch issued October 18 at 2:59PM AKDT until October 21 at 4:00PM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5bcf99b73db5941c7d57ec150e113a34c2c891ff.005.1",
+      "Headline": "Flood Watch issued October 20 at 1:30AM MST until October 22 at 10:00PM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.556d0c221c8330e8c73f2f6416edfeb78d7347a8.001.1",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
       ],
-      "TriggerADM1": [
-        "Rivers"
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Tucson"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued October 20 at 3:23AM EDT until October 21 at 8:00PM EDT by NWS Newport/Morehead City NC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8c705eaf7a4f5fd08d50175eb70b7d4dbf3fff4f.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
       ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "River discharge near Xiangtan, China running 2.7x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=27.825005&longitude=112.875",
+      "Headline": "Flood Watch issued October 20 at 12:04AM MST until October 22 at 11:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6e93f7e4c535dd27f16fd41e4e9184460785d1c3.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "Southeast"
+      ],
+      "TriggerCity": [
+        "Phoenix",
+        "Mesa"
+      ]
+    },
+    {
+      "Headline": "River discharge near Osaka, Japan running 1.7x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=34.675003&longitude=135.52502",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Osaka"
+      ]
+    },
+    {
+      "Headline": "River discharge near Guilin, China running 2.1x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=25.275002&longitude=110.275024",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -674,127 +715,65 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Xiangtan"
+        "Guilin"
       ]
     },
     {
-      "Headline": "River discharge near Oujda, Morocco running 1.5x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=34.675003&longitude=-1.9249878",
+      "Headline": "River discharge near Le\u00f3n de Los Aldama, Mexico running 1.5x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=21.125&longitude=-101.674995",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Morocco"
+        "Mexico"
+      ],
+      "TriggerADM1": [
+        "Mexico"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "River discharge near Kobe, Japan running 1.5x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=34.675003&longitude=135.17502",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japan"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Oujda"
+        "Kobe"
       ]
     }
   ],
   "3": [
     {
-      "Headline": "UN food program cuts aid to 500,000 Palestinians in Gaza",
-      "URL": "https://www.dw.com/en/un-food-program-cuts-aid-to-500000-palestinians-in-gaza/a-79699408",
+      "Headline": "Massive strikes overnight hit the capital Kyiv, killing at least one person and cutting power to thousands of homes.",
+      "URL": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Gaza"
+        "Kyiv"
       ],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Kyiv"
+      ]
     },
     {
-      "Headline": "Palestinian farmers are abandoning olive harvests as settlers approach in the occupied West Bank.",
-      "URL": "https://www.dw.com/en/settler-attacks-disrupt-olive-harvest-in-the-west-bank/video-79684499",
+      "Headline": "Washington's top diplomat will skip New Delhi and instead visit the world's largest oil refinery.",
+      "URL": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-worlds-largest-oil-refinery-topping-the-agenda/a-79699826",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "West"
+        "Washington",
+        "Delhi"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "WFP cuts aid to \u200c500,000 Palestinians in Gaza amid funding shortages",
-      "URL": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Gaza"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "7,Inside Gaza\u2019s hospital horrorExternal LinkThis article will be opened in a new browser window",
-      "URL": "https://interactive.aljazeera.com/aje/2026/gaza-hospitals/",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Gaza"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Live updates: Trump to rally in Kansas while Vance campaigns in North Carolina",
-      "URL": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-rally-kansas-vance-congress-2026-midterm-live-updates-rcna604283",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Kansas",
-        "North Carolina"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages",
-      "URL": "https://www.nbcnews.com/world/gaza/world-food-programme-cuts-aid-500000-palestinians-gaza-citing-funding-rcna604294",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Gaza"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018No conclusive evidence\u2019 of Amelia Earhart\u2019s missing plane found in South Pacific expedition",
-      "URL": "https://www.nbcnews.com/news/us-news/no-conclusive-evidence-amelia-earharts-missing-plane-found-south-pacif-rcna604274",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018No conclusive evidence\u2019 of Amelia Earhart\u2019s missing plane found in South Pacific",
-      "URL": "https://www.nbcnews.com/news/us-news/no-conclusive-evidence-amelia-earharts-missing-plane-found-south-pacif-rcna604274",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Massachusetts Republican Shawn Oliver suspends campaign after OUI arrest",
-      "URL": "https://www.nbcnews.com/politics/politics-news/massachusetts-shawn-oliver-lt-governor-suspends-campaign-drunk-driving-rcna604183",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Massachusetts"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Texas Republicans start finger-pointing over potential losses as Election Day nears",
-      "URL": "https://www.nbcnews.com/politics/2026-election/texas-republicans-finger-pointing-potential-election-losses-rcna603554",
+      "Headline": "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting",
+      "URL": "https://www.nbcnews.com/politics/2026-election/james-talarico-ken-paxton-rallies-texas-begins-early-rcna604421",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
@@ -804,24 +783,85 @@
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018No conclusive evidence\u2019 of Amelia Earhart\u2019s missing plane found in South Pacific expedition",
+      "Headline": "Gregory Rec / Portland Press Herald via Getty",
+      "URL": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-susan-collins-transcend-trump-maine-rcna604444",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Portland"
+      ],
+      "TriggerCity": [
+        "Portland"
+      ]
+    },
+    {
+      "Headline": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers",
+      "URL": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Bay"
+      ],
+      "TriggerCity": [
+        "Milwaukee"
+      ]
+    },
+    {
+      "Headline": "The New York Knicks are the defending champs \u2014 and the face of the NBA\u2019s biggest dilemma",
+      "URL": "https://www.nbcnews.com/sports/nba/nba-new-york-knicks-second-apron-karl-anthony-towns-rcna603572",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "The New York Knicks are the defending champs \u2014 and the face of the NBA\u2019s biggest dilemma",
+      "URL": "https://www.nbcnews.com/sports/nba/nba-new-york-knicks-second-apron-karl-anthony-towns-rcna603572",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting",
+      "URL": "https://www.nbcnews.com/politics/2026-election/james-talarico-ken-paxton-rallies-texas-begins-early-rcna604421",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers",
+      "URL": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Bay"
+      ],
+      "TriggerCity": [
+        "Milwaukee"
+      ]
+    },
+    {
+      "Headline": "\u2018No conclusive evidence\u2019 of Amelia Earhart\u2019s missing plane found in the South Pacific",
       "URL": "https://www.nbcnews.com/news/us-news/no-conclusive-evidence-amelia-earharts-missing-plane-found-south-pacif-rcna604274",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
         "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages",
-      "URL": "https://www.nbcnews.com/world/gaza/world-food-programme-cuts-aid-500000-palestinians-gaza-citing-funding-rcna604294",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Gaza"
       ],
       "TriggerCity": []
     },
@@ -837,24 +877,57 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Washington DCTrump plans to begin DC golf course renovation in defiance of judge\u2019s order",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+      "Headline": "New details emerge on two killed after woman drove through Kansas soccer game",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/19/kansas-deaths-soccer-game-vehicle-latest",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Washington"
+        "Kansas"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Outrage after Meta suspends No Kings Instagram account during protests",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "Headline": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "New details emerge on two killed after woman drove through Kansas soccer game",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/19/kansas-deaths-soccer-game-vehicle-latest",
       "Category": "Status Quo",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Meta"
+        "Kansas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+      "Category": "Sports Results",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ultra-endurance athlete completes 900-mile swim along entire California coast",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/19/catherine-breed-ultra-endurance-swim-california-coast",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "California"
       ],
       "TriggerCity": []
     },
@@ -870,13 +943,90 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Magnitude 6.7 earthquake strikes central Mid-Atlantic Ridge",
-      "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
+      "Headline": "Flood Watch issued October 20 at 1:30AM MST until October 22 at 5:00PM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.556d0c221c8330e8c73f2f6416edfeb78d7347a8.003.1",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "central"
+        "South",
+        "Central"
+      ],
+      "TriggerCity": [
+        "Tucson"
+      ]
+    },
+    {
+      "Headline": "Flood Watch issued October 20 at 1:30AM MST until October 22 at 8:00PM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.556d0c221c8330e8c73f2f6416edfeb78d7347a8.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Southeast"
+      ],
+      "TriggerCity": [
+        "Tucson"
+      ]
+    },
+    {
+      "Headline": "Flood Watch issued October 20 at 12:37AM MST until October 22 at 11:00PM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a49f2701253648ae1f1419957046785dbff77a4e.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Plateau",
+        "Plateau",
+        "Northeast",
+        "Plateau",
+        "Colorado",
+        "Colorado",
+        "Colorado",
+        "Western",
+        "Eastern",
+        "Northern",
+        "Northeast",
+        "South"
+      ],
+      "TriggerCity": [
+        "Mesa"
+      ]
+    },
+    {
+      "Headline": "Winter Storm Warning issued October 19 at 8:48PM AKDT until October 21 at 4:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6865e1cb8cb7c569938b2d936443ffad8ce8457c.002.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Delta"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Winter Storm Warning issued October 19 at 8:48PM AKDT until October 22 at 4:00AM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6865e1cb8cb7c569938b2d936443ffad8ce8457c.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Eastern",
+        "Alaska",
+        "North",
+        "Eastern",
+        "Alaska",
+        "South"
       ],
       "TriggerCity": []
     },
@@ -895,106 +1045,9 @@
         "West"
       ],
       "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 19 at 5:03AM EDT until October 19 at 9:00AM EDT by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bf95fb075c4a3ea043f941c9babd957f945042c9.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Washington",
-        "Northern",
-        "Southern",
-        "Western"
-      ],
-      "TriggerCity": [
-        "Baltimore"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued October 18 at 8:45PM AKDT until October 21 at 4:00AM AKDT by NWS Juneau AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2f06fc6275c0c7f0c4b83cb9b20549627213fd7b.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued October 18 at 2:59PM AKDT until October 22 at 4:00AM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5bcf99b73db5941c7d57ec150e113a34c2c891ff.001.2",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Eastern",
-        "Alaska",
-        "North",
-        "Eastern",
-        "Alaska",
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued October 18 at 2:59PM AKDT until October 21 at 4:00PM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5bcf99b73db5941c7d57ec150e113a34c2c891ff.003.2",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Yukon",
-        "South",
-        "Yukon"
-      ],
-      "TriggerCity": []
     }
   ],
   "4": [
-    {
-      "Headline": "Paris: Weekend of fiery protests raises questions, costs millions",
-      "URL": "https://www.dw.com/en/protests-against-high-cost-of-living-turn-violent-in-france-and-elsewhere-in-europe/g-79696505",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Paris"
-      ]
-    },
-    {
-      "Headline": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years",
-      "URL": "https://www.nbcnews.com/sports/nfl/dallas-cowboys-nfl-green-bay-packers-dak-prescott-results-rcna604280",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Dallas"
-      ]
-    },
-    {
-      "Headline": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years",
-      "URL": "https://www.nbcnews.com/sports/nfl/dallas-cowboys-nfl-green-bay-packers-dak-prescott-results-rcna604280",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Dallas"
-      ]
-    },
     {
       "Headline": "Rebuilding after the Los Angeles fires",
       "URL": "https://www.nbcnews.com/health/cancer/brain-tumor-vaccine-experimental-shot-shows-promise-glioblastoma-patie-rcna601650",
@@ -1007,21 +1060,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued October 18 at 8:58PM EDT by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ae8e54e11e9105fc7e4866ee9a809176c3d3d8bf.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 18 at 8:57PM EDT by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cb7a65afb7186ed8fde265b4e0c2ae91be88bcd0.001.1",
+      "Headline": "Flood Warning issued October 19 at 9:46PM EDT by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b1ba3ab2e6f7d3f3240799f5b8b6d789625898eb.001.1",
       "Category": "Natural Disaster",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -1031,85 +1071,105 @@
       "TriggerCity": [
         "Jacksonville"
       ]
+    },
+    {
+      "Headline": "Flood Warning issued October 19 at 9:33PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8944d0486c60629f43c570c623ffecd303459fe1.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Melbourne"
+      ]
     }
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "EU",
-      "Europe"
+      "Central Asia",
+      "Europe",
+      "Sco"
     ],
     "TriggerCountry": [
-      "Austrian",
-      "Bangladesh",
+      "Australia",
+      "Australian",
       "Brazil",
-      "Bulgaria",
       "China",
-      "Congo",
       "DRC",
-      "Ecuador",
+      "Ethiopia",
       "France",
-      "French",
-      "German",
-      "Germany",
+      "Ghana",
+      "India",
       "Iran",
       "Israel",
       "Israeli",
-      "Italian",
-      "Lebanon",
+      "Japan",
+      "Japanese",
+      "Mexico",
       "Morocco",
+      "Myanmar",
       "Pakistan",
       "Palestine",
-      "Panama",
       "Qatar",
       "Russia",
       "Russian",
       "Sa",
-      "Saudi",
-      "Spain",
-      "Tanzania",
+      "Somalia",
+      "Sudan",
       "Tunisia",
-      "U.S.",
-      "UK",
       "US",
       "Ukraine",
       "United States",
-      "Yemen",
-      "Yemeni"
+      "Uzbekistan",
+      "Vanuatu",
+      "Yemen"
     ],
     "TriggerADM1": [
       "Alaska",
       "Bay",
+      "California",
+      "Central",
+      "Colorado",
+      "Delhi",
+      "Delta",
+      "East",
       "Eastern",
-      "Gaza",
       "Kansas",
-      "Massachusetts",
-      "Meta",
+      "Kyiv",
+      "Mexico",
+      "Mississippi",
+      "New York",
       "North",
-      "North Carolina",
+      "Northeast",
       "Northern",
-      "Rivers",
+      "Plateau",
+      "Portland",
       "South",
-      "Southern",
-      "Tel Aviv",
+      "Southeast",
       "Texas",
+      "Tigray",
       "Washington",
       "West",
       "Western",
-      "Yukon",
+      "car",
       "central"
     ],
     "TriggerCity": [
       "Athens",
-      "Baltimore",
-      "Dallas",
+      "Guilin",
       "Jacksonville",
+      "Kobe",
+      "Kyiv",
       "Los Angeles",
-      "Lyon",
       "Melbourne",
-      "Oujda",
-      "Paris",
-      "San Antonio",
-      "Xiangtan"
+      "Mesa",
+      "Milwaukee",
+      "Osaka",
+      "Phoenix",
+      "Portland",
+      "Tucson"
     ]
   },
   "allLocations": {
