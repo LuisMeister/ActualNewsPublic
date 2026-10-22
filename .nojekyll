@@ -1,0 +1,10 @@
+GitHub Pages checks only for this file's presence, not its content, so it's
+safe to leave this note here for future reference.
+
+Added 2026-10-22: this repo is plain static output from ActualNews's
+WebsiteBackend.py, not a Jekyll site (no _config.yml, front matter, or
+Liquid). Without .nojekyll, GitHub still ran every push through its
+legacy Jekyll build step for no reason -- added cost, and the proximate
+cause of an observed "Page build failed" on one push (duration 0ms)
+that an unrelated identical push built fine 14 minutes later. This file
+tells Pages to serve the files as-is instead.
