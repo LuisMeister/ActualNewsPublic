@@ -49,6 +49,18 @@
       "TriggerCity": []
     },
     {
+      "Headline": "US media report that Donald Trump is considering new strikes after the midterm elections. Iran is steeling for them.",
+      "URL": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Iran is turning to rail trade with China, but sanctions and capacity limits remain obstacles.",
       "URL": "https://www.dw.com/en/us-sanctions-target-irans-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413",
       "Category": "CONFLICT",
@@ -69,18 +81,6 @@
         "Iran",
         "Ukraine",
         "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "France\u2019s student protests gain political momentum while Hungary reforms media long shaped by Orb\u00e1n.",
-      "URL": "https://www.dw.com/en/student-protests-expose-a-deeper-crisis-in-france/video-79683544",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "France",
-        "Hungary"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -146,14 +146,13 @@
       "TriggerCity": []
     },
     {
-      "Headline": "India overcome New Zealand fightback to win record-setting T20 opener",
-      "URL": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India",
-        "New Zealand"
+      "Headline": "FIFA\u2019s Infantino made to wait on Asian support as chief coy at AFC session",
+      "URL": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session",
+      "Category": "Status Quo",
+      "TriggerRegion": [
+        "Asia"
       ],
+      "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
     },
@@ -185,6 +184,28 @@
         "North",
         "South"
       ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Analysis\u2018America, this is a warning\u2019: pro- Trump Maga media in a froth over Europe protests",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
+      "Category": "Rumour",
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Analysis\u2018America, this is a warning\u2019: pro- Trump Maga media in a froth over Europe protests",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
+      "Category": "Rumour",
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -287,19 +308,6 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": []
-    },
-    {
-      "Headline": "Tehran has said its goal is to keep the regime afloat and threaten enough regional costs to deter prolonged strikes.",
-      "URL": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Tehran"
-      ],
-      "TriggerCity": [
-        "Tehran"
-      ]
     },
     {
       "Headline": "Trump's diesel deal with Russia unlikely to bring down fuel prices",
@@ -420,6 +428,28 @@
       "TriggerCity": []
     },
     {
+      "Headline": "UN says 8,513 casualties in Yemen since August as fighting intensifies",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Carney, Erdogan launch \u2018strong and resilient\u2019 Canada-Turkiye partnership",
+      "URL": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership",
+      "Category": "Status Quo",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Canada"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
       "URL": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs",
       "Category": "Status Quo",
@@ -456,6 +486,17 @@
       "TriggerCity": []
     },
     {
+      "Headline": "1,UN says 8,513 casualties in Yemen since August as fighting intensifies",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "2,El-Sayed and Rogers clash over Trump, Iran war in Michigan Senate debate",
       "URL": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash",
       "Category": "Rumour",
@@ -469,7 +510,7 @@
       "TriggerCity": []
     },
     {
-      "Headline": "5,Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
+      "Headline": "8,Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
       "URL": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs",
       "Category": "Status Quo",
       "TriggerRegion": [],
@@ -515,17 +556,6 @@
       "TriggerCity": []
     },
     {
-      "Headline": "U.S. is big reason the world is losing ground in fight against climate change, U.N. report says",
-      "URL": "https://www.nbcnews.com/news/us-news/us-big-reason-world-losing-ground-fight-climate-change-un-report-says-rcna604944",
-      "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
       "Headline": "South Korean city seeks new way to free huge shark from canal after third rescue fails",
       "URL": "https://www.nbcnews.com/world/asia/south-korea-busan-seeks-new-ways-free-huge-gray-shark-slips-back-canal-rcna604947",
       "Category": "Status Quo",
@@ -564,6 +594,17 @@
       "TriggerCity": []
     },
     {
+      "Headline": "USIlhan Omar says she plans to move out of Washington home after federal raid",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+      "Category": "Rumour",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Washington"
+      ],
+      "TriggerCity": []
+    },
+    {
       "Headline": "EnvironmentMarine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
       "URL": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
       "Category": "CONFLICT",
@@ -574,17 +615,6 @@
       "TriggerADM1": [
         "Mexico"
       ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "FranceAngry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
-      "URL": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "French"
-      ],
-      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -651,6 +681,41 @@
       "TriggerRegion": [],
       "TriggerCountry": [
         "Russia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flash Flood Warning issued October 22 at 8:10AM PDT until October 22 at 9:15AM PDT by NWS Los Angeles/Oxnard CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e09ae35ff35be0bf5195ad17121ce51111fc3c2f.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Los Angeles"
+      ]
+    },
+    {
+      "Headline": "Severe Thunderstorm Warning issued October 22 at 8:07AM MST until October 22 at 8:30AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.67cfff07d68f24b4ccc08de0ff8ff7c590bb8a04.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 22 at 8:06AM MST until October 22 at 8:00PM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.12c921c3371c20910c0967797fd86d893270c410.001.1",
+      "Category": "Natural Disaster",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -741,19 +806,6 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flash Flood Warning issued October 22 at 6:12AM PDT until October 22 at 9:15AM PDT by NWS Los Angeles/Oxnard CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.31c099c30a199ab2fd2670195e5af4620974b48a.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Los Angeles"
-      ]
-    },
-    {
       "Headline": "Flood Warning issued October 22 at 6:16AM MDT until October 22 at 12:15PM MDT by NWS Salt Lake City UT",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.408113d57ce3e65389a70423939472c67adfb114.001.1",
       "Category": "Natural Disaster",
@@ -829,17 +881,6 @@
       "TriggerCity": [
         "Tucson"
       ]
-    },
-    {
-      "Headline": "Flash Flood Warning issued October 22 at 2:32AM MST until October 22 at 8:15AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.df7be14be20ef8430077d43c9d98c3df4991cf98.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
     },
     {
       "Headline": "Severe Thunderstorm Watch issued October 22 at 2:15AM MST until October 22 at 10:00AM MST by NWS Flagstaff AZ",
@@ -1079,17 +1120,6 @@
     }
   ],
   "3": [
-    {
-      "Headline": "BREAKING: High-ranking Virginia state Democrat charged in public corruption case",
-      "URL": "https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Virginia"
-      ],
-      "TriggerCity": []
-    },
     {
       "Headline": "GOP Senate hopeful balances standing by Trump and standing up to him in Iowa",
       "URL": "https://www.nbcnews.com/politics/2026-election/gop-senate-hopeful-ashley-hinson-balances-standing-trump-standing-iowa-rcna604809",
@@ -1521,19 +1551,6 @@
       ]
     },
     {
-      "Headline": "Flash Flood Warning issued October 22 at 7:19AM MST until October 22 at 8:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0a52b89596cbb30277e5976b2b3f3b96569360fa.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
       "Headline": "Flood Warning issued October 22 at 9:36AM EDT by NWS Melbourne FL",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4349c6b86ca16ae4a20ad3093a9f92ff4bf52ad2.001.1",
       "Category": "Natural Disaster",
@@ -1590,7 +1607,9 @@
     "TriggerRegion": [
       "Africa",
       "Arctic",
+      "Asia",
       "EU",
+      "Europe",
       "Middle East",
       "Sco"
     ],
@@ -1599,20 +1618,19 @@
       "Brazil",
       "British",
       "Bulgaria",
+      "Canada",
       "China",
       "Egypt",
       "France",
       "French",
       "German",
       "Germany",
-      "Hungary",
       "India",
       "Iran",
       "Israeli",
       "Lebanon",
       "Mali",
       "Mexico",
-      "New Zealand",
       "Nigeria",
       "Nigerian",
       "North Korea",
@@ -1632,6 +1650,7 @@
       "Ukrainian",
       "United States",
       "Vanuatu",
+      "Yemen",
       "Zimbabwe"
     ],
     "TriggerADM1": [
@@ -1663,10 +1682,8 @@
       "Southeast",
       "Southern",
       "Southwest",
-      "Tehran",
       "Utah",
       "Van",
-      "Virginia",
       "Washington",
       "West",
       "Western",
@@ -1688,7 +1705,6 @@
       "Phoenix",
       "Portland",
       "San Francisco",
-      "Tehran",
       "Tucson",
       "Van"
     ]
