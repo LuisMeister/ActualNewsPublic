@@ -36,6 +36,7 @@
         <section class="location-picker">
             <h3>Reporting location</h3>
             <p class="location-hint">Pick any combination of places you care about &mdash; a headline shows if it matches ANY of your selections. Leave everything unselected to see all locations.</p>
+            <p class="location-hint">We try to pre-select your country/region/city based on your IP address when the page loads. Hit "Clear location filters" anytime to see everything instead.</p>
             <div class="location-toolbar">
                 <button type="button" id="location-scope-toggle" class="cat-btn">Showing: today's locations only</button>
                 <button type="button" id="clear-location-btn" class="cat-btn">Clear location filters</button>
@@ -244,12 +245,60 @@
             renderTiers();
         });
 
+        // --- Auto-detect visitor location from IP, pre-select matching filters ---
+        // Values in newsData.allLocations/locationOptions come from our own pipeline
+        // (LocationLists.py / adm1_data.py / GeocodeCities.py), so a raw IP-geolocation
+        // name ("Czechia", "California", ...) won't always match our stored casing
+        // exactly -- match case-insensitively, then use OUR canonical spelling so it
+        // lines up with the TriggerCountry/TriggerADM1/TriggerCity tags on headlines.
+        function findCanonicalLocation(col, rawValue) {
+            if (!rawValue) return null;
+            const normalized = rawValue.trim().toLowerCase();
+            const pool = (newsData.allLocations && newsData.allLocations[col]) || [];
+            return pool.find(v => v.toLowerCase() === normalized) || null;
+        }
+
+        function applyDetectedLocation(geo) {
+            const matches = {
+                TriggerCountry: findCanonicalLocation("TriggerCountry", geo.country),
+                TriggerADM1: findCanonicalLocation("TriggerADM1", geo.region),
+                TriggerCity: findCanonicalLocation("TriggerCity", geo.city)
+            };
+            let changed = false;
+            TRIGGER_COLS.forEach(col => {
+                const value = matches[col];
+                if (value && !activeLocations[col].includes(value)) {
+                    activeLocations[col].push(value);
+                    changed = true;
+                }
+            });
+            if (!changed) return;
+            TRIGGER_COLS.forEach(col => {
+                const searchInput = document.querySelector(`.location-dropdown[data-col="${col}"] .dropdown-search`);
+                renderDropdownOptions(col, searchInput ? searchInput.value : "");
+            });
+            updateLocationSummary();
+            renderTiers();
+        }
+
+        function detectVisitorLocation() {
+            // No API key, HTTPS + CORS, no permission prompt (unlike navigator.geolocation).
+            // IP-based, so it's approximate -- that's fine for "today's locations" defaults.
+            fetch("https://ipwho.is/", { cache: "no-store" })
+                .then(res => res.json())
+                .then(geo => {
+                    if (geo && geo.success !== false) applyDetectedLocation(geo);
+                })
+                .catch(err => console.warn("Location auto-detect failed, leaving filters as-is:", err));
+        }
+
         fetch("./data.json", { cache: "no-store" })
             .then(res => res.json())
             .then(data => {
                 newsData = data;
                 TRIGGER_COLS.forEach(col => renderDropdownOptions(col));
                 renderTiers();
+                detectVisitorLocation();
             })
             .catch(err => {
                 TIERS.forEach(tier => {
