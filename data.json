@@ -1,38 +1,28 @@
 {
   "1": [
     {
-      "Headline": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
-      "URL": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723",
+      "Headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+      "URL": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemens-houthis-up-pressure/a-79735138",
       "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/78307185_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russia",
-        "Ukraine",
-        "US"
+        "Saudi Arabia",
+        "US",
+        "Yemen"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Japan-Russia ties erode as journalist sits in Moscow jail",
-      "URL": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Japan",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-      "URL": "https://www.dw.com/en/ukraine-tries-to-shut-moscows-airports-with-drone-strikes-on-russia/a-79737469",
+      "Headline": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "URL": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496",
       "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/79753666_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine",
-        "Russia"
+        "Bulgaria",
+        "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -41,6 +31,7 @@
       "Headline": "US media report that Donald Trump is considering new strikes after the midterm elections. Iran is steeling for them.",
       "URL": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
       "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/76257385_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US",
@@ -50,21 +41,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Iran is turning to rail trade with China, but sanctions and capacity limits remain obstacles.",
-      "URL": "https://www.dw.com/en/us-sanctions-target-irans-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran",
-        "China"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
       "Headline": "This weekly podcast is a deep dive into the twists and turns of European current affairs, politics and culture.",
       "URL": "https://www.dw.com/en/inside-europe/program-19041931",
       "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/59113315_6.jpg",
       "TriggerRegion": [
         "Europe"
       ],
@@ -73,98 +53,40 @@
       "TriggerCity": []
     },
     {
-      "Headline": "North Korea\u2019s Kim Jong Un visits China via newly opened bridge",
-      "URL": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "North Korea",
-        "China"
-      ],
-      "TriggerADM1": [
-        "North"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "New electronics reach Iran, but prices soar as gov\u2019t fees, US sanctions hit",
-      "URL": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
+      "Headline": "Bulgarians vote for president in shadow of Russia\u2019s war on Ukraine",
+      "URL": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine",
       "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261023__D47R3NQ__v1__HighRes__PresidentialElectionsFirstRound-1792891035.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iran",
-        "US"
+        "Russia",
+        "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "7,Iran war updates: Israel locks down West Bank as Trump threatens Iran",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran",
-        "Israel",
-        "Iran"
-      ],
-      "TriggerADM1": [
-        "West"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Formula OneHamilton aims to extend career until early 2030s to race in African Grand Prix",
-      "URL": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "Category": "Status Quo",
-      "TriggerRegion": [
-        "Africa"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ukraine war briefingUkraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
-      "URL": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
+      "Headline": "Iranian plots to kill U.S. officials in Middle East have reached \u2018advanced stages,\u2019 intel warns",
+      "URL": "https://www.nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-east-reached-advanced-stages-in-rcna605360",
       "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-Rubio-Uzbekistan-vsb-2323-880bb0.jpg",
       "TriggerRegion": [
-        "North America"
+        "Middle East"
       ],
       "TriggerCountry": [
-        "Ukraine",
-        "Russian",
-        "US"
+        "Iranian",
+        "U.S."
       ],
       "TriggerADM1": [
-        "North",
-        "Moscow"
-      ],
-      "TriggerCity": [
-        "Moscow"
-      ]
-    },
-    {
-      "Headline": "Freeze Warning issued October 23 at 6:16PM PDT until October 24 at 9:00AM PDT by NWS Eureka CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2a24f382f751542a4aab0ce60a9e0c46355730e3.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [
-        "Eu"
-      ],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Southern",
-        "Northern",
-        "Central"
+        "East"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Blizzard Warning issued October 23 at 12:44PM AKDT until October 24 at 7:00AM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b8397a9f9c9f96fdce4ffad58729ed598c3aea99.001.1",
+      "Headline": "High Wind Watch issued October 24 at 9:49AM AKDT until October 27 at 10:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9b4429da659d28db00fb08fc0e3ae6fa5f792a9a.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [
         "Arctic"
       ],
@@ -179,23 +101,25 @@
   ],
   "2": [
     {
-      "Headline": "Kim Jong Un arrives in China via newly opened border bridge \u2014 reports",
-      "URL": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580",
+      "Headline": "Brazil election: Voters in Rio split over crime and policing",
+      "URL": "https://www.dw.com/en/brazil-election-one-communitys-divide-over-crime-and-policing/video-79747588",
       "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/77344566_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "China"
+        "Brazil"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Israeli army says 'terror attack' prevented after shooting",
-      "URL": "https://www.dw.com/en/israeli-army-says-terror-attack-prevented-after-shooting/video-79743507",
-      "Category": "Rumour",
+      "Headline": "Ukraine: Starlink satellite speeds restored to normal",
+      "URL": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79738872_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Israeli"
+        "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -204,6 +128,7 @@
       "Headline": "Iran's Balochistan border region sees growing unrest",
       "URL": "https://www.dw.com/en/irans-balochistan-border-region-sees-growing-unrest/a-79716399",
       "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/68997556_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Iran"
@@ -214,93 +139,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-      "URL": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Lebanese",
-        "Israeli"
-      ],
-      "TriggerADM1": [
-        "south"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Hospital in Yemen\u2019s Taiz warns of collapse in days because of Houthi siege",
-      "URL": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege",
+      "Headline": "US President Donald Trump says AI is the future. But a growing number of voters are worried about the risks.",
+      "URL": "https://www.dw.com/en/americas-ai-race-are-the-risks-being-ignored/video-79752366",
       "Category": "Rumour",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Yemen"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-      "URL": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israeli"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Trump administration cancels some Canada tariffs amid close midterm races",
-      "URL": "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Canada"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "MaineTrump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Canada"
-      ],
-      "TriggerADM1": [
-        "Maine"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "ItalyMilan braces for more unrest as debate intensifies over Italy\u2019s \u2018lost generation\u2019",
-      "URL": "https://www.theguardian.com/world/2026/oct/23/milan-unrest-italy-lost-generation-protests",
-      "Category": "Sports Results",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Italy"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "North KoreaKim Jong-un crosses over newly opened bridge into China",
-      "URL": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-      "Category": "CONFLICT",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "China"
-      ],
-      "TriggerADM1": [
-        "North"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Mysterious \u2018black triangles\u2019 spotted over sensitive US site, new Pentagon UFO files reveal",
-      "URL": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
-      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79698814_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US"
@@ -309,9 +151,242 @@
       "TriggerCity": []
     },
     {
+      "Headline": "France: Clashes break out as protests go nationwide",
+      "URL": "https://www.dw.com/en/france-protests-police-paris/live-79748223",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79751958_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Kim Jong Un travels to China via newly opened border bridge",
+      "URL": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79752716_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Saudi Arabia downs missile over Riyadh; Houthis warn airports unsafe",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T162722Z_2088143413_RC2Q9OARGLA5_RTRMADP_3_IRAN-CRISIS-YEMEN-1792912096.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Saudi Arabia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Israeli forces turn Hebron homes into military posts amid lockdown",
+      "URL": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T074418Z_742648547_RC2I9OARH8PO_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK-1792920753.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israeli"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Qatar official calls for peace and security to boost trade, investment",
+      "URL": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/06/6N0A8308-1782822321.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Qatar"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Elections cannot produce change in Israel",
+      "URL": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T161346Z_1603692196_RC2R9OAQ0IBT_RTRMADP_3_ISRAEL-ELECTION-RALLY-1792910965_31d6d7-1792911164.jpg?resize=1200%2C630&quality=80",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israel"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Sudan\u2019s soaring fuel prices make getting by harder for workers",
+      "URL": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_3264-1792843719.jpeg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sudan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Hospital in Yemen\u2019s Taiz warns of collapse in days because of Houthi siege",
+      "URL": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb9b137002-1792776979.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Obama seeks to shore up Abdul El-Sayed with Black voters at Michigan rally",
+      "URL": "https://www.nbcnews.com/politics/2026-election/obama-seeks-shore-abdul-el-sayed-black-voters-michigan-rally-rcna605457",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-obama-michigan-abdul-el-sayed-ww-1708-1eac8a.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Michigan"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Netanyahu reportedly preparing to renew strikes on Iran after critical election",
+      "URL": "https://www.nbcnews.com/nightly-news/video/iranian-plots-to-kill-americans-in-middle-east-have-reached-advanced-stages-intel-memo-warns-272179269503",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_10/1792881567535_wnn_mbr_iran_plans_attack_US_targets_261024_S3_1920x1080-p48lza.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Sal Frelick, Cooper Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
+      "URL": "https://www.nbcnews.com/sports/mlb/frelick-pratt-lift-brewers-5-4-comeback-win-rays-2-0-world-series-lead-rcna605483",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-cooper-pratt-rc-1229a-54ddcf.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Sal"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Brazil votes in pivotal runoff between Lula and Bolsonaro Jr.",
+      "URL": "https://www.nbcnews.com/world/brazil/brazil-heads-polls-pivotal-runoff-lula-bolsonaro-jr-rcna605495",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261025-lula-2-nd-e995d9.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Brazil"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+      "URL": "https://www.nbcnews.com/world/north-korea/north-korean-leader-kim-jong-un-visits-china-inaugurate-new-cross-bord-rcna605386",
+      "Category": "CONFLICT",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-Kim-Jong-Un-ch-1056-729ec5.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "North Korean",
+        "China"
+      ],
+      "TriggerADM1": [
+        "North"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ukraine says Starlink is back to normal after limits hobbled its drones",
+      "URL": "https://www.nbcnews.com/world/ukraine/ukraine-says-starlink-back-normal-week-limits-rcna605368",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-ukraine-nd-e09eb8.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "BrazilMore than one million Lula supporters rally on eve of Brazilian election runoff",
+      "URL": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/0ba994ba5bb361aee178bf93d77a0ef20ea9f1ee/407_0_4928_3943/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1988723b6b0684a11980fd1ef786a152",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Brazilian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US seized American heir\u2019s cellphone in violation of treaty agreement, lawyer says",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/5ee6419d2d9d2c9c71788b9331a935f477223ac7/347_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1436b1b3121f3ba9f1baf2042d5c983c",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US",
+        "American"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Obama rallies rapturous Michigan crowd for El-Sayed: \u2018He\u2019ll finish the job we started\u2019",
+      "URL": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/bcf04be8e15098a7d07e4aa14bcc516999eb7ef1/233_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cf2fbe3e80043711d1efc5db83fafe3",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Michigan"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Signs suggest Thomas Markle Sr may be \u2018sex offender of the grossest kind\u2019, says Philippine minister",
+      "URL": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/33215d4db9f8f71824e313272b8523a971becfd8/362_0_1223_978/master/1223.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0d23ad152573a35bf7ee6c9428731da",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Philippine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Magnitude 6.5 earthquake strikes Bonin Islands, Japan region",
+      "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Magnitude 6.3 earthquake strikes 170 km NW of Port-Olry, Vanuatu",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Vanuatu"
@@ -323,6 +398,7 @@
       "Headline": "Magnitude 6.9 earthquake strikes 197 km WNW of Port-Olry, Vanuatu",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Vanuatu"
@@ -331,9 +407,22 @@
       "TriggerCity": []
     },
     {
+      "Headline": "Magnitude 7.0 earthquake strikes Bonin Islands, Japan region",
+      "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26298050",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Japan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Magnitude 7.0 earthquake strikes 191 km ENE of Nagqu, China",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "China"
@@ -347,6 +436,7 @@
       "Headline": "Magnitude 6.3 earthquake strikes 197 km NW of Port-Olry, Vanuatu",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Vanuatu"
@@ -355,25 +445,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued October 24 at 2:35AM EDT until October 26 at 8:00PM EDT by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7f3939ff90b1c468e1dbcf699c597a3cd3c223bf.002.2",
+      "Headline": "Winter Storm Warning issued October 25 at 1:59AM AKDT until October 25 at 4:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cdbea823278075ccbfb7caebfa760c862d2afd90.002.1",
       "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India"
-      ],
-      "TriggerADM1": [
-        "Southern",
-        "Southern"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 24 at 12:12AM MDT until October 24 at 1:15PM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3cbcdd459aea089a61fff145037c97046926c2d.001.1",
-      "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -382,252 +457,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued October 23 at 11:31PM MDT until October 25 at 12:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.fb56ef8247d595d0c3107f44ecd20bbda61b9579.001.1",
+      "Headline": "Coastal Flood Warning issued October 25 at 12:59AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.47df58b0791d4f59f0bee7f084adfd43f56bf66d.001.1",
       "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 11:27PM MDT until October 24 at 12:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ff4cf280465d6ae37fd5695891fb7d2314bb7c3d.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 11:21PM MDT until October 24 at 3:00PM MDT by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.01bf1b34e7cc0743e19ee720bc476415fe1a02cf.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 23 at 10:20PM PDT until October 24 at 10:00AM PDT by NWS Spokane WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8ff0e015e0ddcc75b021150bfd3886093788762d.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 11:18PM MDT until October 25 at 12:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3d42ab6d82c39fba11ec813986de8765511134fa.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued October 23 at 10:45PM MDT until October 25 at 6:00AM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8f67f1ee5754106f04436e0e0fe3e40365dd89d8.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa",
-        "Sa",
-        "Sa",
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "Northern",
-        "Southern",
-        "East",
-        "Santa Fe",
-        "Central",
-        "South",
-        "Central",
-        "Northeast",
-        "Northeast",
-        "Eastern",
-        "Eastern",
-        "Southwest"
-      ],
-      "TriggerCity": [
-        "Albuquerque",
-        "Mesa",
-        "Albuquerque",
-        "Guadalupe"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 10:44PM MDT until October 24 at 12:15PM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6ed6bf45cfd2c9b7e2914c85b381b2ff9ad5afc7.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 10:16PM MDT until October 25 at 1:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0e6bb9328ae2afc6c4a499481a5b36385b13aa80.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued October 23 at 9:58PM MDT until October 25 at 6:00AM MDT by NWS El Paso Tx/Santa Teresa NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9afb99b0ea5c2d3e31036bdc6d9dcc36dc191d03.002.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "West",
-        "Central",
-        "East",
-        "Central",
-        "Southeast",
-        "Western",
-        "Eastern",
-        "Central",
-        "Northern",
-        "Southern",
-        "Eastern",
-        "Western",
-        "Eastern"
-      ],
-      "TriggerCity": [
-        "El Paso",
-        "Mesa",
-        "El Paso",
-        "El Paso",
-        "El Paso"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 8:04PM MST until October 25 at 12:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f264abb6bca43aee9410b366da7c8425058ba562.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 23 at 9:21PM EDT until October 24 at 9:00AM EDT by NWS State College PA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8de9079476e2ac8bf6ab5817268417854fcb649d.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Lebanon"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 7:12PM MDT until October 24 at 10:00PM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2278d6564e523f4ffadf9b13c28ddb6dc7687afe.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 6:18PM MDT until October 24 at 12:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4242c8ac42742e4622dad728fc6f15a2c81b99ec.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 3:57PM MDT until October 24 at 3:45PM MDT by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e90202f1f6afd1fe91fe5187ef58da7e89d0b07d.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 3:46PM MDT until October 26 at 9:00AM MDT by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e3a13c08d00e9f0eaecf417945ed4320e5cfecd7.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 3:39PM MDT until October 24 at 3:45PM MDT by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0123d1bea9048476b33533a3c9b734a8df52e537.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued October 23 at 11:03AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.93e62e512da3b44f42078b65a2b48598e0ef00f2.001.1",
-      "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa",
@@ -640,9 +473,154 @@
       ]
     },
     {
-      "Headline": "Flood Watch issued October 23 at 11:59AM MDT until October 25 at 12:00PM MDT by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a28b19253bb7550e7a42b701dae47ec9af4c8ee0.001.1",
+      "Headline": "Flood Warning issued October 25 at 1:19AM MDT until October 25 at 1:15PM MDT by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8f32c4bed67af1e9c0aac89ba47a4cc8cec84fe2.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued October 25 at 3:04AM EDT until October 25 at 11:00AM EDT by NWS Charleston SC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0fb9a661d3476aed32432eb3a9ca70bc31d76404.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued October 25 at 2:20AM EDT until October 28 at 2:00AM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d9baa383f4fd798c184bff9fd15f8d4d0e14a513.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "India"
+      ],
+      "TriggerADM1": [
+        "Northern",
+        "Northern",
+        "Southern",
+        "Southern"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 25 at 12:14AM MDT until October 25 at 1:15PM MDT by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e32c32026c2587912eae02165b78e9a5076e09f5.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued October 24 at 11:51PM MDT until October 26 at 12:00AM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.af57aec6756f2e3478089867f4eacd11869cfa1f.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "West",
+        "Central",
+        "Santa Fe"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 11:18PM MDT until October 25 at 12:00PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.82a34a15f25e216969381cb469e92c36fa00b0ea.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 11:06PM MDT until October 25 at 1:00PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.efe216343dd2006284e7608f8dfe1e6c08724983.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 11:01PM MDT until October 26 at 3:00AM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7f320b505622a9e97e2066a55ebb176aa0b48918.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Watch issued October 24 at 10:53PM MDT until October 25 at 6:00AM MDT by NWS El Paso Tx/Santa Teresa NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.40f8f677332dff164c9d34dfd5f1dda8585032a3.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Sa",
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "West",
+        "East"
+      ],
+      "TriggerCity": [
+        "El Paso",
+        "Sacramento",
+        "Sacramento",
+        "Sacramento"
+      ]
+    },
+    {
+      "Headline": "Flood Watch issued October 24 at 10:01PM MDT until October 26 at 12:00AM MDT by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6dd26caa40bc8fff3fdfa6bb846a5ffdac481a47.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa",
@@ -665,37 +643,189 @@
       ]
     },
     {
-      "Headline": "River discharge near Bras\u00edlia, Brazil running 1.9x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-15.774998&longitude=-47.924988",
+      "Headline": "Flood Warning issued October 24 at 8:35PM MDT until October 26 at 1:00PM MDT by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4ccb142ce710855634ed763bdfc50db7158ae6ba.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Brazil"
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 8:21PM MDT until October 26 at 11:00AM MDT by NWS Salt Lake City UT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.096e9b1c77b7cc479b04f763b0168634236d37ed.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 8:04PM MDT until October 28 at 6:00PM MDT by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ede8c3675e6d454b5455bcb081f0abe71d2d734d.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 8:04PM MDT until October 26 at 12:00PM MDT by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7dd7bec4bfedb4e093a0b0a451793df607e5174e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 5:29PM MDT until October 25 at 9:45PM MDT by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dec66dcc50c62eb3136a29e188c17eb9595591f1.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued October 24 at 2:19PM AKDT until October 26 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8883571d9d5e3909e67ac344c6655db25115b0da.028.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 2:46PM MST until October 26 at 12:00AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f01473bb8594c5bbd9389ba1c6ec24a3e8cbe15a.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 3:31PM MDT until October 25 at 3:30PM MDT by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a78d65db70a62b4ca86f2ab0f3dbfe4836abe983.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 3:27PM MDT until October 25 at 3:30PM MDT by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.976fe24280da2037b024364a9511a265f41f7277.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 2:47PM MDT until October 25 at 6:00AM MDT by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3799507362cbc25fd9cacbcad4079712dfff13f3.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued October 24 at 9:34AM AKDT until October 27 at 4:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8805afd17f397495a7e52baee80aad07c64ba118.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "River discharge near Baiyin, China running 2.0x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=36.525&longitude=104.17502",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Bras\u00edlia"
+        "Baiyin"
       ]
     },
     {
-      "Headline": "River discharge near S\u00e3o Lu\u00eds, Brazil running 1.5x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-2.5249977&longitude=-44.324997",
+      "Headline": "River discharge near Tegucigalpa, Honduras running 3.7x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=14.075005&longitude=-87.22499",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Brazil"
+        "Honduras"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "S\u00e3o Lu\u00eds"
+        "Tegucigalpa"
       ]
     }
   ],
   "3": [
     {
+      "Headline": "New York Archdiocese to pay $800 million to sex abuse survivors",
+      "URL": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79753331_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
       "URL": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid",
       "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/Fawza-Awad-lives-in-a-small-room-after-being-displaced-from-Tulkarem-Camp.-Photo-by-Hatem-Hamdan-1792771470.jpg?resize=1600%2C1080",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -704,9 +834,22 @@
       "TriggerCity": []
     },
     {
+      "Headline": "New York's archdiocese, survivors of clergy abuse reach $800M settlement",
+      "URL": "https://www.nbcnews.com/news/religion/new-yorks-archdiocese-survivors-clergy-abuse-800-million-settlement-rcna605461",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-new-york-archdiocese-rc-1126p-a140e9.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
+    },
+    {
       "Headline": "DOJ sues to block Alaska Senate certification if GOP\u2019s Dan Sullivan loses",
       "URL": "https://www.nbcnews.com/politics/2026-election/trump-justice-department-lawsuit-alaska-senate-rcna605229",
       "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260818-dan-sullivan-alaksa-mn-1250-eebf1e.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -718,6 +861,7 @@
       "Headline": "Drive to Decision Day: Voters sound off on the economy, war and Washington",
       "URL": "https://www.nbcnews.com/video/drive-to-decision-day-voters-sound-off-on-the-economy-war-and-washington-270683717962",
       "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/d_ov_feature_sub_i_80_roadtrip_260928-8eqs9n.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -726,48 +870,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "You can\u2019t stop thinking about the kids\u2019After the unimaginable happens, an Oregon town mourns",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting",
-      "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Oregon"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Special Marine Warning issued October 24 at 6:15AM EDT until October 24 at 6:30AM EDT by NWS Key West FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aaae97114ff1a6c3daa8be189e6a647d3aa47597.002.1",
+      "Headline": "Winter Storm Warning issued October 25 at 2:38AM AKDT until October 26 at 10:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.df1618e929d92cddc087147588940e537bdce278.001.1",
       "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "West",
-        "Florida",
-        "west"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued October 24 at 4:00AM EDT until October 25 at 5:00AM EDT by NWS Key West FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8823237106e135be5f5931cf7cb06bff589c4d94.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "West"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued October 23 at 11:57PM AKDT until October 26 at 10:00PM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bc0a6aeba2d998db89bfe386d24faf1e7090d5db.001.1",
-      "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -779,205 +885,78 @@
       "TriggerCity": []
     },
     {
-      "Headline": "High Wind Warning issued October 23 at 11:45PM AKDT until October 25 at 4:00AM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6db1d393f3ec54379b8c10f7cd29beff04dc4978.001.1",
+      "Headline": "Coastal Flood Warning issued October 25 at 4:00AM EDT until October 26 at 5:00AM EDT by NWS Key West FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.33bf1c67f7bc82d0091d6945918cca176f1299c4.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Northern"
+        "West"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Blizzard Warning issued October 23 at 9:32PM AKDT until October 24 at 7:00AM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.425e709f64f69606a3d9dfbeeb482678dd802d12.003.1",
+      "Headline": "Coastal Flood Warning issued October 25 at 3:47AM EDT until October 28 at 5:00AM EDT by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ecd5b5ae87988fa4e5a9d9a14566305ec3c54b2f.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Northern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued October 23 at 9:32PM AKDT until October 25 at 4:00PM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.425e709f64f69606a3d9dfbeeb482678dd802d12.004.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "South",
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 23 at 10:30PM PDT until October 24 at 10:00AM PDT by NWS Portland OR",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8611901b219d3828b3aec296aa9129fa1b7bda5d.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Portland",
-        "North",
-        "Oregon",
-        "North",
-        "Oregon",
-        "West",
-        "Central",
-        "East",
-        "Central",
-        "Cascade",
-        "Cascade"
+        "Northeast",
+        "Southeast"
       ],
       "TriggerCity": [
-        "Portland"
+        "Jacksonville"
       ]
     },
     {
-      "Headline": "High Wind Warning issued October 23 at 5:43PM AKDT until October 24 at 4:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f5293d211c515fcc051035c61448664036194e9e.002.1",
+      "Headline": "Freeze Warning issued October 25 at 3:25AM EDT until October 25 at 9:00AM EDT by NWS Mount Holly NJ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.027c13710eb9c44c63867828de62b9323e14328a.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Delta",
-        "Delta",
-        "Western",
-        "Northern",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued October 23 at 3:08PM AKDT until October 24 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ba912646995a0b475164d1ce3eada265e770f855.034.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Delta"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 23 at 5:28PM EDT until October 24 at 9:00AM EDT by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8218bf4a2af36db3f63df70777074b2f191587d6.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Western",
         "Western"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "High Wind Warning issued October 23 at 12:52PM AKDT until October 24 at 4:00AM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.040b643b6f8bae999f3c3587c38dbe362b233e04.003.1",
+      "Headline": "Freeze Warning issued October 25 at 2:50AM EDT until October 25 at 9:00AM EDT by NWS Baltimore MD/Washington DC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3e286274701ec7f8eb188d55425243569470b0b4.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Yukon"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued October 23 at 9:21AM PDT until October 24 at 10:00AM PDT by NWS Pendleton OR",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9109a50c5a71ebed40d2cad1276eba2ac289d5be.001.2",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Eastern",
-        "Oregon",
-        "Oregon",
+        "Washington",
         "Northern",
-        "Oregon",
-        "Eastern",
-        "Washington",
-        "Washington",
-        "Washington"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued October 23 at 3:49AM AKDT until October 24 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.88cd5d8318531c2a20f262f831d168309ae1a9bb.034.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Delta"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Watch issued October 22 at 11:28AM MDT until October 24 at 10:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.434eb396d6f2515b17bd1a28bd7b52a371841b19.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Plateau"
+        "Northern",
+        "Southern",
+        "Western"
       ],
       "TriggerCity": [
-        "Albuquerque"
+        "Baltimore",
+        "Baltimore"
       ]
     }
   ],
   "4": [
     {
-      "Headline": "Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA",
-      "URL": "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Chicago",
-        "Milwaukee"
-      ]
-    },
-    {
-      "Headline": "Rebuilding after the Los Angeles fires",
-      "URL": "https://www.nbcnews.com/video/the-cost-of-recovery-rebuilding-after-the-los-angeles-fires-270831685519",
+      "Headline": "NBC News\u2019 Richard Engel reports from Paris as police try to disperse crowds",
+      "URL": "https://www.nbcnews.com/nightly-news/video/widespread-protests-expand-across-europe-as-thousands-take-to-streets-272178245507",
       "Category": "Status Quo",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Los Angeles"
-      ]
-    },
-    {
-      "Headline": "Protesters outside the congress of Marine Le Pen\u2019s National Rally party in Orl\u00e9ansA worker boards up a shop window in LyonSoldiers on patrol in ParisA burned-out newspaper stand in Paris",
-      "URL": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_10/1792881465658_wnn_ren_france_protests_expand_globally_261024_S3_1920x1080-etqpx5.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [],
@@ -986,20 +965,34 @@
       ]
     },
     {
-      "Headline": "Formula OneF1 crown in reach for Antonelli at bumpy Austin circuit drivers insist is \u2018unacceptable\u2019",
-      "URL": "https://www.theguardian.com/sport/2026/oct/23/formula-one-kimi-antonelli-mercedes-title-austin-us-grand-prix-texas",
-      "Category": "Status Quo",
+      "Headline": "Golden State Valkyries beat Atlanta Dream 67-62 to even the WNBA Finals at 2-2",
+      "URL": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-beat-atlanta-dream-67-62-even-wnba-finals-2-2-rcna605448",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-Gabby-Williams-WBNA-ww-1457-c6fe91.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Austin"
+        "Atlanta"
       ]
     },
     {
-      "Headline": "Flood Warning issued October 23 at 9:44PM EDT until October 25 at 8:00PM EDT by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ab3e5546cadd2cb8aadf9d8778f9cb098145300a.001.1",
+      "Headline": "Rebuilding after the Los Angeles fires",
+      "URL": "https://www.nbcnews.com/video/the-cost-of-recovery-rebuilding-after-the-los-angeles-fires-270831685519",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_10/d_ov_feature_sub_ca_fire_recovery_261001-kmdsit.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Los Angeles"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued October 25 at 3:47AM EDT until October 27 at 11:00AM EDT by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ecd5b5ae87988fa4e5a9d9a14566305ec3c54b2f.002.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -1010,9 +1003,67 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued October 23 at 9:27PM EDT by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8a86e36f7665671f8448c151681cfe66cfa60777.001.1",
+      "Headline": "Flood Warning issued October 24 at 9:06PM MDT until October 25 at 3:30PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f9a3cfa99fbf70ff2c17b30739afb305a5cde8ba.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Albuquerque",
+        "Valencia"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 7:50PM MDT until October 28 at 6:00PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4eaa14a3a110336d959ea7f570adc04e37202b12.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 7:41PM MDT until October 26 at 11:00AM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.55a0d1a6b5d267545b412f4507f6bd6d355c2d14.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 7:35PM MDT until October 26 at 12:00AM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b67a3e5176b1e1f597ac0c3a60bfc1e73e3df2a6.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 24 at 8:58PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4d219ec4da7afb70c15f06a098ffeafd908e065f.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -1023,35 +1074,10 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued October 23 at 7:24PM MDT until October 25 at 12:00AM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d21f592232d882471b0668fa8e43683d559a6917.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Coastal Flood Warning issued October 23 at 7:33PM EDT until October 26 at 8:00PM EDT by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6748e1e2af3e58f0c38257c9f9310a6da1c03d15.001.2",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Jacksonville"
-      ]
-    },
-    {
       "Headline": "Flood Warning issued October 23 at 4:09PM MDT until October 25 at 10:00AM MDT by NWS Grand Junction CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d6e124ffd4c23f3f30f3c49f45ec7a8e07f2acb3.001.1",
       "Category": "Natural Disaster",
+      "ImageURL": NaN,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -1060,46 +1086,36 @@
       "TriggerCity": [
         "Mesa"
       ]
-    },
-    {
-      "Headline": "Flood Warning issued October 23 at 1:41PM MDT until October 24 at 1:30PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4abdadc096b7922260ef76a4bb3ecf435be32498.001.1",
-      "Category": "Natural Disaster",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque",
-        "Valencia"
-      ]
     }
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "Africa",
       "Arctic",
-      "Eu",
       "Europe",
-      "North America"
+      "Middle East"
     ],
     "TriggerCountry": [
+      "American",
       "Brazil",
-      "Canada",
+      "Brazilian",
+      "Bulgaria",
       "China",
+      "France",
+      "Honduras",
       "India",
       "Iran",
+      "Iranian",
       "Israel",
       "Israeli",
-      "Italy",
       "Japan",
-      "Lebanese",
-      "Lebanon",
-      "North Korea",
+      "North Korean",
+      "Philippine",
+      "Qatar",
       "Russia",
-      "Russian",
       "Sa",
+      "Saudi Arabia",
+      "Sudan",
+      "U.S.",
       "US",
       "Ukraine",
       "United States",
@@ -1109,21 +1125,14 @@
     "TriggerADM1": [
       "Alaska",
       "Balochistan",
-      "Bay",
-      "Cascade",
       "Central",
-      "Delta",
       "East",
-      "Eastern",
-      "Florida",
-      "Maine",
-      "Moscow",
+      "Michigan",
+      "New York",
       "North",
       "Northeast",
       "Northern",
-      "Oregon",
       "Plateau",
-      "Portland",
       "Sal",
       "San Juan",
       "Santa Fe",
@@ -1134,30 +1143,24 @@
       "Utah",
       "Washington",
       "West",
-      "Western",
-      "Yukon",
-      "south",
-      "west"
+      "Western"
     ],
     "TriggerCity": [
       "Albuquerque",
-      "Austin",
-      "Bras\u00edlia",
-      "Chicago",
+      "Atlanta",
+      "Baiyin",
+      "Baltimore",
       "Dallas",
       "El Paso",
-      "Guadalupe",
       "Jacksonville",
       "Los Angeles",
       "Melbourne",
       "Mesa",
-      "Milwaukee",
-      "Moscow",
       "Nagqu",
       "Paris",
-      "Portland",
+      "Sacramento",
       "San Diego",
-      "S\u00e3o Lu\u00eds",
+      "Tegucigalpa",
       "Valencia"
     ]
   },

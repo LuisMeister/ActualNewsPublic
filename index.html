@@ -130,10 +130,17 @@
                 const headlines = (newsData[tier] || []).filter(
                     h => (activeCategory === "all" || h.Category === activeCategory) && matchesLocation(h)
                 );
-                const output = headlines.map(h =>
-                    `<a href="${escapeHtml(h.URL)}" target="_blank" class="news-item">
-                        ${escapeHtml(h.Headline)}
-                    </a>`).join("") || "No headlines match your current filters.";
+                const output = headlines.map(h => {
+                    // Hotlinked straight from the source's own CDN -- some sites block
+                    // hotlinking via referrer checks, so drop the <img> instead of
+                    // leaving a broken-image icon if it fails to load.
+                    const thumb = h.ImageURL
+                        ? `<img src="${escapeHtml(h.ImageURL)}" alt="" class="news-thumb" loading="lazy" onerror="this.remove()">`
+                        : "";
+                    return `<a href="${escapeHtml(h.URL)}" target="_blank" class="news-item">
+                        ${thumb}${escapeHtml(h.Headline)}
+                    </a>`;
+                }).join("") || "No headlines match your current filters.";
                 document.getElementById(`excelOutput-Tier${tier}`).innerHTML = output;
             });
         }
