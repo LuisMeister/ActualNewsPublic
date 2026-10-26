@@ -375,7 +375,7 @@
       "Headline": "Magnitude 6.5 earthquake strikes Bonin Islands, Japan region",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Japan"
@@ -387,7 +387,7 @@
       "Headline": "Magnitude 6.3 earthquake strikes 170 km NW of Port-Olry, Vanuatu",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Vanuatu"
@@ -399,7 +399,7 @@
       "Headline": "Magnitude 6.9 earthquake strikes 197 km WNW of Port-Olry, Vanuatu",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Vanuatu"
@@ -411,7 +411,7 @@
       "Headline": "Magnitude 7.0 earthquake strikes 191 km ENE of Nagqu, China",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "China"
@@ -425,7 +425,7 @@
       "Headline": "Magnitude 6.3 earthquake strikes 197 km NW of Port-Olry, Vanuatu",
       "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Vanuatu"
@@ -434,10 +434,24 @@
       "TriggerCity": []
     },
     {
+      "Headline": "Flash Flood Warning issued October 26 at 1:34PM MDT until October 26 at 2:30PM MDT by NWS El Paso Tx/Santa Teresa NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.52db6e51063933ae6c46a96b74107040453e37a2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "El Paso"
+      ]
+    },
+    {
       "Headline": "Severe Thunderstorm Warning issued October 26 at 1:22PM MDT until October 26 at 2:00PM MDT by NWS El Paso Tx/Santa Teresa NM",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3bfac7141260a689a85147eb57ec902b99578328.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
@@ -451,19 +465,7 @@
       "Headline": "Flood Warning issued October 26 at 1:59PM CDT until October 27 at 9:00AM CDT by NWS Midland/Odessa TX",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3cf1308af8a80ada6939e070ba168fef87a9bb9a.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 26 at 1:59PM CDT until October 28 at 1:22AM CDT by NWS Midland/Odessa TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.023fd1e7abc8d124e0ba36ed1958f26ac3fa6996.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -475,7 +477,7 @@
       "Headline": "Flood Watch issued October 26 at 11:53AM MDT until October 28 at 5:00PM MDT by NWS Pueblo CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2d64bacc1dfbc0fe9608537da9013a58beb7ca52.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -487,7 +489,7 @@
       "Headline": "Flood Warning issued October 26 at 9:33AM MDT until October 27 at 4:00PM MDT by NWS Pueblo CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f98816300dc36a6868061601a357d77b15b9f362.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -499,7 +501,7 @@
       "Headline": "Flood Warning issued October 26 at 8:29AM MDT until October 27 at 6:00AM MDT by NWS Grand Junction CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.758ffcb92bf2d59f4bedc082605c7152b4695322.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
@@ -513,7 +515,7 @@
       "Headline": "Storm Warning issued October 26 at 3:41AM AKDT until October 26 at 5:00PM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d2bed5f89966d43dd320dc663b609c8067c1f036.027.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -525,7 +527,7 @@
       "Headline": "Storm Warning issued October 26 at 3:41AM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d2bed5f89966d43dd320dc663b609c8067c1f036.037.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
@@ -537,7 +539,7 @@
       "Headline": "Winter Storm Warning issued October 26 at 2:40AM AKDT until October 26 at 10:00PM AKDT by NWS Fairbanks AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ebfa8a950d78c7f20e836670a86e888b8011ff0b.002.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -549,7 +551,7 @@
       "Headline": "High Wind Warning issued October 26 at 2:28AM AKDT until October 27 at 4:00PM AKDT by NWS Fairbanks AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.127f887ec8bdbfac286ec0f122e882be66ac4fda.002.2",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -561,7 +563,7 @@
       "Headline": "Coastal Flood Warning issued October 26 at 1:28AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.19fa88a0adfca12e340742140ffd9dad35222093.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa",
@@ -577,7 +579,7 @@
       "Headline": "Flood Warning issued October 26 at 1:08AM MDT until October 27 at 1:15AM MDT by NWS Pueblo CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.082f7944ddc9d72b9f3c2a1e0eec9d7644b59a10.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -589,7 +591,7 @@
       "Headline": "Flood Warning issued October 25 at 11:43PM MDT until October 27 at 12:45AM MDT by NWS Pueblo CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4ae14a0d5b0f32c693a127b62408ea7b7418f993.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -601,7 +603,7 @@
       "Headline": "Coastal Flood Warning issued October 26 at 1:39AM EDT until October 29 at 2:00AM EDT by NWS Melbourne FL",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5d2d7ec879b6f2c2daa845f822a6b257b78863a3.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "India"
@@ -620,7 +622,7 @@
       "Headline": "Coastal Flood Warning issued October 26 at 1:20AM EDT until October 28 at 8:00PM EDT by NWS Miami FL",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.af22fb5e46a3222b14fb2013557d663bbc5d524c.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -632,7 +634,7 @@
       "Headline": "Storm Warning issued October 25 at 2:31PM AKDT until October 26 at 5:00PM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c656274a29d6c70325cb48691c03d13e51bf8b4f.026.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -644,7 +646,7 @@
       "Headline": "Storm Warning issued October 25 at 2:31PM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c656274a29d6c70325cb48691c03d13e51bf8b4f.037.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
@@ -656,7 +658,7 @@
       "Headline": "Flood Warning issued October 25 at 1:21PM MDT until October 27 at 6:00AM MDT by NWS Salt Lake City UT",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b256d369858aac2cb5c05c3d1e55045b4928f9b3.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa",
@@ -671,7 +673,7 @@
       "Headline": "Flood Warning issued October 25 at 9:00AM MDT until October 27 at 9:00AM MDT by NWS Pueblo CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.596148dc4b6e7104cce02aa2eaee388cb3f30324.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -683,7 +685,7 @@
       "Headline": "Storm Warning issued October 25 at 3:52AM AKDT until October 26 at 5:00PM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cb7b2a29001a5324688e4ae4e815f63e710df42b.026.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -771,7 +773,7 @@
       "Headline": "Flood Watch issued October 26 at 3:05AM HST until October 29 at 5:00AM HST by NWS Honolulu HI",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d9649a8091ad45a981f3c613e45233a71e892664.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -806,10 +808,24 @@
       "TriggerCity": []
     },
     {
+      "Headline": "Storm Warning issued October 26 at 3:42AM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c62dad18688fd8f1e3ffaf4d02dea7fb551444bc.003.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "North"
+      ],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Hurricane Force Wind Warning issued October 26 at 3:42AM AKDT until October 26 at 5:00PM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c62dad18688fd8f1e3ffaf4d02dea7fb551444bc.002.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -821,24 +837,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Storm Warning issued October 26 at 3:42AM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c62dad18688fd8f1e3ffaf4d02dea7fb551444bc.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": NaN,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "North"
-      ],
-      "TriggerCity": []
-    },
-    {
       "Headline": "Storm Warning issued October 26 at 3:42AM AKDT until October 26 at 5:00PM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c62dad18688fd8f1e3ffaf4d02dea7fb551444bc.004.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -852,7 +854,7 @@
       "Headline": "Coastal Flood Warning issued October 26 at 4:02AM EDT until October 27 at 5:00AM EDT by NWS Key West FL",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7e000de188704c234dad03bc87605da2c21479e9.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -864,19 +866,16 @@
     },
     {
       "Headline": "Coastal Flood Warning issued October 26 at 3:22AM EDT until October 29 at 2:00AM EDT by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3289b4556079e5e5b635ffce37170d06d5710730.002.1",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3289b4556079e5e5b635ffce37170d06d5710730.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Eastern",
-        "Eastern",
-        "South",
-        "Central",
-        "Western"
+        "Northeast",
+        "Southeast"
       ],
       "TriggerCity": [
         "Jacksonville"
@@ -886,7 +885,7 @@
       "Headline": "Hurricane Force Wind Warning issued October 25 at 3:52AM AKDT until October 26 at 5:00PM AKDT by NWS Anchorage AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a0a7c08a44b67a58558ad149fde36213fbc6c514.002.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -938,10 +937,10 @@
       ]
     },
     {
-      "Headline": "Severe Thunderstorm Warning issued October 26 at 1:26PM MDT until October 26 at 2:15PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.44d4c6fc6c36512668450b35de2ad9099ab430d0.001.1",
+      "Headline": "Severe Thunderstorm Warning issued October 26 at 1:35PM MDT until October 26 at 2:15PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7cc6cef5971b74fde1bb17b2a437a8cb346b2acd.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -955,7 +954,7 @@
       "Headline": "Flood Warning issued October 26 at 12:11PM MDT until October 30 at 12:00AM MDT by NWS Albuquerque NM",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.91693fadfa9b120664518d979875b1671a2cb869.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -969,7 +968,7 @@
       "Headline": "Flood Warning issued October 26 at 11:52AM MDT until October 27 at 1:12AM MDT by NWS Albuquerque NM",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.39e8506ed8dbae3b2ee3c1ce6cefcc6409afa700.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -983,7 +982,7 @@
       "Headline": "Flood Warning issued October 26 at 9:55AM EDT by NWS Melbourne FL",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6395ac22474085b0afc80efae484acd913f69a78.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -997,7 +996,7 @@
       "Headline": "Coastal Flood Warning issued October 26 at 3:22AM EDT until October 27 at 11:00AM EDT by NWS Jacksonville FL",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3289b4556079e5e5b635ffce37170d06d5710730.003.4",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -1011,7 +1010,7 @@
       "Headline": "Flood Warning issued October 25 at 2:29PM MDT until October 26 at 3:30PM MDT by NWS Albuquerque NM",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.830415a487d2932d99ff6f3dc4cef0b8920ae0c8.001.1",
       "Category": "Natural Disaster",
-      "ImageURL": NaN,
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
@@ -1063,11 +1062,11 @@
       "Bayern",
       "Central",
       "East",
-      "Eastern",
       "Ewa",
       "Michigan",
       "Mississippi",
       "North",
+      "Northeast",
       "Northern",
       "Portland",
       "San Juan",
@@ -1079,7 +1078,6 @@
       "Tehran",
       "Washington",
       "West",
-      "Western",
       "car"
     ],
     "TriggerCity": [
