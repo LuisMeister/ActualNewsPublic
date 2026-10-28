@@ -1,38 +1,12 @@
 {
   "1": [
     {
-      "Headline": "UK: 2 charged after incident near US-used airbase",
-      "URL": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432",
-      "Category": "CONFLICT",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "UK",
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-      "URL": "https://www.dw.com/en/ukraine-war-russia-melania-trump-usa/a-79771473",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79771347_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Merz in Asia says middle powers must 'assert ' interests",
-      "URL": "https://www.dw.com/en/germanys-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992",
-      "Category": "Rumour",
-      "ImageURL": "https://static.dw.com/image/79773049_6.jpg",
+      "Headline": "EU proposes giving Frontex border agency new major powers",
+      "URL": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/71753573_6.jpg",
       "TriggerRegion": [
-        "Asia"
+        "EU"
       ],
       "TriggerCountry": [],
       "TriggerADM1": [],
@@ -68,160 +42,141 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Congo\u2019s Ebola outbreak tops 10K cases as authorities race to slow spread in African countries",
-      "URL": "https://www.nbcnews.com/world/africa/congos-ebola-outbreak-tops-10000-cases-authorities-race-slow-spread-af-rcna605882",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-ebola-congo-rs-7c705d.jpg",
+      "Headline": "Freeze Warning issued October 27 at 12:13PM PDT until October 28 at 9:00AM PDT by NWS Eureka CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.55d1e57c9c17efd8f9bfd29a5a92bef28f272ccd.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "TriggerRegion": [
-        "Africa"
+        "Eu"
       ],
       "TriggerCountry": [
-        "Congo"
+        "United States"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Brazil\u2018Democracy always\u2019: Lula vows no return to dictatorship in Brazil after election win",
-      "URL": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
-      "Category": "CONFLICT",
-      "ImageURL": "https://i.guim.co.uk/img/media/61f49e5040906378f0ae4214a76205303bb7569f/2636_594_6004_4803/master/6004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86c90987afea62ade1d3ec5440c3553d",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Brazil",
-        "Brazil"
+      "TriggerADM1": [
+        "Northern"
       ],
-      "TriggerADM1": [],
       "TriggerCity": []
     }
   ],
   "2": [
     {
-      "Headline": "Cases top 10,000 in DR Congo Ebola outbreak",
-      "URL": "https://www.dw.com/en/dr-congo-reports-over-10000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667",
+      "Headline": "Egypt orders closure of independent news site Mada Masr",
+      "URL": "https://www.dw.com/en/egypt-mada-masr-linah-attalah-press-freedom/a-79781842",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79736742_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Egypt"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Oleshky ceasefire comes into effect in Ukraine war",
+      "URL": "https://www.dw.com/en/oleshky-ceasefire-comes-into-effect-in-ukraine-war/video-79780053",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79771347_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+      "URL": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae10a5446ad-1793133140.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israel"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Araghchi warns Israeli military action in Gulf will devastate energy market",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26292530001121-1-1792607264.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israeli"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "6,China says it takes Mbappe\u2019s apology \u2018seriously\u2019 after Mao dictator comment",
+      "URL": "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-15T201010Z_839473124_UP1EM9F1K0XLX_RTRMADP_3_SOCCER-SPAIN-ELC-RMA-1793176808.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "NBC News\u2019 Raf Sanchez reports on the second major train crash in Spain this year",
+      "URL": "https://www.today.com/video/deadly-high-speed-train-crash-in-spain-leaves-at-least-30-dead-272390213641",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_10/1793186637072_tdy_news_7a_sanchez_spain_train_crash_261028_S3_1920x1080-nwxyuf.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Spain"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "White House tempers its tough talk on Canada trade as inflation tops voter concerns",
+      "URL": "https://www.nbcnews.com/business/economy/canada-trade-tariffs-trump-maine-midterms-rcna605906",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260123-carney-trump-rs-bd5b2d.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Canada"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Serbian police say assailant killed after attacking officer outside the Israeli Embassy in Belgrade",
+      "URL": "https://www.nbcnews.com/world/europe/serbian-police-say-assailant-killed-attacking-officer-israeli-embassy-rcna606066",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-serbia-rs-b66250.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Serbian",
+        "Israeli"
+      ],
+      "TriggerADM1": [
+        "Belgrade"
+      ],
+      "TriggerCity": [
+        "Belgrade"
+      ]
+    },
+    {
+      "Headline": "Melania Trump-brokered ceasefire in Ukrainian city holds for its first 30 hours, officials say",
+      "URL": "https://www.nbcnews.com/world/ukraine/melania-trump-brokered-ceasefire-devastated-ukrainian-city-holds-rcna606069",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-Oleshky-rs-a1affc.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukrainian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "India evacuates more than 180,000 as Cyclone Arnab hits coast",
+      "URL": "https://www.nbcnews.com/world/asia/india-evacuates-180000-cyclone-arnab-hits-coast-rcna606057",
       "Category": "Natural Disaster",
-      "ImageURL": "https://static.dw.com/image/79742506_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "DR Congo"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Brazil elections: Merz, world leaders congratulate Lula on his win",
-      "URL": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630",
-      "Category": "Sports Results",
-      "ImageURL": "https://static.dw.com/image/79769653_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Brazil"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US seeks new charges against former FBI chief James Comey",
-      "URL": "https://www.dw.com/en/james-comey-usa-donald-trump/a-79771256",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79771300_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Serbia's student-led movement ends Vucic era",
-      "URL": "https://www.dw.com/en/serbia-election-student-led-movement-ends-vucic-era/video-79760222",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79758771_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Serbia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "German police probe cruise ship captain after Bremerhaven collision",
-      "URL": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79769255_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "German"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High turnout as Israel votes in key election",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/14395793-1793097050.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israel"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Israel heads to the polls as shift to the right dominates critical election",
-      "URL": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac26efa5e-1791127290.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israel"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Kylian Mbappe loses Chinese sponsors for calling Mao \u2018Chinese dictator\u2019",
-      "URL": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-loses-chinese-sponsors-for-calling-mao-chinese-dictator",
-      "Category": "Sports Results",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261027__D4J2264__v1__HighRes__FblChinaAdvertisingPoliticsMbappe-1793088099.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Chinese",
-        "Chinese"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Palestinian citizens of Israel fear they\u2019re next target if far-right wins",
-      "URL": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins",
-      "Category": "Sports Results",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/Hussein-Mannaa-looks-at-phone-at-al-Rus-1-1793073266.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israel"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Palestinian citizens of Israel can vote, but cannot expect change",
-      "URL": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2022-10-23T102635Z_1395606979_RC2MZW99D1YB_RTRMADP_3_ISRAEL-ELECTION-ARABS-1793081616.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israel"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "India evacuates tens of thousands as \u2018very severe\u2019 Cyclone Arnab nears",
-      "URL": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25301397846074-1793082640.jpg?resize=1920%2C1440",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-india-cyclone-2-rs-8fa4af.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "India"
@@ -230,146 +185,63 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Morning Rundown: High turnout in Israel's election, a setback in Trump\u2019s efforts to block votes in California, and key takeaways from Anthropic's IPO filing",
-      "URL": "https://www.nbcnews.com/news/us-news/israel-election-netanyahu-trump-noncitizen-votes-morning-rundown-rcna605877",
+      "Headline": "San Antonio Express-News via Getty",
+      "URL": "https://www.nbcnews.com/politics/2026-election/trump-republican-president-lose-texas-rcna605627",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-israel-election-vsb-2113-c7bd95.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-paxton-trump-mn-1135-4262cd.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Headline": "Full reportCoalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "URL": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/c3be783e5dae52047a4d2f3f90e3d94a0e37c305/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f5a67257220014d7085411b67eb3353",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Israel"
       ],
-      "TriggerADM1": [
-        "California"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Melania Trump-brokered ceasefire goes into effect in Russian-occupied Ukrainian town \u2018on brink of disaster\u2019",
-      "URL": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
+      "Headline": "LiveAt least 30 dead and 80 injured after two trains collide in Spain \u2013 latest updates",
+      "URL": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Oleshky-rs-1a501e.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/1a1d19adddc76b9da28e47e1fd9f01e30de354f2/309_0_2284_1827/master/2284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d536713faf10dad412d60b067aad367c",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russian",
-        "Ukrainian"
+        "Spain"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Russian attack on Kyiv kills one person, hits metro station, medical facilities, mayor says",
-      "URL": "https://www.nbcnews.com/world/ukraine/russian-attack-kyiv-kills-one-person-hits-metro-station-medical-facili-rcna605814",
+      "Headline": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
+      "URL": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
       "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Russian-attack-Kyiv-vsb-1734-716465.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russian"
-      ],
-      "TriggerADM1": [
-        "Kyiv"
-      ],
-      "TriggerCity": [
-        "Kyiv"
-      ]
-    },
-    {
-      "Headline": "DOJ asks Washington state to set aside 400 ballots from voters it says may be noncitizens",
-      "URL": "https://www.nbcnews.com/politics/2026-election/doj-asks-washington-state-set-400-ballots-voters-says-may-noncitizens-rcna605836",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Washington-State-Processes-Mail-In-Ballots-vsb-2035-6a549a.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/a1a91a4e788e2b729992e487bc6df6be0b0a1298/311_0_1767_1414/master/1767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64f38b7910220973b28e1d5ee3922886",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Washington"
+        "Florida"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "This Chaat-Inspired Appetizer Uses Japanese Sweet Potatoes as a Base",
-      "URL": "https://www.nbcnews.com/recipes/japanese-sweet-potato-chaat-t302395",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2026_42/2154550/rachel-gurjar-sweet-potato-chaat-2x1-eb-261016.jpeg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Japanese"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "IsraelNetanyahu reportedly pressured military to attack Iran in run-up to election",
-      "URL": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/f096c8d4947f607c4643153917ab8903ff877046/0_0_5417_4334/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b9bf3becfd3b5e26e791550316c6dd0",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US politics live\u2018I\u2019m still innocent,\u2019 says Comey as Trump calls him a \u2018dirty cop\u2019",
-      "URL": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "Headline": "Fl\u00e1vio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "URL": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
       "Category": "Rumour",
-      "ImageURL": "https://i.guim.co.uk/img/media/e017231dc610d7db93adf6e51d72d6e0338d458d/304_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=80267ab550f7aa9c4b2d2e39f5eb5156",
+      "ImageURL": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "Brazil"
       ],
       "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-      "URL": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/e7cb7c4339700b476c36022a3cac8d2451a2f017/0_71_1320_1056/master/1320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=293d4704751c4d1eb09420c307e57a87",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iranian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Sunlight at night: US startup\u2019s demonstration of lighting Earth from space draws criticism",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1844006872689867642d0d4817164910",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "URL": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "Category": "Sports Results",
-      "ImageURL": "https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Chinese",
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "GPS detour leads Alabama driver to save Georgia family from house fire",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/86e233e1753ff3e7e18ca93ee32ac8e580539ed0/0_318_1306_1045/master/1306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37d27481c241cbe2e2afaaa8ddee139c",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Georgia"
-      ],
-      "TriggerADM1": [
-        "Alabama",
-        "Georgia"
-      ],
       "TriggerCity": []
     },
     {
@@ -423,8 +295,8 @@
       ]
     },
     {
-      "Headline": "High Wind Warning issued October 27 at 3:35AM AKDT until October 27 at 4:00PM AKDT by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.99ae9a01ec5f8d7a24517775a281c990a6b7497e.001.1",
+      "Headline": "Storm Warning issued October 28 at 3:25AM AKDT until October 29 at 5:00PM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6c34fee2237d1a68c4392363e8e19b73f03e1b89.029.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -435,23 +307,20 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued October 27 at 3:55AM MDT until October 27 at 12:00PM MDT by NWS Salt Lake City UT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.be00d0f1309b46de98f599978fe1c754c01c6bbb.001.1",
+      "Headline": "Coastal Flood Warning issued October 28 at 5:39AM EDT until October 28 at 8:00PM EDT by NWS Miami FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.276bcc50d1808cb9c38e41c9f0285b73195307e4.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa",
-        "Sa"
+        "United States"
       ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued October 27 at 2:02AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cb9a01d3ffcd3a8b047c7066f747cd67fa006bbb.001.1",
+      "Headline": "Coastal Flood Warning issued October 28 at 1:09AM PDT until October 29 at 1:00PM PDT by NWS San Diego CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0ad87ed057d8a0d4b903866a77bd51fad359966f.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -466,20 +335,8 @@
       ]
     },
     {
-      "Headline": "High Wind Watch issued October 27 at 12:55AM MDT until October 27 at 12:00PM MDT by NWS Cheyenne WY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.77a158cf769428a3bfdc59cce9ea3485a28c5fb1.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued October 27 at 2:26AM EDT until October 30 at 2:00AM EDT by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3e9586f041a587e23c5ba1dc9cdc61bef95e8aa.001.1",
+      "Headline": "Coastal Flood Warning issued October 28 at 2:40AM EDT until October 30 at 2:00AM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.75055b12fe06d19e658c2b3d3b3d3d9615b638c4.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -497,8 +354,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued October 26 at 11:55PM MDT until October 27 at 11:45AM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.be45b32662f9a218913a5d3be6a23797bdd7f2bc.001.1",
+      "Headline": "Flood Warning issued October 27 at 8:52PM MDT until October 29 at 2:00AM MDT by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a2c9273d130e06b27367393f1774df981b9b218c.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -509,8 +366,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued October 27 at 1:22AM EDT until October 28 at 8:00PM EDT by NWS Miami FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5b802797dd4b716ab1f8fdf245140621cd525817.001.1",
+      "Headline": "High Wind Warning issued October 27 at 3:04PM HST until October 28 at 12:00PM HST by NWS Honolulu HI",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.df40c6c3caaffdd0063ae73297ad26b882081561.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -521,22 +378,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued October 26 at 11:07PM MDT until October 27 at 8:00AM MDT by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8371398a196da0e74bdad7cacd9c509b0e72b572.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 26 at 9:42PM MDT until October 27 at 6:00PM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e27af4daa3f329caea6e29353ef1555aeaede94b.001.1",
+      "Headline": "Storm Warning issued October 27 at 2:53PM AKDT until October 29 at 5:00AM AKDT by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ba78a7e40456b499233008f24b6bfd9ec52a3e6b.029.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -547,103 +390,21 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued October 26 at 9:31PM CDT until October 27 at 3:00PM CDT by NWS Midland/Odessa TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.986c15e6cae87b0579653e64ed1272e760db9594.001.1",
+      "Headline": "River discharge near Abuja, Nigeria running 9.3x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=9.075005&longitude=7.475006",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "United States"
+        "Niger"
       ],
       "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 26 at 9:20PM CDT until October 27 at 5:00PM CDT by NWS Midland/Odessa TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.83ff35d5c2ef2f7e6cda3c1d1889b187612f1906.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 26 at 7:03PM MDT until October 29 at 4:00AM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a41d27c5e3d7f8ee8789c3e57a7734851856bca4.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued October 26 at 3:11PM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d0dc3cd1ac0920d303ae805ac1aa7e9fb2e9588f.037.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued October 26 at 3:41AM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d2bed5f89966d43dd320dc663b609c8067c1f036.037.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued October 25 at 2:31PM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c656274a29d6c70325cb48691c03d13e51bf8b4f.037.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 25 at 9:00AM MDT until October 27 at 9:00AM MDT by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.596148dc4b6e7104cce02aa2eaee388cb3f30324.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Abuja"
+      ]
     }
   ],
   "3": [
-    {
-      "Headline": "Michigan Senate race splits Arab and Jewish communities",
-      "URL": "https://www.dw.com/en/michigan-senate-race-splits-arab-and-jewish-communities/video-79732847",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/78326617_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Michigan"
-      ],
-      "TriggerCity": []
-    },
     {
       "Headline": "Harry Kane breaks Bayern and Bundesliga's Ballon d'Or drought",
       "URL": "https://www.dw.com/en/harry-kane-ballon-dor-for-bayern-munich-striker/a-79723299",
@@ -657,52 +418,50 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Appeals court hands Trump admin setback in push to block California votes by alleged noncitizens",
-      "URL": "https://www.nbcnews.com/politics/2026-election/trump-administration-loses-push-block-california-votes-alleged-nonciti-rcna605835",
+      "Headline": "Sen. Lisa Murkowski endorses Democrat in Alaska governor\u2019s race",
+      "URL": "https://www.nbcnews.com/politics/2026-election/lisa-murkowski-endorses-democrat-alaska-governor-race-rcna606045",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-midterm-elections-california-vsb-1927-109888.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Lisa-Murkowski-vsb-2135-5310e7.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "California"
+        "Alaska"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Live updates: Trump returns to Texas to rally for GOP candidates",
-      "URL": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-texas-rally-vance-michigan-senate-congress-2026-live-updates-rcna605788",
+      "Headline": "2026 election live updates: Trump heads back to Ohio to rally for GOP candidates",
+      "URL": "https://www.nbcnews.com/politics/2026-election/live-blog/trump-ohio-vance-north-carolina-2026-election-congress-live-updates-rcna606022",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-president-trump-vsb1623-81b60d.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-donald-trump-ew-535p-6f128e.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Texas"
+        "Ohio"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood-weary U.S. Southwest eyes forecast for more rain",
-      "URL": "https://www.nbcnews.com/weather/floods/flood-weary-us-southwest-eyes-forecast-rain-rcna605879",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-Socorro-rs-1a8962.jpg",
+      "Headline": "David Crowley rushes to shore up support with Black voters in Wisconsin governor\u2019s race",
+      "URL": "https://www.nbcnews.com/politics/2026-election/david-crowley-rushes-shore-support-black-voters-wisconsin-governor-rcna604855",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-kamala-crowley-rs-e0b564.jpg",
       "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S."
-      ],
+      "TriggerCountry": [],
       "TriggerADM1": [
-        "Southwest"
+        "Wisconsin"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Data center group jumps into the Kansas governor\u2019s race to boost Republicans",
-      "URL": "https://www.nbcnews.com/politics/2026-election/data-center-group-kansas-governor-race-boost-republicans-rcna605801",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Kansas-state-Sen-Ty-Masterson-vsb-1624-01b913.jpg",
+      "Headline": "As Tennessee manhunt continues, sister of murderer\u2019s victim warns \u2018he will kill somebody\u2019",
+      "URL": "https://www.nbcnews.com/news/us-news/tennessee-manhunt-continues-sister-escaped-murderers-victim-warns-will-rcna605908",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-cody-birchfield-vl-1059a-21c449.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Kansas"
+        "Tennessee"
       ],
       "TriggerCity": []
     },
@@ -733,44 +492,38 @@
       "TriggerCity": []
     },
     {
-      "Headline": "South CarolinaEx-governors endorse Democrat Annie Andrews in Senate race",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/47f0eb78212b62d440b3244d37c378b5b97eb3d8/455_0_4545_3636/master/4545.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4943d26c01561b26273f7e75377733cb",
+      "Headline": "Winter Storm Warning issued October 28 at 3:01AM AKDT until October 29 at 4:00PM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.90ef1ee1f63664927a0cb70d5d89aa83bd1d7f55.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "South"
+        "South",
+        "Western"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Massachusetts lesbian bar makes frantic effort to find new owners after relaxing masking policy",
-      "URL": "https://www.theguardian.com/us-news/2026/oct/26/last-ditch-lesbian-bar-closing",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/41b10fe100efe81baffbce893086ab5f1f27df66/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69bebde864a1489ed4ebf68ae0484ad7",
+      "Headline": "Winter Storm Watch issued October 28 at 2:56AM AKDT until October 31 at 7:00AM AKDT by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.60ac61059895684508d5a9fa0c2c7ea0b41db52d.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "Massachusetts"
+        "South",
+        "Central"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Harry Kane claims men\u2019s Ballon d\u2019Or to end England\u2019s 25-year wait for winner",
-      "URL": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/bb9ae900359b9ef4efd20e523701fa68ce100817/390_0_4858_3887/master/4858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=325626842f8fcc03479a986fab9c1a1b",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "England"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued October 27 at 4:00AM EDT until October 28 at 5:00AM EDT by NWS Key West FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.236539937ee0a25b0dc96afc55baa6961a10f310.001.1",
+      "Headline": "Coastal Flood Warning issued October 28 at 4:00AM EDT until October 29 at 5:00AM EDT by NWS Key West FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2ac162b4946ff42ef98f703de7b15e32fd9b18b6.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -783,25 +536,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued October 27 at 3:33AM EDT until October 30 at 2:00AM EDT by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b63a7b7f9d3245566d18b41354fad4e0c735ad29.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Northeast",
-        "Southeast"
-      ],
-      "TriggerCity": [
-        "Jacksonville"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued October 26 at 3:30PM HST until October 29 at 5:00AM HST by NWS Honolulu HI",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0d82640cc256234f7c51ea330c894d2dec23571a.001.1",
+      "Headline": "Flood Watch issued October 27 at 3:04PM HST until October 29 at 5:00AM HST by NWS Honolulu HI",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cdae339f5b25aa8187fcb5693f79ebae92fd1cad.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -836,35 +572,9 @@
         "North"
       ],
       "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued October 26 at 3:42AM AKDT until October 27 at 5:00AM AKDT by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c62dad18688fd8f1e3ffaf4d02dea7fb551444bc.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "North"
-      ],
-      "TriggerCity": []
     }
   ],
   "4": [
-    {
-      "Headline": "Golden State defense stifles Atlanta as Valkyries move within 1 win of WNBA title",
-      "URL": "https://www.nbcnews.com/sports/wnba/golden-state-defense-stifles-atlanta-valkyries-move-1-win-wnba-title-rcna605862",
-      "Category": "Sports Results",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-Kiah-Stokes-WNBA-Finals-Basketball-vsb-2329-44a7a2.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Atlanta"
-      ]
-    },
     {
       "Headline": "Rebuilding after the Los Angeles fires",
       "URL": "https://www.nbcnews.com/video/the-cost-of-recovery-rebuilding-after-the-los-angeles-fires-270831685519",
@@ -878,8 +588,62 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued October 26 at 10:39PM MDT until October 27 at 12:00PM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cfa50f6a669504223baea6cf773706c7874c5ef7.001.1",
+      "Headline": "Benjamin Netanyahu prepares to address supportersMembers of Netanyahu\u2019s Likud Party in JerusalemGadi Eisenkot, the Yashar party leader, after exit pollsYousef Jabareen (center) head of the Joint List alliance, with supportersA Palestinian family walks past Itamar Ben-Gvir\u2019s campaign posterA Likud Party supporter in Jerusalem",
+      "URL": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=53137812ee6569691715bc1e5cce8997",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Jerusalem"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued October 28 at 2:48AM EDT until October 30 at 2:00AM EDT by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7472415d9a40f941f03023d01bc4ef7d925328de.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Jacksonville"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 27 at 9:03PM EDT until October 28 at 2:00PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.87615b7b21a56c03cd1f72a8b35978c17a5c35cb.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 27 at 9:00PM EDT by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6ac5f73e45906a0316f1b511e8afe3a3e5231ec2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued October 27 at 6:54PM MDT until October 29 at 7:00PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.82bb40d8aabe6b9e74d35f6768d4e09a83834ce1.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -892,36 +656,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued October 26 at 9:41PM EDT until October 28 at 8:00PM EDT by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a018ff21889eafe6543a9dc3086e3eeb8943dea8.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 26 at 9:20PM EDT by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.773baaf5fa5d14abca39f5240afdf228afff977d.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued October 26 at 7:14PM MDT until October 30 at 12:00AM MDT by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2cbc03485a196d2cfd623b86ec5ef0537f543ffd.001.1",
+      "Headline": "Flood Warning issued October 27 at 6:50PM MDT by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7500757842e62b9acb60d4e4c73594203c88a316.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -936,33 +672,26 @@
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "Africa",
-      "Asia"
+      "EU",
+      "Eu"
     ],
     "TriggerCountry": [
       "Brazil",
+      "Canada",
       "China",
-      "Chinese",
-      "Congo",
-      "DR Congo",
-      "Georgia",
-      "German",
+      "Egypt",
       "India",
-      "Iran",
-      "Iranian",
       "Israel",
+      "Israeli",
       "Japan",
-      "Japanese",
       "Kenya",
+      "Niger",
       "Nigeria",
       "Poland",
       "Russia",
-      "Russian",
       "Sa",
-      "Serbia",
-      "U.S.",
-      "UK",
-      "US",
+      "Serbian",
+      "Spain",
       "Uganda",
       "Ukraine",
       "Ukrainian",
@@ -970,40 +699,38 @@
       "Vanuatu"
     ],
     "TriggerADM1": [
-      "Alabama",
+      "Alaska",
       "Bayern",
-      "California",
+      "Belgrade",
       "Central",
       "East",
-      "England",
       "Ewa",
-      "Georgia",
-      "Kansas",
-      "Kyiv",
-      "Massachusetts",
-      "Michigan",
+      "Florida",
       "North",
-      "Northeast",
       "Northern",
+      "Ohio",
       "Portland",
-      "San Juan",
       "South",
       "Southeast",
       "Southern",
       "Southwest",
-      "Texas",
+      "Tennessee",
       "Washington",
-      "West"
+      "West",
+      "Western",
+      "Wisconsin"
     ],
     "TriggerCity": [
+      "Abuja",
       "Albuquerque",
-      "Atlanta",
+      "Belgrade",
       "Jacksonville",
-      "Kyiv",
+      "Jerusalem",
       "Los Angeles",
       "Melbourne",
       "Nagqu",
       "Portland",
+      "San Antonio",
       "San Diego"
     ]
   },
