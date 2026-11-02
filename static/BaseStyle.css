@@ -296,3 +296,42 @@ img[src*="hits.sh"] {
     font-size: 0.85rem;
     color: #64748b;
 }
+
+/* ===== MAP SECTION ===== */
+.map-section {
+    background: #1e293b;
+    padding: 15px 20px 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    border: 1px solid #334155;
+}
+
+.world-map {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.world-map .continent {
+    fill: #334155;
+    stroke: #0f172a;
+    stroke-width: 2;
+    cursor: pointer;
+    transition: fill 0.2s ease;
+}
+
+.world-map .continent-group:hover .continent {
+    fill: #38bdf8;
+}
+
+.world-map .continent-label {
+    fill: #94a3b8;
+    font-size: 16px;
+    pointer-events: none;
+    transition: fill 0.2s ease;
+}
+
+.world-map .continent-group:hover .continent-label {
+    fill: #0f172a;
+    font-weight: 600;
+}
