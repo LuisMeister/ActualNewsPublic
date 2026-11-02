@@ -30,10 +30,47 @@
     <button type="button" class="cat-btn" data-category="Election Results">Election Results</button>
     <button type="button" class="cat-btn" data-category="Passed Laws">Laws Passed</button>
     <button type="button" class="cat-btn" data-category="Rumour">Rumours</button>
+    <button type="button" class="cat-btn" data-category="map">Map</button>
     </div>
 
     <main>
-        <section class="location-picker">
+        <section id="map-section" class="map-section" hidden>
+            <h2>World Map</h2>
+            <svg class="world-map" viewBox="0 0 1000 500" role="img" aria-label="World map with continents that highlight on hover">
+                <g class="continent-group" data-continent="North America">
+                    <title>North America</title>
+                    <path class="continent" d="M 80,40 L 230,35 L 330,75 L 345,150 L 300,160 L 330,190 L 290,235 L 250,270 L 215,260 L 195,225 L 150,210 L 130,235 L 95,180 L 45,150 L 35,90 Z"></path>
+                    <text class="continent-label" text-anchor="middle" x="190" y="150">North America</text>
+                </g>
+                <g class="continent-group" data-continent="South America">
+                    <title>South America</title>
+                    <path class="continent" d="M 260,235 L 330,225 L 370,260 L 390,300 L 380,350 L 355,400 L 330,440 L 310,460 L 295,430 L 300,380 L 275,340 L 255,300 Z"></path>
+                    <text class="continent-label" text-anchor="middle" x="325" y="335">South America</text>
+                </g>
+                <g class="continent-group" data-continent="Europe">
+                    <title>Europe</title>
+                    <path class="continent" d="M 470,60 L 520,50 L 560,65 L 580,95 L 560,120 L 585,140 L 555,155 L 520,150 L 490,160 L 465,130 L 450,95 Z"></path>
+                    <text class="continent-label" text-anchor="middle" x="520" y="108">Europe</text>
+                </g>
+                <g class="continent-group" data-continent="Africa">
+                    <title>Africa</title>
+                    <path class="continent" d="M 470,160 L 560,150 L 600,180 L 640,220 L 620,260 L 630,290 L 600,330 L 570,370 L 540,340 L 520,300 L 500,260 L 480,210 Z"></path>
+                    <text class="continent-label" text-anchor="middle" x="555" y="260">Africa</text>
+                </g>
+                <g class="continent-group" data-continent="Asia">
+                    <title>Asia</title>
+                    <path class="continent" d="M 585,55 L 700,35 L 820,45 L 920,70 L 980,110 L 990,160 L 940,180 L 900,220 L 850,210 L 800,250 L 760,260 L 720,230 L 690,260 L 650,230 L 660,190 L 620,160 L 600,120 L 590,90 Z"></path>
+                    <text class="continent-label" text-anchor="middle" x="800" y="145">Asia</text>
+                </g>
+                <g class="continent-group" data-continent="Australia">
+                    <title>Australia</title>
+                    <path class="continent" d="M 830,300 L 900,295 L 935,320 L 925,360 L 880,375 L 835,365 L 815,330 Z"></path>
+                    <text class="continent-label" text-anchor="middle" x="878" y="338">Australia</text>
+                </g>
+            </svg>
+        </section>
+
+        <section class="location-picker toggle-section">
             <h3>Reporting location</h3>
             <div class="location-toolbar">
                 <button type="button" id="location-scope-toggle" class="cat-btn">Showing: today's locations only</button>
@@ -72,22 +109,22 @@
             <p id="location-summary" class="location-hint">Showing: all locations</p>
         </section>
 
-        <section>
+        <section class="toggle-section">
             <h2>Tier 1 (Region) News</h2>
             <p id="excelOutput-Tier1">Excel data will appear here.</p>
         </section>
 
-        <section>
+        <section class="toggle-section">
             <h2>Tier 2 (Country) News</h2>
             <p id="excelOutput-Tier2">Excel data will appear here.</p>
         </section>
 
-        <section>
+        <section class="toggle-section">
             <h2>Tier 3 (Province / State) News</h2>
             <p id="excelOutput-Tier3">Excel data will appear here.</p>
         </section>
 
-        <section>
+        <section class="toggle-section">
             <h2>Tier 4 (City) News</h2>
             <p id="excelOutput-Tier4">Excel data will appear here.</p>
         </section>
@@ -143,11 +180,22 @@
             });
         }
 
+        // "Map" isn't a real headline category -- it swaps the news/location
+        // sections out for the world map instead of filtering anything.
+        const mapSection = document.getElementById("map-section");
+        const toggleSections = document.querySelectorAll(".toggle-section");
+
+        function setMapView(showMap) {
+            mapSection.hidden = !showMap;
+            toggleSections.forEach(el => { el.hidden = showMap; });
+        }
+
         document.querySelectorAll(".cat-btn[data-category]").forEach(btn => {
             btn.addEventListener("click", () => {
                 document.querySelector(".cat-btn.active")?.classList.remove("active");
                 btn.classList.add("active");
                 activeCategory = btn.dataset.category;
+                setMapView(activeCategory === "map");
                 renderTiers();
             });
         });
