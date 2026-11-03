@@ -1,29 +1,19 @@
 {
   "1": [
     {
-      "Headline": "Ukraine, Russia report hacking attacks on emergency alert apps",
-      "URL": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/68692531_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US warns Russia of possible mass-casualty attack in Moscow",
-      "URL": "https://www.dw.com/en/us-warns-russia-of-possible-mass-casualty-attack-in-moscow/video-79821862",
-      "Category": "Rumour",
-      "ImageURL": "https://static.dw.com/image/79817315_6.jpg",
+      "Headline": "US to drop South Africa, Rwanda from AGOA duty-free trade initiative",
+      "URL": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/73497516_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US",
-        "Russia"
+        "South Africa",
+        "Rwanda"
       ],
-      "TriggerADM1": [],
+      "TriggerADM1": [
+        "South"
+      ],
       "TriggerCity": []
     },
     {
@@ -39,41 +29,28 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Uganda begins withdrawing troops from Somalia after two decades",
-      "URL": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903",
+      "Headline": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
+      "URL": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
       "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/78271243_6.jpg",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T192202Z_388640501_RC2UFOAI8JN5_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION-1793670259.jpg?resize=1447%2C1080",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Uganda",
-        "Somalia"
+        "Russian",
+        "Ukraine",
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Donald Trump loses allies after elections in Serbia and Brazil",
-      "URL": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075",
+      "Headline": "Explosions hit Iran\u2019s Qeshm Island as US media report US strikes in Hormuz",
+      "URL": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
       "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79567904_6.jpg",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/03/GettyImages-2266746200-1773658772.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Serbia",
-        "Brazil"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "EU and Canada push for a new alliance beyond the US",
-      "URL": "https://www.dw.com/en/eu-and-canada-push-for-a-new-alliance-beyond-the-us/video-79815015",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79813428_6.jpg",
-      "TriggerRegion": [
-        "EU"
-      ],
-      "TriggerCountry": [
-        "Canada",
+        "Iran",
+        "US",
         "US"
       ],
       "TriggerADM1": [],
@@ -94,40 +71,43 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks",
+      "Headline": "U.S. military carries out limited strikes on Iran\u2019s Qeshm Island, U.S. officials say",
+      "URL": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-strait-of-hormuz-vsb-2102-289231.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S.",
+        "Iran",
+        "U.S."
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
+      "URL": "https://www.nbcnews.com/world/ukraine/russia-bombs-aid-center-shelter-southern-ukraine-killing-24-authoritie-rcna607103",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-ukraine-strike-mn-1530-e297fa.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russia",
+        "Ukraine"
+      ],
+      "TriggerADM1": [
+        "southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "NFL Week 8: The Cowboys can\u2019t close, the Chargers can\u2019t score, and Lamar Jackson can\u2019t stay healthy",
+      "URL": "https://www.nbcnews.com/sports/nfl/nfl-week-8-cowboys-chargers-lamar-jackson-rcna606933",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T101726Z_1401287578_RC2MFOAWLG50_RTRMADP_3_EUROPE-CYBERATTACK-1793617468.jpg?resize=1920%2C1440",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-ceedee-lamb-cowboys-nfl-ww-1724-9f1a48.jpg",
       "TriggerRegion": [
-        "Europe"
+        "sco"
       ],
       "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260812__C4GH963__v1__MidRes__SudanConflictDroneKhartoum-1793611389.jpg?resize=1200%2C630",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sudan",
-        "Ethiopia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
-      "URL": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-kyiv-rs-7e4246.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine",
-        "Russia"
-      ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
@@ -144,58 +124,94 @@
       "TriggerCity": []
     },
     {
-      "Headline": "NFL Week 8: The Cowboys can\u2019t close, the Chargers can\u2019t score, and Lamar Jackson can\u2019t stay healthy",
-      "URL": "https://www.nbcnews.com/sports/nfl/nfl-week-8-cowboys-chargers-lamar-jackson-rcna606933",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-ceedee-lamb-cowboys-nfl-ww-1724-9f1a48.jpg",
-      "TriggerRegion": [
-        "sco"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Europe liveIkea among shops targeted in freezer cyber-hacks",
-      "URL": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/1eb86fc3157f5c5e5a6dbe2db10ca0c83a7e5a71/752_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=06f1d6bf2a5a5e9e9221d8a497be6b1a",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Your questions answeredWe answered your US midterm questions on the economy, the Iran war, immigration and more",
-      "URL": "https://www.theguardian.com/community/2026/nov/02/midterm-reader-q-a-series-immigration-economy",
-      "Category": "CONFLICT",
-      "ImageURL": "https://i.guim.co.uk/img/media/925a57ecc2d20796781406df134177a63ee83368/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c88e58de7b5eaa69e13da44f3795df0",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US",
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "Headline": "CybersecurityShop fridges and freezers across Europe hit by fresh suspected cyber-attack",
       "URL": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a69f8f68954a7702d519049973a8be9f",
+      "ImageURL": "https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7989d926d9c8310ee9196846f0581d5",
       "TriggerRegion": [
         "Europe"
       ],
       "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued November 2 at 9:03PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50f4eaa29ef99c5388baf285b2b072bb0748cdec.003.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Iowa"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued November 2 at 9:03PM CST until November 6 at 1:00AM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50f4eaa29ef99c5388baf285b2b072bb0748cdec.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Washington"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued November 2 at 9:03PM CST until November 6 at 10:00PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50f4eaa29ef99c5388baf285b2b072bb0748cdec.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [],
       "TriggerCity": []
     }
   ],
   "2": [
     {
-      "Headline": "Bulgaria's Yotova wins runoff, becoming first female elected president",
+      "Headline": "North Korea denies $6 billion Binance hack claim",
+      "URL": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/79824743_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "North Korea"
+      ],
+      "TriggerADM1": [
+        "North"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ukraine: At least 26 killed in Russian strikes on aid center",
+      "URL": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079",
+      "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/79834582_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukraine",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Yotova wins runoff, becoming first woman elected president in Bulgaria",
       "URL": "https://www.dw.com/en/bulgarias-yotova-wins-presidential-runoff/a-79820449",
       "Category": "Election Results",
       "ImageURL": "https://static.dw.com/image/79824963_6.jpg",
@@ -214,32 +230,6 @@
       "TriggerRegion": [],
       "TriggerCountry": [
         "Ethiopia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US Midterms: Democrat backs Republican in Michigan Senate race shock",
-      "URL": "https://www.dw.com/en/us-midterms-democrat-backs-republican-in-michigan-senate-race-shock/video-79828406",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79825964_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "Michigan"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ukraine: Kherson braces as ceasefire ends",
-      "URL": "https://www.dw.com/en/ukraine-kherson-braces-as-ceasefire-ends/video-79830030",
-      "Category": "Status Quo",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -271,6 +261,18 @@
       "TriggerCity": []
     },
     {
+      "Headline": "German police investigating after needles found in Halloween candy",
+      "URL": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79823540_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "German"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Germany's Gen Z protests disrupted by violence on Saturday",
       "URL": "https://www.dw.com/en/germanys-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694",
       "Category": "Status Quo",
@@ -283,79 +285,44 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3YM6NR__v2__HighRes__TopshotYemenSaudiIsranUsIsraelWar-1792641473.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Yemen"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
-      "URL": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine",
-      "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_3462-1-1793606457.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sudanese"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Anthrax outbreak kills hippos in DR Congo\u2019s Virunga National Park",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2-Dead-hippo-in-Semliki-river.-Photo-credit-courtesy-of-Virunga-national-Park-1792436796.jpg?resize=1490%2C1080",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "DR Congo"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "French school protests resume on small scale as students return from break",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/14405507-1793613923.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "French"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison",
+      "Headline": "US conducts \u2018defensive\u2019 strikes on Iranian targets in Strait of Hormuz",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court",
       "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2291305925-1793609700.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab9331d-1790522141.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Turkish"
+        "US",
+        "Iranian"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
-      "URL": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege",
+      "Headline": "\u2018Going hungry\u2019: Garment workers in Bangladesh say wages barely cover needs",
+      "URL": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs",
       "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261102__D64N394__v1__HighRes__PalestinianIsraelConflictWestBank-1793606912.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-22T020929Z_596030997_RC2UKNAVHD10_RTRMADP_3_IRAN-CRISIS-ENERGY-BANGLADESH-1793513847.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Israeli"
+        "Bangladesh"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "2,Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
+      "Headline": "Drone attacks extend campaign targeting Sudan\u2019s power system",
+      "URL": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae8a42f48f8-1793631279.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sudan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "7,Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
       "URL": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
       "Category": "Rumour",
       "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae72d243514-1793535268.jpg?resize=1920%2C1440",
@@ -367,106 +334,48 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Michigan Democrat stuns party and rocks key Senate race by endorsing Republican",
-      "URL": "https://www.nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+      "Headline": "Oil prices slide in biggest drop since July on hope for more Iran talks",
+      "URL": "https://www.nbcnews.com/business/energy/oil-prices-slide-trump-hope-iran-talks-rcna607107",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Stevens-Rogers-aa-1230-b6c57f.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-oil-hormuz-vsb-1605-ee72df.jpg",
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Reddit blasts Australia\u2019s \u2018inept\u2019 social media ban as court challenge begins",
+      "URL": "https://www.nbcnews.com/world/asia/reddit-blasts-australias-inept-social-media-ban-court-challenge-begins-rcna607178",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-Screen-Time-vsb-2346-dc0388.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Australia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "North Korea denies involvement in Binance hack and criticizes FBI probe as \u2018a trite provocation\u2019",
+      "URL": "https://www.nbcnews.com/world/asia/north-korea-denies-involvement-binance-hack-rcna607168",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261031-Binance-aa-627-6d3749.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "North Korea"
+      ],
       "TriggerADM1": [
-        "Michigan"
+        "North"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Some crewmembers on the evacuated cruise ship say they\u2019re waiting without pay in Cambodia",
-      "URL": "https://www.nbcnews.com/world/asia/crewmembers-evacuated-odyssey-cruise-ship-say-re-waiting-pay-cambodia-rcna606767",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261031-Odessy-ship-aa-854-b88aa8.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Cambodia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Evacuations begin in Ukraine under localized ceasefire brokered by Melania Trump",
-      "URL": "https://www.nbcnews.com/world/ukraine/melania-ukraine-oleshky-evacuation-russia-ceasefire-leo-rcna606509",
+      "Headline": "Federal judge orders Iowa to allow Satanic Temple to hold holiday event in the State Capitol",
+      "URL": "https://www.nbcnews.com/news/us-news/federal-judge-orders-iowa-satanic-temple-hold-holiday-capitol-rcna607149",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-ukraine-mb-1104-1969cf.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Anxiety grips Russian men over fears Putin will launch a stealthy draft",
-      "URL": "https://www.nbcnews.com/world/ukraine/ukraine-war-draft-russian-men-fear-new-stealthy-mobilization-putin-rcna605921",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260219-russia-rs-1bd9e7.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Iliana Yotova wins runoff to become Bulgaria\u2019s first elected female president",
-      "URL": "https://www.nbcnews.com/world/europe/iliana-yotova-wins-runoff-become-bulgarias-first-elected-female-presid-rcna606969",
-      "Category": "Election Results",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-Yotova-rs-fceee0.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Bulgaria"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018Please help us\u2019: Savannah Guthrie issues new plea for help in mother\u2019s kidnapping",
-      "URL": "https://www.nbcnews.com/news/us-news/savannah-guthrie-issues-new-plea-mothers-kidnapping-rcna606816",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260727-savannah-guthrie-mother-bf-1436-559845.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "us"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Israel\u2019s president says parties need to engage with \u2018open heart\u2019 to avoid fresh election",
-      "URL": "https://www.nbcnews.com/world/israel/israel-president-open-heart-fresh-election-rcna606785",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Herzog-aa-1017-8f80f2.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israel"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US politics live\u2018A weight off my shoulders\u2019: Haley Stevens defends endorsing Mike Rogers as Democrats slam congresswoman\u2019s \u2018betrayal\u2019",
-      "URL": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/b9b3d5fd373a6c55c75809be70ebf796f423ca31/100_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=67454bf77735ee232da17689d092ad5e",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Donald TrumpTrump launches racist diatribe against Abdul El-Sayed at Iowa rally",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
-      "Category": "Rumour",
-      "ImageURL": "https://i.guim.co.uk/img/media/bd7c662bbdcb7022f36caae8cd4aa1f30f919f2e/452_0_4249_3398/master/4249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15135b9ea1ac5639c551f86a5bbef9c2",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-Iowa-Capitol-building-vsb-1907-85af0f.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -475,40 +384,39 @@
       "TriggerCity": []
     },
     {
-      "Headline": "New YorkMamdani threatens ICE with legal action over use of New York parking lots",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/02/zohran-mamdani-ice-new-york-parking-lots",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/868b90addc10c92fd65c7380b57deee8693e6266/560_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ad7d4a733c58b85a01f49eba45bad2b",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "New York"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "UkraineUkraine defies Trump to resume attacks on Russian oil refineries",
-      "URL": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/e521bd30aafd13837c587fdc1c0f6c632ad8d0fd/1585_152_2231_1784/master/2231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09673a80783ed613f95ef861202aeab8",
+      "Headline": "UkraineRussian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+      "URL": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/436bce2007dc08d0bcfdb3fe1f57b9790f46f3a1/213_0_3774_3019/master/3774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92e8cb57f8a27a532b439adafca8a13a",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russian"
+        "Ukrainian"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
+      "TriggerADM1": [
+        "centre",
+        "Kyiv"
+      ],
+      "TriggerCity": [
+        "Kyiv"
+      ]
     },
     {
-      "Headline": "West BankMost Israelis think settlements policy should change to avoid more sanctions, poll finds",
-      "URL": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/356f8ba94400f97b2971aeef725d39e33aee313e/427_0_7919_6336/master/7919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2053501cefecb171711fb3ab3e6f4206",
+      "Headline": "Ukraine war briefingUS to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+      "URL": "https://www.theguardian.com/world/2026/nov/03/ukraine-war-briefing-us-to-mediate-talks-with-kyiv-and-moscow-in-abu-dhabi-next-week-says-witkoff",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/bd4af7b238cd80ef100a64c830a7d2e1800ccf34/136_135_1190_952/master/1190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37b78d496cfb45888e33ffe5080a4c6f",
       "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "West"
+      "TriggerCountry": [
+        "Ukraine"
       ],
-      "TriggerCity": []
+      "TriggerADM1": [
+        "Moscow",
+        "Abu Dhabi"
+      ],
+      "TriggerCity": [
+        "Moscow",
+        "Abu Dhabi"
+      ]
     },
     {
       "Headline": "\u2018Done for the day\u2019: US ambulance driver abandons patient and takes Uber home",
@@ -523,8 +431,20 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flash Flood Warning issued November 2 at 7:43AM MST until November 2 at 2:00PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2631ba0442a4dc828405681f375c818d66157c0c.001.1",
+      "Headline": "You can go your own way: US diverges from world on emergency preparedness",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/02/us-emergency-preparedness-military",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/59f1e38e698cf1bec30dd8f664219a2050959e81/0_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c454d4568fd3775d25664b2c35d300d1",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Severe Thunderstorm Warning issued November 2 at 11:53PM CST until November 3 at 12:15AM CST by NWS Tulsa OK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.15a815c4422a3a19e6b632cd72ff8cf426b270ec.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -535,39 +455,161 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Special Marine Warning issued November 2 at 9:30AM EST until November 2 at 10:15AM EST by NWS Miami FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.04c37bc1a61f0542392f414c6fd06a42b44bed52.001.1",
+      "Headline": "Severe Thunderstorm Warning issued November 2 at 11:52PM CST until November 3 at 12:15AM CST by NWS Tulsa OK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50515af49b1ac3b400996e732eff0b4b194de3d5.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Severe Thunderstorm Warning issued November 2 at 11:43PM CST until November 3 at 12:15AM CST by NWS Tulsa OK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.275210ed0946135222b643d9dc583e4d8245c4d5.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 10:36PM MST until November 3 at 6:00AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6128b44949c5c5d7678a390969a217d883127b16.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Severe Thunderstorm Warning issued November 2 at 11:32PM CST until November 3 at 12:00AM CST by NWS Norman OK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bcc231a4ac206c44937e67ce7031699619d5cfb9.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tornado Watch issued November 2 at 11:21PM CST until November 3 at 3:00AM CST by NWS Norman OK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7861051dd19a0b05ef5b6ec18b7fa68f418cb906.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tornado Watch issued November 2 at 10:52PM CST until November 3 at 3:00AM CST by NWS Wichita KS",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1d5e9c4d087e12383c5c3b310fc30572d486576e.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 8:59PM MST until November 2 at 11:30PM MST by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e7527297957a1fa10ea689a8d83e5a728ce545b2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 8:26PM MST until November 3 at 3:15PM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.02f965ae74d4a09eb4bf05528d133991269cdbf9.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:02PM CST until November 4 at 12:00PM CST by NWS Lake Charles LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.383ea4ea163e32a7fa6982fd9746eb08ad1ef39c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 7:55PM MST until November 3 at 2:30AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c53b1e8533c781af09c3c2efccff726c63bd62b7.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 7:43PM MST until November 4 at 5:43AM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.838055c8abc982ea339672d1bb1c99b34c73abdd.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:15PM EST until November 3 at 9:30AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d5ec6e3e784e6ff98f3e5e84286ac912f718d375.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "India"
       ],
       "TriggerADM1": [
         "EST",
-        "EST",
-        "East"
+        "EST"
       ],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Melbourne"
+      ]
     },
     {
-      "Headline": "Flood Watch issued November 2 at 7:21AM MST until November 5 at 11:45PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.39e48bfa9f531d07f4b0ba1a7d1f2b72b6af2f13.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "Central",
-        "San Luis"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 7:19AM MST until November 3 at 7:34PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e9053015039ef7b205c67b91b64c8c59ba59a9c9.001.1",
+      "Headline": "Flood Warning issued November 2 at 7:12PM MST until November 3 at 8:00PM MST by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6464bc0887f8877bfebebb5f7c89a143087a5c77.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -578,8 +620,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 6:54AM MST until November 2 at 1:00PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.641304da10f960826a75fbd18136729bc75c8385.001.1",
+      "Headline": "Flood Warning issued November 2 at 6:42PM MST until November 3 at 4:36PM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2d15c414937b6484eb0d845afc6470158982c062.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -590,8 +632,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 6:46AM MST until November 2 at 3:45PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.61dc9389b8bac9879f71f56951dc96ec3c48fcc6.001.1",
+      "Headline": "Tornado Watch issued November 2 at 7:35PM CST until November 3 at 3:00AM CST by NWS Springfield MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a5390cdc9c9339991b3a02adbe001edb34fd13ac.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -602,78 +644,228 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Watch issued November 2 at 6:14AM MST until November 4 at 5:00AM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a6499198bfeb3e5888538271cdeb42f7320e5f04.002.1",
+      "Headline": "Flood Warning issued November 2 at 6:25PM MST until November 3 at 2:30PM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.296bbf99475527b7bc31e99b4aa69e7b0a30d2d6.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa",
-        "Sa",
-        "Sa"
+        "United States"
       ],
-      "TriggerADM1": [
-        "Northern",
-        "San Luis",
-        "Central",
-        "San Luis",
-        "Southern",
-        "San Luis"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Watch issued November 2 at 6:14AM MST until November 2 at 11:00AM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a6499198bfeb3e5888538271cdeb42f7320e5f04.001.1",
+      "Headline": "Flood Warning issued November 2 at 6:09PM MST until November 3 at 10:15PM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.36ebd59484fb5a560bc8936f449c815daa9a9e55.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa",
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 2 at 3:48PM AKST until November 3 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.97c3ed227ea203c072bd12e4cb3f29e1371c63b9.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued November 2 at 3:40PM AKST until November 4 at 5:00AM AKST by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bd144b62aff6d8ca3bd51618d98f7857619643dc.004.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 5:39PM MST until November 4 at 5:49PM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50e99ba830c4b1eb419773ca471d86ece66a01fb.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
         "Sa"
       ],
       "TriggerADM1": [
-        "Eastern",
-        "San Juan",
-        "Eastern",
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 4:44PM MST until November 3 at 10:00AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.98ddbdecb0dc06fe7dfdc4a5a9e7890e2d5e7f05.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 4:37PM MST until November 3 at 8:20AM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bf8d6f07b4eee1699a407c318e8c982493316c26.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 4:28PM MST until November 3 at 8:36PM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2e03222ae0e3ca1c6db4b2efc8bdae5a202d11f6.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 4:19PM MST until November 4 at 11:00AM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d8aeefdc1e816ea67c4d81d781d70e4cd00831b9.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
+        "San Juan"
+      ],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 3:53PM MST until November 4 at 4:00PM MST by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b092e67b29472df648ea32d2432f2eb9c230c8e2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 3:47PM MST until November 3 at 3:45PM MST by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aac508d852d6aadc0ffc543722b1bf27c1ab74d4.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 3:30PM MST until November 3 at 1:30AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.12cd6f16302729d4135d8082f861400406a8aa72.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 3:29PM MST until November 6 at 12:00AM MST by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f77eed9d842c708a5a3d2e5d0c786d35cd12c2c0.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 12:31PM MST until November 5 at 5:15PM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.00b8de8d3d582a70415755093091fe5b78bb2bcf.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa"
+      ],
+      "TriggerADM1": [
         "San Juan"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 5:58AM MST until November 2 at 12:00PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a845a2d258aab537261348f1ace22f83c7749823.001.1",
+      "Headline": "Flood Watch issued November 2 at 1:37PM EST until November 3 at 10:00AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4f9ab229bb871cb475159ccd676055c9332e21ca.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "United States"
+        "India",
+        "India"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Northern",
+        "Northern",
+        "Northern",
+        "Southern",
+        "Southern",
+        "Southern"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 5:39AM MST until November 2 at 12:00PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.54b70028859766d0342951d5a05ac77e55b69d81.001.1",
+      "Headline": "Flood Warning issued November 2 at 9:36AM MST until November 3 at 8:00AM MST by NWS Salt Lake City UT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b64253e3f358622e7f5b0bae51323aa94c7128e8.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "United States"
+        "Sa",
+        "Sa"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 5:29AM MST until November 2 at 2:30PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8d4de74f2f686812b33a7c1157f337bce212f5eb.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
+      "TriggerADM1": [
+        "San Juan"
       ],
-      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -689,569 +881,68 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 5:10AM MST until November 2 at 11:30AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.95db724f4c2d3065c90c3261c85ffa697db9ec64.001.1",
+      "Headline": "River discharge near Chengdu, China running 2.1x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=30.675003&longitude=104.07501",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 2 at 2:54AM AKST until November 2 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.53abcefb8527bbbf3a72374aadcff160ea17cc50.029.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 4:11AM MST until November 2 at 6:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.41f2fdf47c0a0088e0e452412f5e173d80f53746.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
+        "China"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Albuquerque"
+        "Chengdu"
       ]
     },
     {
-      "Headline": "Winter Storm Warning issued November 2 at 3:38AM MST until November 2 at 11:00AM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.73e00f04c0d38244888300879b18131d33016053.001.1",
+      "Headline": "River discharge near Johannesburg, South Africa running 3.1x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-26.224998&longitude=28.02501",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa"
+        "South Africa"
       ],
       "TriggerADM1": [
-        "Eastern",
-        "San Juan"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 2 at 3:30AM MST until November 2 at 4:00PM MST by NWS El Paso Tx/Santa Teresa NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4f03480f131d2ff401b3065f12557c910f75bb19.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "East"
+        "South"
       ],
       "TriggerCity": [
-        "El Paso",
-        "Sacramento",
-        "Sacramento"
+        "Johannesburg"
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 3:14AM MST until November 3 at 8:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dd1d0c93df549a49ef71538ae84304cf7d9731f1.001.1",
+      "Headline": "River discharge near Ibadan, Nigeria running 1.6x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=7.375&longitude=3.925003",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 3:12AM MST until November 3 at 2:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bcbcfc5e5a3080d04064b6c4c5149b7e04c99ff6.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 3:05AM MST until November 3 at 6:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c117db8cadcb549f6e9055a73d29ffa2bc457e81.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 3:02AM MST until November 3 at 7:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2a3a4ae58685bf6f5472a3416741f8a7a8256967.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 2:58AM MST until November 2 at 9:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.524b5e0deb3d8874402dabe77de209e91f827901.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 2:54AM MST until November 3 at 12:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.fc88f106ac93edbfd0ddaf4f6aa30dc127965df9.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 2:28AM MST until November 2 at 8:30AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.29ab552155757860dbd55fcc18abceebb749c3b5.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 1:57AM MST until November 2 at 8:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1130915a127de16cf9d5fdf56c9a0fce8885b1f1.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 1:35AM MST until November 2 at 11:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ed5bd1e7f2c907b116b75412890acfcf7f1f0874.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued November 2 at 12:54AM MST until November 2 at 11:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f1de3bcee59a3911bd7c81831b16e6053be8440f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "Plateau",
-        "West",
-        "Central",
-        "Plateau",
-        "West",
-        "Central",
-        "West",
-        "Central",
-        "Southwest"
-      ],
-      "TriggerCity": [
-        "Albuquerque",
-        "San Francisco"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 12:54AM MST until November 2 at 8:00PM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3fe571bc034999b6bcf72673b69d638dc996be8e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 12:04AM MST until November 3 at 10:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ced42dec74ef98073e3067917a6f634a9fc69b9e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 10:28PM MST until November 2 at 8:00AM MST by NWS Salt Lake City UT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.92c1a01e55a9f4ebb96e225b666fcc03dc50617c.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "Washington"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:59PM MST until November 2 at 11:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e1d118ff8aaa9fd562bdb1ce7583454080247177.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued November 1 at 11:09PM EST until November 2 at 7:00PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c2c270961ae506c66262159e4946611664f737ea.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India",
-        "India"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Northern",
-        "Southern",
-        "Northern",
-        "Northern",
-        "Northern",
-        "Southern",
-        "Southern",
-        "Southern"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 8:29PM MST until November 2 at 8:30AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1c9af54f695075c91fa422688ab1a28dccd59289.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 8:06PM MST until November 2 at 8:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.62c3ef30aee7051a2713cd7321247f0cff686272.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:00PM CST until November 4 at 12:00PM CST by NWS Lake Charles LA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ecce9baf9b1d968004d13c6bc7e98058ef72eed0.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 1 at 7:52PM MST until November 2 at 12:00PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b284c983150236c87728b60844c957442b4b55be.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan",
-        "Southwest",
-        "San Juan"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 7:26PM MST until November 2 at 7:30PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8381198fb91f2cdc89afc94409f49a58e0647b23.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 1 at 3:41PM AKST until November 2 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ac97de26b251d9cb552bd2f9022c2687f82e4deb.029.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 4:37PM MST until November 2 at 4:30PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a1fe13ce206a35627c94a6be4c4adad3c2e93d4f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 4:16PM MST until November 2 at 4:15PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dc7dc32149559b6690b7b7764bf9f5250586db02.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 4:11PM MST until November 2 at 4:15PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6bdcad09d7929c655ae25a4a0c0235afc0975ee9.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 4:08PM MST until November 2 at 4:15PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.616c4025c42723c2fe6d8b10282486a4525dd113.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 2:20PM MST until November 2 at 10:00PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ff90f3bea89f87e4759c63fb880eb38b994db4d6.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 10:50AM MST until November 2 at 7:00PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0807a2df4e98bab16c60e02a74ad5937530b2c74.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 10:09AM MST until November 2 at 7:15PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6096128b82f2b51117c4dd646fb0b6f489a9139e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:44AM MST until November 2 at 7:00PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c47213b8846f19b1cb8b737423603b76e5d64476.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:30AM MST until November 2 at 7:04PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f943f0ea1c90f489e1f4da4d4300877d56242bd0.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 1 at 3:09AM AKST until November 2 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.746f36e393caff2ac0803a98b18e0dc4090a5153.029.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Watch issued October 31 at 10:37PM MDT until November 2 at 11:00AM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.28dceea107844d87e801d5ba537294d1bcbe9f7e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "Southwest",
-        "San Juan",
-        "San Juan",
-        "Southeast",
-        "Utah",
-        "Sal"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued October 31 at 9:50AM MDT until November 2 at 11:00AM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.516514de7fcd1a54cf04b8b0f74cfdb0cdac2c19.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "River discharge near Campo Grande, Brazil running 1.6x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-20.425&longitude=-54.624992",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Brazil"
+        "Niger"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Campo Grande"
+        "Ibadan"
       ]
     }
   ],
   "3": [
     {
-      "Headline": "Trump, Democrats make final push amid Michigan rift",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/11/2/us-midterms-2026-live-trump-democrats-make-final-push-amid-michigan-rift",
+      "Headline": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+      "URL": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20000-california-ballots/a-79833739",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T134342Z_1471861368_RC22COAC7F2K_RTRMADP_3_USA-ELECTION-USPS-1793630220_5d9e17-1793630244.jpg?resize=1200%2C630&quality=80",
+      "ImageURL": "https://static.dw.com/image/79833931_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "California"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "House Democrats consider whether to banish Michigan Rep. Haley Stevens",
+      "URL": "https://www.nbcnews.com/politics/2026-election/house-democrats-consider-banish-rep-haley-stevens-michigan-rcna607084",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-haley-stevens-vl-216p-f21b62.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -1260,40 +951,54 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Early voting numbers show Hispanic turnout exploding in Texas",
-      "URL": "https://www.nbcnews.com/politics/2026-election/sea-change-early-voting-numbers-show-hispanic-turnout-exploding-texas-rcna606636",
+      "Headline": "New York reports first measles death in more than 30 years",
+      "URL": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261005-rio-grande-texas-voters-vsb-2309-faeed7.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260826-measles-ch-1545-88fa49.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Texas"
+        "New York"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Federal judge dismisses Trump attempt to intervene in Alaska Senate race",
-      "URL": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+      "Headline": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260818-dan-sullivan-alaksa-mn-1250-eebf1e.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/609e746059c003d2151627566d06daea1c4fbb37/0_465_1440_1151/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2082e91b8bd05585ba3e7ab2af71a4e8",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Alaska"
+        "Florida"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Michigan Senate race\u2018A despicable betrayal\u2019: Democrats incensed by Haley Stevens\u2019 endorsement of Mike Rogers",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "Headline": "Greenpeace activists create \u2018boulder barrier\u2019 in North Sea to deter industrial fishing",
+      "URL": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/31c63c0ba4fc6d0a1748446810f3064540a2ef62/308_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33e86651ab87f39f7d87c0664b79593b",
+      "ImageURL": "https://i.guim.co.uk/img/media/900008352cfc090c12bbc39c412d55918acb89fb/332_0_1668_1334/master/1668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=067ef89cdc54474a962fcdc27ddb88c3",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Michigan"
+        "North"
       ],
       "TriggerCity": []
+    },
+    {
+      "Headline": "\u2018Men know they won\u2019t face consequences\u2019: rise of street sex work in Tokyo is fuelling calls for change",
+      "URL": "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/0d9724120cb6a732decb8fc2f674dee44cb2f5a9/324_0_3784_3029/master/3784.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3cc70705f81bd27fc322e4c4a58f1e01",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Tokyo"
+      ],
+      "TriggerCity": [
+        "Tokyo"
+      ]
     },
     {
       "Headline": "Magnitude 6.4 earthquake strikes southeast of Easter Island",
@@ -1308,23 +1013,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 9:36AM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5ed8380e60dbed3448dcb73e4234d38f52fd4b3f.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:36AM EST until November 4 at 3:00AM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5ed8380e60dbed3448dcb73e4234d38f52fd4b3f.004.1",
+      "Headline": "Flood Warning issued November 2 at 8:57PM EST until November 5 at 1:51PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1339,8 +1029,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 9:36AM EST until November 4 at 8:00AM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5ed8380e60dbed3448dcb73e4234d38f52fd4b3f.002.1",
+      "Headline": "Flood Warning issued November 2 at 8:57PM EST until November 4 at 8:42PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1355,8 +1045,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flash Flood Warning issued November 2 at 9:34AM EST until November 2 at 11:45AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.abd58e15ed5af6b71fd5186c823cbe516efb5dd7.001.1",
+      "Headline": "Flood Warning issued November 2 at 8:57PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.005.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1365,32 +1055,13 @@
       ],
       "TriggerADM1": [
         "EST",
-        "EST"
+        "Bay"
       ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 9:30AM EST until November 2 at 12:00PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f09e4fd5fea1d51b1d57f2d4f3637b86553bbff0.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flash Flood Warning issued November 2 at 9:28AM EST until November 2 at 11:00AM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0d9c02bdf32f53f159bbce8e3def8e7469e654b6.001.1",
+      "Headline": "Flood Warning issued November 2 at 8:57PM EST until November 5 at 5:30PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.003.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1405,8 +1076,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 9:16AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.58dd720ed5308d3920e673c5bbdb984ac9e51c7d.001.1",
+      "Headline": "Flood Warning issued November 2 at 8:40PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1fec35170e3ada49cc0dec729fc418783d290731.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1421,140 +1092,8 @@
       ]
     },
     {
-      "Headline": "High Wind Warning issued November 2 at 6:57AM MST until November 2 at 8:00PM MST by NWS Midland/Odessa TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.72e5c88f094bd2142d3f9087b6cfb09597fd9b9f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Delaware"
-      ],
-      "TriggerCity": [
-        "Guadalupe",
-        "Guadalupe",
-        "Guadalupe"
-      ]
-    },
-    {
-      "Headline": "Special Marine Warning issued November 2 at 8:57AM EST until November 2 at 10:30AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e17635795be975cda90ee2ec5f3fc1dfb3f65d81.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued November 2 at 8:15AM EST until November 2 at 3:00PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.759d07f2ac30dcd3a1e31784372cbf4cef34add1.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flash Flood Warning issued November 2 at 7:39AM EST until November 2 at 10:00AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5cfeea54fa11e2c940f3cdc8a3805fcf588181f0.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "High Wind Warning issued November 2 at 4:52AM MST until November 2 at 6:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c6149ceb22d48d3f18ce3e97748610d5e8bedc16.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "South",
-        "Central"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 6:41AM EST until November 6 at 7:00AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7cc4124634c6ee20ac6c958f0891345d5cf11ba4.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "High Wind Warning issued November 2 at 4:24AM MST until November 3 at 6:00AM MST by NWS Rapid City SD",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.44c92c25106825fe53ebef4bc1248e5da237548f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Northern",
-        "Southern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Watch issued November 1 at 11:59PM EST until November 2 at 7:00PM EST by NWS Miami FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4f07e60623d00938b46403a238fbab7e9c79145a.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:44PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.53db955f2314fcdb090b663e551509b3021077db.001.1",
+      "Headline": "Flood Warning issued November 2 at 8:39PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d944b74fa7050aa661a5f9ff17b45ebdf3ae8d71.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1569,8 +1108,8 @@
       ]
     },
     {
-      "Headline": "High Wind Warning issued November 1 at 10:10AM MST until November 2 at 3:00PM MST by NWS Riverton WY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c252a59438a858f20a220512db6da0a1e677d6a1.001.2",
+      "Headline": "Flood Warning issued November 2 at 8:38PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.72a0e8919d39028d187b8c049a71412bddbfceb7.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1578,15 +1117,93 @@
         "United States"
       ],
       "TriggerADM1": [
-        "Northeast"
+        "EST"
       ],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 8:36PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2f99678eea116edc36e578666cce41b3a4fe5cfb.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Tornado Watch issued November 2 at 7:33PM CST until November 3 at 3:00AM CST by NWS Tulsa OK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.627d41a2696acbdfe1874ae741ac7a2fb112028e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Washington",
+        "Delaware",
+        "Washington"
+      ],
+      "TriggerCity": [
+        "Ottawa"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 8:33PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.34a9ab10be66f3a40e2c3ca149ad6163585d4eb3.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "River discharge near Van, Republic of T\u00fcrkiye running 1.9x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=38.475006&longitude=43.375015",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Van"
+      ],
+      "TriggerCity": [
+        "Van"
+      ]
     }
   ],
   "4": [
     {
-      "Headline": "Flood Warning issued November 2 at 7:32AM MST until November 2 at 9:45AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.471d8c142dde56008cf708258faaa12b5edeeca1.001.1",
+      "Headline": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump\u2019s foes",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/92b311eb24936c630f33e5a6c4522072b953955f/510_0_5102_4083/master/5102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b12340f2a3fb9a9beb5471eef14f51a",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Chicago"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 10:03PM MST until November 7 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8daf20dae0a0ba1725f1d52e10f532aeb95b1f1a.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1599,64 +1216,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 6:54AM MST until November 2 at 9:15AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6ff081fd7061f26882ab568daa06360a9b10d2a6.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 4:17AM PST until November 2 at 9:15AM PST by NWS Las Vegas NV",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6e4ac6f413b2c0d0a8e3350f32413a7f6e38589f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Las Vegas"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 5:04AM MST until November 2 at 11:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5fd556ead1d33a20150e8c29fbc93391a1b98dc5.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 4:53AM MST until November 2 at 8:45AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4b86c56464a133db698131bf8016dcd22bbeb7d2.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 4:15AM MST until November 3 at 8:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0422a6a4eb76232904cea3a22c8583ddc9f3dc4b.001.1",
+      "Headline": "Flood Warning issued November 2 at 10:02PM MST until November 3 at 5:00PM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.fa35914b065c8d466076c68066051df5ce36bf35.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1669,8 +1230,106 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 3:54AM MST until November 3 at 2:52AM MST by NWS Tucson AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.89df3ac94c4d4ed4ca56736e20964b7214fd9a6e.001.1",
+      "Headline": "Flood Warning issued November 2 at 9:53PM MST until November 3 at 12:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cca2b7284e1d79f0b5e690b33645a9b71cf8e296.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:52PM MST until November 3 at 5:00PM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.22ff1b9ebf988472094a00c20674e74eda359357.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Albuquerque"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:47PM MST until November 5 at 11:45AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.397ab07d426aceeaeb630e8b940338771d7b57ac.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:41PM MST until November 3 at 11:15AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9f5686dc79c1736056260b4813682c41a8edd8dd.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:38PM MST until November 5 at 8:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5ca16c6ff85788329c084c3bfcda1795c65830a3.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:33PM MST until November 4 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.279f60afc6c01fc0db2a9666d89c6666c47f2510.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:22PM MST until November 3 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.12058caa65cccacabd5000c4f26a3c50dbc2e790.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 2 at 9:16PM MST until November 3 at 4:00PM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1f2f23019336ddf699f082a2d24e616cf7f67e4d.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1683,8 +1342,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 3:44AM MST until November 3 at 10:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9b72a77b8c2e3c59b7ea085abe246b43ea861783.001.1",
+      "Headline": "Flood Warning issued November 2 at 2:55PM MST until November 3 at 6:00AM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f4c383c2a5ea26300d9bac7361a71a04fb4f120.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1697,22 +1356,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 3:24AM MST until November 2 at 5:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b7695db7f8c617f9a55f15278b29e07a7c76802d.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 3:05AM MST until November 3 at 3:00AM MST by NWS Tucson AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.769df4198268d0203ac6877657015e80dff2cd27.001.1",
+      "Headline": "Flood Warning issued November 2 at 12:49PM MST until November 3 at 12:45PM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d92cac51cb77b411f692d2fc0d020c48beeecda9.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1725,8 +1370,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 2:03AM MST until November 2 at 12:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9038eae3daafd275abeedf04970f8ea857a58b76.001.1",
+      "Headline": "Flood Warning issued November 2 at 10:52AM MST until November 3 at 3:00AM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9b2ad60a53ba54e590ea231ebbc1268c8dc4428e.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1735,184 +1380,85 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:56PM MST until November 2 at 8:15AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c17a1441941800afc8f5c8bb891d5b79f7f5cdf0.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:21PM MST until November 2 at 11:15AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b3325ea78948a04e9dc4d591e1376568c552b8de.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:01PM MST until November 2 at 8:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7f116b7a117280e38e22d1fbeafa16daadef93ac.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 9:01PM MST until November 2 at 12:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9ae8a8a1349ff78719d5ebeeab70bc3e68d592f7.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 7:55PM MST until November 2 at 8:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.69fc2f0ad7f4a12c9c2031144e0a6ca5d6b45376.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 10:53AM MST until November 2 at 8:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bd037b3f2a87c747de73ea80b3dbe20c19b25d50.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 1 at 6:08AM MST until November 2 at 8:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.beae9c9c93a0f70e6939a4a96bd11015aa3f711b.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
+        "Tucson"
       ]
     }
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "EU",
       "Europe",
+      "Quad",
       "sco"
     ],
     "TriggerCountry": [
-      "Brazil",
+      "Australia",
+      "Bangladesh",
       "Bulgaria",
-      "Cambodia",
-      "Canada",
-      "DR Congo",
+      "China",
       "Ethiopia",
-      "French",
+      "German",
       "Germany",
       "India",
       "Indian",
       "Iran",
-      "Israel",
+      "Iranian",
       "Israeli",
       "Kenya",
+      "Niger",
+      "North Korea",
       "Portugal",
       "Russia",
       "Russian",
+      "Rwanda",
       "Sa",
-      "Serbia",
-      "Somalia",
+      "South Africa",
       "Sudan",
-      "Sudanese",
-      "Turkish",
+      "U.S.",
       "US",
-      "Uganda",
       "Ukraine",
-      "United States",
-      "Yemen",
-      "us"
+      "Ukrainian",
+      "United States"
     ],
     "TriggerADM1": [
-      "Alaska",
+      "Abu Dhabi",
       "Bay",
-      "Central",
+      "California",
       "Delaware",
       "EST",
-      "East",
-      "Eastern",
+      "Florida",
       "Iowa",
+      "Kyiv",
       "Michigan",
+      "Moscow",
       "New York",
-      "Northeast",
+      "North",
       "Northern",
-      "Plateau",
       "Porto",
-      "Sal",
       "San Juan",
-      "San Luis",
       "South",
-      "Southeast",
       "Southern",
-      "Southwest",
-      "Texas",
-      "Utah",
+      "Tokyo",
+      "Van",
       "Washington",
-      "West",
-      "southeast"
+      "centre",
+      "southeast",
+      "southern"
     ],
     "TriggerCity": [
+      "Abu Dhabi",
       "Albuquerque",
-      "Campo Grande",
-      "El Paso",
-      "Guadalupe",
-      "Las Vegas",
+      "Chengdu",
+      "Chicago",
+      "Ibadan",
+      "Johannesburg",
+      "Kyiv",
       "Melbourne",
+      "Moscow",
+      "Ottawa",
       "Phoenix",
-      "Sacramento",
-      "San Francisco",
-      "Tucson"
+      "Tokyo",
+      "Tucson",
+      "Van"
     ]
   },
   "allLocations": {
