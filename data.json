@@ -1,34 +1,29 @@
 {
   "1": [
     {
-      "Headline": "Asian Cup postponed due to Middle East conflict",
-      "URL": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79840167_6.jpg",
-      "TriggerRegion": [
-        "Asia",
-        "Middle East"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "East"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US to drop South Africa, Rwanda from AGOA duty-free trade initiative",
-      "URL": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/73497516_6.jpg",
+      "Headline": "US to cut nearly $4 billion in Israel military aid, Trump says",
+      "URL": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/75336437_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US",
-        "South Africa",
-        "Rwanda"
+        "Israel"
       ],
-      "TriggerADM1": [
-        "South"
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Rwanda set to lose duty-free access to US Market",
+      "URL": "https://www.dw.com/en/rwanda-set-to-lose-duty-free-access-to-us-market/video-79843558",
+      "Category": "CONFLICT",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Rwanda",
+        "US"
       ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -40,6 +35,34 @@
       "TriggerCountry": [
         "Russia",
         "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US tech giants are now issuing billions in AI bonds, competing with cash-strapped European governments for capital.",
+      "URL": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79797664_6.jpg",
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Cyprus: From ties with Russia to a strategic alignment with the US",
+      "URL": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79839641_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Cyprus",
+        "Russia",
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -57,101 +80,63 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-      "URL": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-20T163028Z_1518097159_RC247OARFAEN_RTRMADP_3_SOUTHSUDAN-SUDAN-SECURITY-1792561314.jpg?resize=1200%2C675",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sudan",
-        "Ethiopia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018Manipulated\u2019: Kenya to US midterms, Indian bots help campaigns sway votes",
-      "URL": "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2176097801-1793597597.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Kenya",
-        "US",
-        "Indian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "5,Explosions hit Iran\u2019s Qeshm Island as US media report US strikes in Hormuz",
-      "URL": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/03/GettyImages-2266746200-1773658772.jpg?resize=1920%2C1440",
+      "Headline": "Iran hails US voters rejecting war while Khamenei warns hostility won\u2019t end",
+      "URL": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeb16907daf-1793791632.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Iran",
-        "US",
         "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "6,US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-      "URL": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+      "Headline": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+      "URL": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks",
       "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6ae99970da-1793694064.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US",
-        "Iran"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
-      "URL": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-kyiv-rs-7e4246.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Supermarkets across Europe hit by new fridge cyberattacks",
-      "URL": "https://www.nbcnews.com/world/europe/european-supermarkets-hit-new-fridge-cyberattack-rcna606972",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-fridge-rs-4784e5.jpg",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Denmark pushes for EU ban on \u2018turbo chickens\u2019 as secret footage causes outrage",
-      "URL": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/ad8ef1450126eda5a5972d1ba622505d2a2dbb15/40_0_5212_4170/master/5212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3bff832ae1f2dbdf62824cb2b5b172e",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aea5a2991d5-1793743401.jpg?resize=1920%2C1440",
       "TriggerRegion": [
         "EU"
       ],
       "TriggerCountry": [
-        "Denmark"
+        "Germany",
+        "Romania",
+        "UK"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Watch issued November 2 at 9:03PM CST by NWS Quad Cities IA IL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50f4eaa29ef99c5388baf285b2b072bb0748cdec.003.1",
+      "Headline": "U.S. Marine dies in Japan during training, military says",
+      "URL": "https://www.nbcnews.com/world/japan/us-marine-killed-japan-training-incident-says-military-rcna607387",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-Camp-Schwab-rs-407dd0.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S.",
+        "Japan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "U.S. will stop $4B in aid to Israel at the end of the year, Trump says",
+      "URL": "https://www.nbcnews.com/politics/2026-election/trump-says-us-will-stop-4b-military-aid-israel-end-2026-rcna607210",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261103-trump-netanyahu-rs-743556.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "U.S.",
+        "Israel"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:40PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2f716e6a67fa3c675cca893e45f91a3f3a124274.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
@@ -166,8 +151,22 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Watch issued November 2 at 9:03PM CST until November 6 at 1:00AM CST by NWS Quad Cities IA IL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50f4eaa29ef99c5388baf285b2b072bb0748cdec.002.1",
+      "Headline": "Flood Warning issued November 3 at 8:38PM CST until November 7 at 5:00PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.799de1dd88e9057416db3ceff8b56ccd69e3fd9d.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Quad"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Watch issued November 3 at 8:34PM CST until November 5 at 2:00PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.21ca3ae7961700105fe5ab9d71bf0ce4184da961.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
@@ -180,84 +179,65 @@
         "Washington"
       ],
       "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Watch issued November 2 at 9:03PM CST until November 6 at 10:00PM CST by NWS Quad Cities IA IL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50f4eaa29ef99c5388baf285b2b072bb0748cdec.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [
-        "Quad"
-      ],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
     }
   ],
   "2": [
     {
-      "Headline": "North Korea denies $6 billion Binance hack claim",
-      "URL": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321",
+      "Headline": "US midterms: Democrats win House and Senate from Republicans",
+      "URL": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440",
+      "Category": "Sports Results",
+      "ImageURL": "https://static.dw.com/image/79854764_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US midterms: Sweeping Democrat wins deliver rebuke to Trump",
+      "URL": "https://www.dw.com/en/us-midterms-sweeping-democrat-wins-deliver-rebuke-to-trump/video-79851376",
+      "Category": "Sports Results",
+      "ImageURL": "https://static.dw.com/image/79850261_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "BMW reports lower Q3 earnings as China woes mount",
+      "URL": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79303283_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "El-Sayed celebrates victory in Michigan Senate battle",
+      "URL": "https://www.dw.com/en/el-sayed-celebrates-victory-in-michigan-senate-battle/video-79852305",
       "Category": "Rumour",
-      "ImageURL": "https://static.dw.com/image/79824743_6.jpg",
+      "ImageURL": null,
       "TriggerRegion": [],
-      "TriggerCountry": [
-        "North Korea"
-      ],
+      "TriggerCountry": [],
       "TriggerADM1": [
-        "North"
+        "Michigan"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Ukraine: At least 26 killed in Russian strikes on aid center",
-      "URL": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79834582_6.jpg",
+      "Headline": "Keisha Lance Bottoms first Black woman elected governor in US history",
+      "URL": "https://www.dw.com/en/keisha-lance-bottoms-first-black-woman-elected-governor-in-us-history/video-79850389",
+      "Category": "Election Results",
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine",
-        "Russian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "'Small extremist minority' turn Germany's youth protests violent",
-      "URL": "https://www.dw.com/en/small-extremist-minority-turn-germanys-youth-protests-violent/video-79821884",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79819793_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Portugal police storm housing protest camps in Lisbon, Porto",
-      "URL": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://static.dw.com/image/79821462_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Portugal"
-      ],
-      "TriggerADM1": [
-        "Porto"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Renewed fighting threatens Ethiopia's economic growth and pushes up the cost of living.",
-      "URL": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopias-economic-growth/a-79807060",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79652307_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ethiopia"
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -276,39 +256,25 @@
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018Going hungry\u2019: Garment workers in Bangladesh say wages barely cover needs",
-      "URL": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs",
-      "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-22T020929Z_596030997_RC2UKNAVHD10_RTRMADP_3_IRAN-CRISIS-ENERGY-BANGLADESH-1793513847.jpg?resize=1920%2C1440",
+      "Headline": "Democrats win US Congress in blue wave as voters reject Trump\u2019s agenda",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states",
+      "Category": "Sports Results",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26308213683238-1793794755.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Bangladesh"
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Cyclone Murasu makes landfall on India\u2019s eastern coast",
-      "URL": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae99c66a413-1793694822.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India"
-      ],
-      "TriggerADM1": [
-        "eastern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "The US midterms will test the limits of Trump\u2019s power",
-      "URL": "https://www.aljazeera.com/opinions/2026/11/3/the-us-midterms-will-test-the-limits-of-trumps-power",
+      "Headline": "Hebron\u2019s Israeli rooftop settlers threaten the city\u2019s Palestinian identity",
+      "URL": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae46c6e-1793354862.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/164A2722-1793793869.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "Israeli"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -326,10 +292,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "10,US midterms updates: Republicans, Democrats make final election pitches",
-      "URL": "https://www.aljazeera.com/news/liveblog/2026/11/2/us-midterms-2026-live-trump-democrats-make-final-push-amid-michigan-rift",
+      "Headline": "\u2018Seismic shift\u2019: World reacts to US midterm election results",
+      "URL": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aaa8367e010-1789559655.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26308294809549-1793786995.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US"
@@ -338,36 +304,84 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Reddit blasts Australia\u2019s \u2018inept\u2019 social media ban as court challenge begins",
-      "URL": "https://www.nbcnews.com/world/asia/reddit-blasts-australias-inept-social-media-ban-court-challenge-begins-rcna607178",
+      "Headline": "\u2018I will not delete my posts\u2019: Inside Uganda\u2019s crackdown on online critics",
+      "URL": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-Screen-Time-vsb-2346-dc0388.jpg",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/Andrew-Tabandama-Natumanya-scrolling-through-his-phone-in-Kamwokya-a-Kampala-surburb.-3-1792094670.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Australia"
+        "Uganda"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "North Korea denies involvement in Binance hack and criticizes FBI probe as \u2018a trite provocation\u2019",
-      "URL": "https://www.nbcnews.com/world/asia/north-korea-denies-involvement-binance-hack-rcna607168",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261031-Binance-aa-627-6d3749.jpg",
+      "Headline": "1,US midterm elections 2026: Live results in maps and chartsExternal LinkThis article will be opened in a new browser window",
+      "URL": "https://aljazeera.com/us-midterm-elections-2026/results/",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/us-midterm-elections-2026/results/thumbnail.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "North Korea"
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "10,Abdul El-Sayed defeats Mike Rogers to win US Senate seat in Michigan",
+      "URL": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T065306Z_1294689563_RC2UGOAZOBPW_RTRMADP_3_USA-ELECTION-MICHIGAN-1793775251.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [
-        "North"
+        "Michigan"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Federal judge orders Iowa to allow Satanic Temple to hold holiday event in the State Capitol",
-      "URL": "https://www.nbcnews.com/news/us-news/federal-judge-orders-iowa-satanic-temple-hold-holiday-capitol-rcna607149",
+      "Headline": "Iran says Americans rejected Trump\u2019s war as the world reacts to the midterms rout",
+      "URL": "https://www.nbcnews.com/world/iran/iran-midterms-trump-war-reject-elections-world-reacts-ukraine-rcna607383",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-U-811e46.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Federal judge temporarily blocks Trump plan to deport detained Afghans to Afghanistan",
+      "URL": "https://www.nbcnews.com/news/us-news/judge-temporarily-blocks-trump-plan-deport-detained-afghans-pakistan-rcna607358",
+      "Category": "CONFLICT",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/20261103-scott-peters-jj-1037p-7cf42f.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Afghanistan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Cyberattack on French blood bank fridges thwarted before damage to products and samples",
+      "URL": "https://www.nbcnews.com/world/france/france-cyberattack-blood-bank-refrigerators-samples-products-rcna607405",
+      "Category": "Natural Disaster",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-donated-blood-rs-72655f.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "French"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Democrat Rob Sand flips control of the Iowa governorship",
+      "URL": "https://www.nbcnews.com/politics/2026-election/rob-sand-democrat-iowa-governor-win-election-flip-zach-lahn-republican-rcna603365",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-Iowa-Capitol-building-vsb-1907-85af0f.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-rob-sand-iowa-governor-midterm-ew-b4df46.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -376,10 +390,77 @@
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018Done for the day\u2019: US ambulance driver abandons patient and takes Uber home",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/02/ambulance-driver-abandons-patient-cleveland",
+      "Headline": "El-Sayed wins Michigan Senate seat, NBC News projects",
+      "URL": "https://www.nbcnews.com/video/el-sayed-wins-michigan-senate-seat-nbc-news-projects-272825413790",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793777991800_nbc_midterms_abdul_elsayed_wins_michigan_senate_261103_S3_1920x1080-ddz15q.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Michigan"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Escaped Tennessee inmate captured, authorities say",
+      "URL": "https://www.nbcnews.com/news/us-news/escaped-tennessee-inmate-jacob-morley-captured-rcna606042",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-Jacob-Morely-rs-838e28.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Tennessee"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says",
+      "URL": "https://www.nbcnews.com/world/asia/north-korea-fires-multiple-missiles-fourth-weapons-launch-month-rcna607364",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/20261103-kim-jong-un-jj-1135p-9873d3.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "North Korea"
+      ],
+      "TriggerADM1": [
+        "North",
+        "Seoul"
+      ],
+      "TriggerCity": [
+        "Seoul"
+      ]
+    },
+    {
+      "Headline": "IowaDemocrat Rob Sand wins Iowa\u2019s gubernatorial race as party plans rebuild",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/a95ee5b78b3ec43aa2ef494b07ba4ca0a728d928/943_0_4801_3840/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8d361c7cfd4f1be4361d414a91aefc0",
+      "ImageURL": "https://i.guim.co.uk/img/media/58f6e5eac9460ae193987df5c679f02ca9e68170/1335_979_5606_4485/master/5606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d989f9fd979bc38b20deed82f3cfe4f",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Iowa"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+      "Category": "CONFLICT",
+      "ImageURL": "https://i.guim.co.uk/img/media/962825a1cc0faaec411418d7850b922d8dd48894/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f157e2c04f262180911ad2ebeb4f20c",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Michigan"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Democrats win control of Senate as US voters reject Trump\u2019s agenda",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/21aee7a770d02a6ce06c2ce0e5f3cc68b71a10f0/0_0_4710_3768/master/4710.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aedd7ccd83cbc2b923da655c4007eb48",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US"
@@ -388,8 +469,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Storm Warning issued November 3 at 4:23AM AKST until November 3 at 9:00PM AKST by NWS Juneau AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.31ab07b686399e1367ca6225e0475b1f7068abb8.001.2",
+      "Headline": "Flood Warning issued November 4 at 6:35AM MST until November 4 at 3:00PM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.336a54bcd0d2c78cf9df240d8b4fcb4532eead1e.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -400,8 +481,56 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 3 at 6:15AM MST until November 3 at 6:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.872db1c25eb82bf1daa11c087a4286dd1caed416.001.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 4 at 3:45AM AKST until November 5 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5399210e4267de341ac874bb8b28adb0fd713109.009.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued November 4 at 3:40AM AKST until November 5 at 9:00PM AKST by NWS Juneau AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4397f78f1da5105cb75e0e7c313b1e375434b01b.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 4 at 4:57AM MST until November 4 at 7:00PM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6b704c0b032601dac68baccc1e39a4b0ea3607cb.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued November 4 at 2:38AM AKST until November 5 at 5:00AM AKST by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a5782eea46cb902a835bac8178f962cfa2857cb2.004.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 11:19PM MST until November 4 at 4:40PM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6a09acf19b2a3719f1064d64a66ad3db3e722ab6.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -416,8 +545,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 3 at 6:02AM MST until November 3 at 10:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1975dbfeaebf6b2adc4c57a0bd2dd5d9cea32858.001.1",
+      "Headline": "Flood Warning issued November 4 at 12:00AM CST until November 7 at 12:00AM CST by NWS Lake Charles LA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.28ebe7f737b1446b3ee22b983168e24a83a47da1.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -428,8 +557,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 3 at 3:45AM AKST until November 4 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f05cddfc66a7f77f9c013eff2794e6e09c1064e5.005.1",
+      "Headline": "Flood Warning issued November 3 at 8:01PM CST until November 6 at 8:00AM CST by NWS Topeka KS",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d081d92e88d233d8f4b05f1ec20651049a91c74d.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -440,8 +569,56 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 3 at 5:34AM MST until November 4 at 9:00AM MST by NWS Salt Lake City UT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.92f8fc049a32bf4b15acd01ce63edeee2abd344d.001.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 3 at 3:48PM AKST until November 4 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dbbab0fe2a4c88c0bc72e2812a7726153c68dae3.002.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 3 at 3:48PM AKST until November 4 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dbbab0fe2a4c88c0bc72e2812a7726153c68dae3.009.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 5:25PM MST until November 4 at 10:00AM MST by NWS Flagstaff AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8b260bd95d2b093ee163341468b4fbbba35fa59e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Warning issued November 3 at 2:15PM AKST until November 4 at 5:00AM AKST by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d7ddaf769ef47a4082cfb4eadefbfc4d2369bd20.004.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:20AM MST until November 5 at 5:15PM MST by NWS Salt Lake City UT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.79f45951f104030fb69e0a14355ad0810d4106e2.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -455,144 +632,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Storm Warning issued November 3 at 3:00AM AKST until November 4 at 5:00AM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.acd6ea894ab3586e9ddaad795a1a86760d546e91.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 3 at 2:31AM MST until November 4 at 6:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4f1d90a6e607a9f0f8ee2db9b460c9ec1a1934c6.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 3 at 2:24AM MST until November 4 at 6:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dc52cd155d21b0eb99244623efe0a1edc492aac1.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 3 at 2:15AM MST until November 3 at 9:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c3cc598caa7566a554f4f23879c384b978145d0f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 3 at 2:07AM MST until November 4 at 11:00AM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d1d7cf044dad8748b06c4ac6f0a6df16d334ff80.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "San Juan"
-      ],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flash Flood Warning issued November 3 at 2:05AM MST until November 3 at 9:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cfc37e54e15e99be93ce5527873e87ce5fe73124.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 3 at 1:16AM MST until November 3 at 11:00AM MST by NWS Flagstaff AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.508ae119de1d18bb942987d42256e26777ad1740.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 11:29PM MST until November 3 at 11:30PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0acbc772296e8c7332deebc2301794910d7bc692.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 8:26PM MST until November 3 at 3:15PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.02f965ae74d4a09eb4bf05528d133991269cdbf9.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:02PM CST until November 4 at 12:00PM CST by NWS Lake Charles LA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.383ea4ea163e32a7fa6982fd9746eb08ad1ef39c.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:15PM EST until November 3 at 9:30AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d5ec6e3e784e6ff98f3e5e84286ac912f718d375.001.1",
+      "Headline": "Flood Warning issued November 3 at 9:30AM EST until November 4 at 9:30AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.57b09679b0ffae10e5940def5bb8564a1e56824b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -608,8 +649,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 7:12PM MST until November 3 at 8:00PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6464bc0887f8877bfebebb5f7c89a143087a5c77.001.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 3 at 3:45AM AKST until November 4 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f05cddfc66a7f77f9c013eff2794e6e09c1064e5.005.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -620,44 +661,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 6:42PM MST until November 3 at 4:36PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2d15c414937b6484eb0d845afc6470158982c062.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 6:25PM MST until November 3 at 2:30PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.296bbf99475527b7bc31e99b4aa69e7b0a30d2d6.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 6:09PM MST until November 3 at 10:15PM MST by NWS Grand Junction CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.36ebd59484fb5a560bc8936f449c815daa9a9e55.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 2 at 3:48PM AKST until November 3 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.97c3ed227ea203c072bd12e4cb3f29e1371c63b9.002.1",
+      "Headline": "Storm Warning issued November 3 at 3:00AM AKST until November 4 at 5:00AM AKST by NWS Anchorage AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.acd6ea894ab3586e9ddaad795a1a86760d546e91.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -682,18 +687,6 @@
     {
       "Headline": "Flood Warning issued November 2 at 3:53PM MST until November 4 at 4:00PM MST by NWS Pueblo CO",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b092e67b29472df648ea32d2432f2eb9c230c8e2.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 3:47PM MST until November 3 at 3:45PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aac508d852d6aadc0ffc543722b1bf27c1ab74d4.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -730,44 +723,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Watch issued November 2 at 1:37PM EST until November 3 at 10:00AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4f9ab229bb871cb475159ccd676055c9332e21ca.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India",
-        "India"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Northern",
-        "Northern",
-        "Northern",
-        "Southern",
-        "Southern",
-        "Southern"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Storm Warning issued November 2 at 3:20AM AKST until November 3 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a25ea9354438a92a49f68851db56d6954ed4e123.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "River discharge near Chengdu, China running 2.1x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=30.675003&longitude=104.07501",
+      "Headline": "River discharge near Qingyuan, China running 1.6x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=23.725006&longitude=113.025024",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -776,128 +733,241 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Chengdu"
-      ]
-    },
-    {
-      "Headline": "River discharge near Johannesburg, South Africa running 3.1x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-26.224998&longitude=28.02501",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "South Africa"
-      ],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": [
-        "Johannesburg"
-      ]
-    },
-    {
-      "Headline": "River discharge near Ibadan, Nigeria running 1.6x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=7.375&longitude=3.925003",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Niger"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Ibadan"
+        "Qingyuan"
       ]
     }
   ],
   "3": [
     {
-      "Headline": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-      "URL": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20000-california-ballots/a-79833739",
+      "Headline": "Critical Learjet piece found miles from crash site in Florida",
+      "URL": "https://www.nbcnews.com/news/us-news/important-piece-learjet-found-miles-crash-site-florida-rcna607333",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79833931_6.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-florida-small-plane-crash-ew-100p-1142fc.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "California"
+        "Florida"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Voters report broken voting machines in suburban New YorkJust now9m agoVoters in New York's Westchester County have reported issues with broken voting machines at multiple polling stations this morning, with Attorney General Letitia James' office looking into the matter.",
-      "URL": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763#rcrd122493",
-      "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/2611021-liveblog-election-1-lr-f93a3e.jpg",
+      "Headline": "Democratic Gov. Tina Kotek wins re-election bid in Oregon",
+      "URL": "https://www.nbcnews.com/politics/2026-election/tina-kotek-oregon-governor-election-win-democrats-gop-christine-drazan-rcna603357",
+      "Category": "Election Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-Tina-Kotek-ch-1213-52d095.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "New York"
+        "Oregon"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Early voters turn out in PennsylvaniaJust now32m agoVoters wait in line at a polling place in Warrington, Pennsylvania, this morning.",
-      "URL": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763#rcrd122492",
+      "Headline": "Idaho voters reject ballot measure on abortion, preserving the state\u2019s ban, NBC News projects",
+      "URL": "https://www.nbcnews.com/politics/2026-election/idaho-abortion-ballot-measure-reject-voters-midterms-rcna603395",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/2611021-liveblog-election-1-lr-f93a3e.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-idaho-abortion-ONE-TIME-USE-mn-1115-fa109e.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Pennsylvania"
+        "Idaho"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "New York reports first measles death in more than 30 years",
-      "URL": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260826-measles-ch-1545-88fa49.jpg",
+      "Headline": "Josh Turek defeats Republican Rep. Ashley Hinson to win Iowa Senate seat",
+      "URL": "https://www.nbcnews.com/politics/2026-election/josh-turek-democrats-iowa-senate-flip-democrats-majority-boost-hinson-rcna603305",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-iowa-turek-rs-a275d9.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "New York"
+        "Iowa"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Fraud trial underway in New York for Cleveland Guardians pitchers, including star reliever",
-      "URL": "https://www.nbcnews.com/news/us-news/fraud-trial-underway-new-york-cleveland-guardians-pitchers-star-reliev-rcna607197",
+      "Headline": "Former Gov. Roy Cooper flips North Carolina to replace GOP Sen. Thom Tillis",
+      "URL": "https://www.nbcnews.com/politics/2026-election/roy-cooper-north-carolina-senate-election-win-democrats-rcna603330",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261103-Clase-and-Ortiz-rs-7847ff.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-roy-cooper-north-carolina-senate-midterm-vl-1230p-a7171c.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "New York"
+        "North Carolina"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "24-year-old woman dies after collapsing in final stages of New York City Marathon",
-      "URL": "https://www.theguardian.com/sport/2026/nov/03/24-year-old-woman-dies-after-collapasing-in-final-stages-of-new-york-city-marathon",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/9747bb684f186ad6d6cf51431c271541069cb920/672_0_3315_2651/master/3315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9c49e9668a673a2fe60ef03845d137a",
+      "Headline": "GOP Sen. Ashley Moody wins special Senate election for Marco Rubio\u2019s old seat in Florida",
+      "URL": "https://www.nbcnews.com/politics/2026-election/ashley-moody-florida-senate-election-win-midterm-angie-nixon-rcna603333",
+      "Category": "Election Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261027-ashley-moody-florida-senate-midterms-jg-096813.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "New York"
+        "Florida"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Gina Hinojosa to become Texas\u2019 first Hispanic governor after stunning win",
+      "URL": "https://www.nbcnews.com/politics/2026-election/gina-hinojosa-win-texas-governor-race-greg-abbott-upset-election-rcna603360",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-Gina-Hinojosa-texas-governor-midterm-ew-12206e.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "David Crowley keeps Wisconsin\u2019s governor\u2019s office under Democratic control",
+      "URL": "https://www.nbcnews.com/politics/2026-election/david-crowley-wisconsin-governor-election-win-democrat-tom-tiffany-gop-rcna603350",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260812-david-crowley-vl-303p-ca9264.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Wisconsin"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "GOP Rep. Max Miller loses re-election in Ohio following abuse allegations from ex-wife",
+      "URL": "https://www.nbcnews.com/politics/2026-election/brian-poindexter-win-max-miller-house-election-ohio-abuse-allegations-rcna603372",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-Max-Miller-House-midterm-ch-1541-f216c4.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Ohio"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Democrat wins Texas railroad commissioner race after rival faced backlash over racist comments",
+      "URL": "https://www.nbcnews.com/politics/2026-election/democrat-jon-rosenthal-wins-texas-railroad-commissioner-bo-french-rcna603384",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-Jon-Rosenthal-railroad-commissioner-texas-midterms-vsb-2041-086f60.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Missouri voters block Republican-drawn congressional map",
+      "URL": "https://www.nbcnews.com/politics/2026-election/missouri-voters-block-republican-drawn-congressional-map-rcna603390",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260820-missouri-rs-2637d3.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Missouri"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Troy Jackson wins Maine Senate seat, NBC News projects",
+      "URL": "https://www.nbcnews.com/video/troy-jackson-wins-maine-senate-seat-nbc-news-projects-272824389727",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/261103-troy-jackson-16x9-mpx-ww-2035-re06wm.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Maine"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Democrat Adam Hamilton projected to win Senate race in Kansas",
+      "URL": "https://www.nbcnews.com/video/democrat-adam-hamilton-projected-to-win-senate-race-in-kansas-272821317609",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/261103-adam-hamilton-kansas-16x9-mpx-ww-2030-bee7nn.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Kansas"
       ],
       "TriggerCity": [
-        "New York City"
+        "Hamilton"
       ]
     },
     {
-      "Headline": "\u2018Men know they won\u2019t face consequences\u2019: rise of street sex work in Tokyo is fuelling calls for change",
-      "URL": "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise",
+      "Headline": "Democrat Sherrod Brown wins the Ohio Senate race, NBC News projects",
+      "URL": "https://www.nbcnews.com/video/democrat-sherrod-brown-wins-the-ohio-senate-race-nbc-news-projects-272821317568",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/0d9724120cb6a732decb8fc2f674dee44cb2f5a9/324_0_3784_3029/master/3784.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3cc70705f81bd27fc322e4c4a58f1e01",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793766144594_nbc_ohio_senate_race_call_261103_S3_1920x1080-yy3xvm.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Tokyo"
+        "Ohio"
       ],
-      "TriggerCity": [
-        "Tokyo"
-      ]
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Gina Hinojosa projected to win Texas governor's race",
+      "URL": "https://www.nbcnews.com/video/gina-hinojosa-projected-to-win-texas-governor-s-race-272818757955",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793765627501_nbc_spec_hinojosa_wins_gov_261103_S3_1920x1080-vr3gkf.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Democrat Amy Acton projected to win Ohio governor's race",
+      "URL": "https://www.nbcnews.com/video/democrat-amy-acton-projected-to-win-ohio-governor-s-race-272820293834",
+      "Category": "Sports Results",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793765611024_nbc_spec_acton_win_gov_ohio_261103_S3_1920x1080-kczoh3.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Ohio"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Talarico wins Texas Senate seat, NBC News projects",
+      "URL": "https://www.nbcnews.com/video/talarico-wins-texas-senate-seat-nbc-news-projects-272820293727",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793764905642_nbc_midterms_talarico_senate_win_261103_S3_1920x1080-40b4lk.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Supporters react to James Talarico's win in Washington DC",
+      "URL": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/2289c25cb92bd6c75d4bf752e0d4b85e41ef3df2/459_0_4162_3329/master/4162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4301ef3af1951651517349e0368ca452",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Washington"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/edc99e4d358204652fb94028262208f3e696ca5c/58_153_684_547/master/684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=169563808013ca605d51133c20462043",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Oregon",
+        "Utah"
+      ],
+      "TriggerCity": []
     },
     {
       "Headline": "Magnitude 6.4 earthquake strikes southeast of Easter Island",
@@ -912,8 +982,23 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:57PM EST until November 5 at 1:51PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.002.1",
+      "Headline": "Flood Warning issued November 4 at 8:13AM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f8b19f6dc6b80231c051af992d4cd44af663e98c.004.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "Bay"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 4 at 8:13AM EST until November 4 at 4:58PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f8b19f6dc6b80231c051af992d4cd44af663e98c.003.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -928,8 +1013,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:57PM EST until November 4 at 8:42PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.001.1",
+      "Headline": "Flood Warning issued November 4 at 8:13AM EST until November 5 at 7:00AM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f8b19f6dc6b80231c051af992d4cd44af663e98c.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -944,23 +1029,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:57PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.005.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 8:57PM EST until November 5 at 5:30PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b9a424e9a79183d7615fa3d4921b5b9dea8b7a80.003.1",
+      "Headline": "Flood Warning issued November 4 at 8:13AM EST until November 5 at 11:00AM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f8b19f6dc6b80231c051af992d4cd44af663e98c.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -975,8 +1045,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:40PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1fec35170e3ada49cc0dec729fc418783d290731.001.1",
+      "Headline": "Flood Warning issued November 3 at 9:33PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2a72816b2975ab58fbc41f054843b24ac4a83920.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -991,8 +1061,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:39PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d944b74fa7050aa661a5f9ff17b45ebdf3ae8d71.001.1",
+      "Headline": "Flood Warning issued November 3 at 9:27PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3ac1781d75fd60745520c40ebc13ae21f15bf46b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1007,8 +1077,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:38PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.72a0e8919d39028d187b8c049a71412bddbfceb7.001.1",
+      "Headline": "Flood Warning issued November 3 at 9:13PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.74cd3760eec071e58b2e2c3e0e6ac9f2dce933db.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1023,8 +1093,40 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:36PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2f99678eea116edc36e578666cce41b3a4fe5cfb.001.1",
+      "Headline": "Flood Warning issued November 3 at 8:07PM CST until November 8 at 2:00PM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8187cc7979d6a71f23c8e2005200e543ab173e97.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:07PM CST until November 8 at 9:00PM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9e26ccef80209d8a5f4cc8662f4ead9a47343e2e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 9:02PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.84a0b042d8951caac7e35bd5683189e228311014.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1039,8 +1141,40 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 8:33PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.34a9ab10be66f3a40e2c3ca149ad6163585d4eb3.001.1",
+      "Headline": "Flood Warning issued November 3 at 8:00PM CST until November 7 at 3:23AM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0be0796a42ac713f01f1ece7b45911a2b5d73450.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 7:57PM CST until November 5 at 4:24PM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c765f80dacd77f24d0b84f39b1edcca210a1f25e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:55PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.eab2f02d761bbb94354321c9f753dca96f0874a9.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1055,176 +1189,90 @@
       ]
     },
     {
-      "Headline": "River discharge near Van, Republic of T\u00fcrkiye running 1.9x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=38.475006&longitude=43.375015",
+      "Headline": "Flood Warning issued November 3 at 7:55PM CST until November 5 at 9:25AM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cacdba93ee1e586872c7afeee991c9214fbab932.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "Van"
+        "Kansas"
       ],
       "TriggerCity": [
-        "Van"
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 7:03PM CST until November 6 at 7:06AM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6fcbb26bb3057d2b992b86a6bc1504e2cb95a914.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 7:00PM CST until November 6 at 4:00PM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cf60f867a71bec94899bdc991d4b8241d4d6184e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 6:59PM CST until November 7 at 7:00AM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4f83fa9fce29cbc63860367eec46a613153708fa.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 6:57PM CST until November 8 at 6:00AM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e08c791b82029cb96a78431a835d4b045141e18e.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Kansas"
+      ],
+      "TriggerCity": [
+        "Kansas City"
       ]
     }
   ],
   "4": [
     {
-      "Headline": "Peacock found in couple\u2019s Brisbane bathroom leads to creative bid to reunite bird with tattoo artist",
-      "URL": "https://www.theguardian.com/environment/2026/nov/03/hex-the-peacock-found-in-brisbane-bathroom",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/743d929edbd995a4e8f91a7fbb29ed72f5a11b74/30_0_530_424/master/530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39e6337801751111192e517eff78eca3",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Brisbane"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 3 at 4:22AM MST until November 3 at 12:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bf8a1ee98bbe47801bf11f6a4a976db4c912dba3.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 10:03PM MST until November 7 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8daf20dae0a0ba1725f1d52e10f532aeb95b1f1a.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 10:02PM MST until November 3 at 5:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.fa35914b065c8d466076c68066051df5ce36bf35.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:53PM MST until November 3 at 12:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cca2b7284e1d79f0b5e690b33645a9b71cf8e296.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:52PM MST until November 3 at 5:00PM MST by NWS Albuquerque NM",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.22ff1b9ebf988472094a00c20674e74eda359357.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Albuquerque"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:47PM MST until November 5 at 11:45AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.397ab07d426aceeaeb630e8b940338771d7b57ac.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:41PM MST until November 3 at 11:15AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9f5686dc79c1736056260b4813682c41a8edd8dd.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:38PM MST until November 5 at 8:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5ca16c6ff85788329c084c3bfcda1795c65830a3.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:33PM MST until November 4 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.279f60afc6c01fc0db2a9666d89c6666c47f2510.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:22PM MST until November 3 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.12058caa65cccacabd5000c4f26a3c50dbc2e790.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 2 at 9:16PM MST until November 3 at 4:00PM MST by NWS Tucson AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1f2f23019336ddf699f082a2d24e616cf7f67e4d.001.1",
+      "Headline": "Flood Warning issued November 4 at 5:09AM MST until November 4 at 2:45PM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e58a337b8340026cfec3be187fc61f0d5052f4c2.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1237,8 +1285,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 2 at 12:49PM MST until November 3 at 12:45PM MST by NWS Tucson AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d92cac51cb77b411f692d2fc0d020c48beeecda9.001.1",
+      "Headline": "Flood Warning issued November 4 at 5:32AM CST until November 4 at 3:00PM CST by NWS Hastings NE",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e61af6f6aeaa8ae8fb8216b007735dee1a031670.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1247,76 +1295,143 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Tucson"
+        "Hamilton"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:25PM MST until November 5 at 11:45AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a91815678490f0934db96657bb1eadd8961bea52.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:22PM MST until November 5 at 8:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4c544ab27d3d71c5614bc0931f935b00d4df2b69.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:19PM MST until November 4 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0e9d299cda6700b13e0a7e4254aa57d49d0fc0f2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:13PM MST until November 4 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f1a5dfeceb3697bd1c40466615697ef68d9037f2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 3 at 8:09PM MST until November 7 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.67a9a9105f5c05353f66716ab732af79ace9e5c3.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Phoenix"
       ]
     }
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "Asia",
       "EU",
       "Europe",
-      "Middle East",
       "Quad"
     ],
     "TriggerCountry": [
-      "Australia",
-      "Bangladesh",
+      "Afghanistan",
       "China",
-      "Denmark",
+      "Cyprus",
       "Dutch",
-      "Ethiopia",
+      "French",
       "Germany",
       "India",
-      "Indian",
       "Iran",
-      "Kenya",
+      "Israel",
+      "Israeli",
+      "Japan",
       "Netherlands",
-      "Niger",
       "North Korea",
-      "Portugal",
+      "Romania",
       "Russia",
-      "Russian",
       "Rwanda",
       "Sa",
-      "South Africa",
-      "Sudan",
+      "U.S.",
+      "UK",
       "US",
+      "Uganda",
       "Ukraine",
       "United States"
     ],
     "TriggerADM1": [
       "Bay",
-      "California",
       "EST",
-      "East",
+      "Florida",
+      "Idaho",
       "Iowa",
-      "New York",
+      "Kansas",
+      "Maine",
+      "Michigan",
+      "Missouri",
       "North",
-      "Northern",
-      "Pennsylvania",
-      "Porto",
+      "North Carolina",
+      "Ohio",
+      "Oregon",
       "San Juan",
-      "South",
-      "Southern",
-      "Tokyo",
-      "Van",
+      "Seoul",
+      "Tennessee",
+      "Texas",
+      "Utah",
       "Washington",
-      "eastern",
+      "Wisconsin",
       "southeast"
     ],
     "TriggerCity": [
       "Albuquerque",
-      "Brisbane",
-      "Chengdu",
-      "Ibadan",
-      "Johannesburg",
+      "Hamilton",
+      "Kansas City",
       "Melbourne",
-      "New York City",
       "Phoenix",
-      "Tokyo",
-      "Tucson",
-      "Van"
+      "Qingyuan",
+      "Seoul",
+      "Tucson"
     ]
   },
   "allLocations": {
