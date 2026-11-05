@@ -310,6 +310,20 @@ img[src*="hits.sh"] {
     width: 100%;
     height: auto;
     display: block;
+    overflow: hidden;
+}
+
+#map-reset-btn {
+    margin: 0 0 12px;
+}
+
+.map-ocean {
+    fill: transparent;
+    pointer-events: all;
+}
+
+#map-viewport {
+    transition: transform 0.5s ease;
 }
 
 .world-map .country {
@@ -320,6 +334,22 @@ img[src*="hits.sh"] {
     transition: fill 0.2s ease;
 }
 
-.world-map .continent-group:hover .country {
+.world-map .continent-group {
+    transition: opacity 0.3s ease;
+}
+
+/* World view: hovering anywhere in a continent highlights the whole thing. */
+.world-map:not(.zoomed) .continent-group:hover .country {
+    fill: #38bdf8;
+}
+
+/* Zoomed into one continent: only individual countries highlight, and only
+   within the active continent -- the others are zoomed out of frame but
+   dim them too so it's clear they're not interactive right now. */
+.world-map.zoomed .continent-group:not(.active) {
+    opacity: 0.35;
+}
+
+.world-map.zoomed .continent-group.active .country:hover {
     fill: #38bdf8;
 }
