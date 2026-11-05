@@ -18,3 +18,12 @@ writing to git config. When pushing, pass a token-embedded URL directly to
 token embedded in the URL does persist it into `.git/config` -- run
 `git remote set-url origin https://github.com/<owner>/<repo>.git` right
 after cloning to strip it back out).
+
+## Commit messages: this repo is public
+`ActualNews` (the scraping/classification/tiering pipeline) is private
+precisely because that logic is the maintainer's IP -- don't undercut that
+by describing it here. When committing to this repo, write messages about
+*this repo's own files* only. Don't name `ActualNews`'s private script
+files (`Accumulator.py`, `WebsiteBackend.py`, `Eliminator.py`, etc.) or
+explain what their internal logic does -- a short "matches ActualNews
+commit <sha>" is fine for cross-repo context, but leave it at that.
