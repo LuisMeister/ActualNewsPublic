@@ -1,28 +1,14 @@
 {
   "1": [
     {
-      "Headline": "Latvia: Sanctions on Russia needed for peace in Ukraine",
-      "URL": "https://www.dw.com/en/latvia-sanctions-on-russia-needed-for-peace-in-ukraine/video-79863344",
+      "Headline": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "URL": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851",
       "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79863929_605.webp",
+      "ImageURL": "https://static.dw.com/image/79883626_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Latvia",
-        "Russia",
-        "Ukraine"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Thousands flee Ethiopia for Kenya as regional conflict rages",
-      "URL": "https://www.dw.com/en/thousands-flee-ethiopia-for-kenya-as-regional-conflict-rages/video-79869048",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79865607_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ethiopia",
-        "Kenya"
+        "Ukraine",
+        "Russia"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -40,58 +26,29 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Rwanda set to lose duty-free access to US Market",
-      "URL": "https://www.dw.com/en/rwanda-set-to-lose-duty-free-access-to-us-market/video-79843558",
+      "Headline": "Trump confirms new US strikes on Iran\u2019s Qeshm island",
+      "URL": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
       "Category": "CONFLICT",
-      "ImageURL": null,
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee8e25881e-1794018853.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Rwanda",
-        "US"
+        "US",
+        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
-      "URL": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/78407063_6.jpg",
+      "Headline": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "URL": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee9de08a7d-1794022880.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russia",
-        "Ukraine"
+        "US",
+        "Canadian",
+        "Iran"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "South Korea tests Arctic shipping route amid Russia-West row",
-      "URL": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907",
-      "Category": "CONFLICT",
-      "ImageURL": null,
-      "TriggerRegion": [
-        "Arctic"
-      ],
-      "TriggerCountry": [
-        "South Korea",
-        "Russia"
-      ],
-      "TriggerADM1": [
-        "South",
-        "West"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "This weekly podcast is a deep dive into the twists and turns of European current affairs, politics and culture.",
-      "URL": "https://www.dw.com/en/inside-europe/program-19041931",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/59113315_6.jpg",
-      "TriggerRegion": [
-        "Europe"
-      ],
-      "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
     },
@@ -110,51 +67,49 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Rocket launcher deal illustrates deepening Russia-Iran relations",
-      "URL": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T170531Z_1281862151_RC2SBOAW6FCR_RTRMADP_3_RUSSIA-ENERGY-SUMMIT-BILATS-IRAN-1793959522.jpg?resize=1920%2C1440",
+      "Headline": "U.S. military carries out new limited strikes on Iran",
+      "URL": "https://www.nbcnews.com/news/us-news/us-military-carries-new-targeted-strikes-iran-rcna607969",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261107-trump-florida-cc-1255a-4ab25b.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russia",
+        "U.S.",
         "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Tech stock rout, driven by US AI fears, continues in Asian trading",
-      "URL": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading",
+      "Headline": "Bomb threats fuel disruption, anxiety and a mystery in Europe",
+      "URL": "https://www.nbcnews.com/world/europe/bomb-threats-europe-flights-newsrooms-russia-rcna607499",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T034054Z_476490639_RC22IOARUHVY_RTRMADP_3_GLOBAL-MARKETS-1793950968.jpg?resize=1920%2C1440",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-Air-Lingus-rs-8318ba.jpg",
       "TriggerRegion": [
-        "Asia"
+        "Europe"
       ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US-Israel war on IranUS carries out another round of \u2018minor\u2019 strikes on Iran, Trump says",
+      "URL": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddee9e81d45dc5e776260ca30abcd907",
+      "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "US",
+        "Israel",
+        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "7,Nithya Raman wins LA mayoral race, becoming city\u2019s first South Asian mayor",
-      "URL": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor",
-      "Category": "Sports Results",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26308267485885-1793919011.jpg?resize=1920%2C1440",
-      "TriggerRegion": [
-        "South Asia"
-      ],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "South"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Melania Trump calls for \u2018enduring\u2019 Russia-Ukraine peace as she hosts top officials at the White House",
-      "URL": "https://www.nbcnews.com/world/ukraine/melania-trump-host-russia-ukraine-representatives-white-house-rare-mee-rcna607390",
+      "Headline": "Russia-Ukraine war at a glanceBeijing confirms historic Xi-Trump-Putin meeting under discussion",
+      "URL": "https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion",
       "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-melania-trump-white-house-ch-1151-d242ed.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/eefa44b6d1a8c7845f9c0bd685c18731ad826bb9/301_0_5833_4667/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=654677210a1cb90b4e12b6249eead659",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Russia",
@@ -164,63 +119,34 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Israel reels as midterms and Trump\u2019s $4 billion aid cut point to dramatic shift in U.S. relations",
-      "URL": "https://www.nbcnews.com/world/israel/israel-us-relations-midterms-trump-aid-halt-netanyahu-palestinians-rcna607802",
+      "Headline": "ScotlandLanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+      "URL": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-capitol-rs-8cc16c.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Israel",
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Russia and Ukraine exchange airstrikes as U.S. envoy describes renewed talks as productive",
-      "URL": "https://www.nbcnews.com/world/ukraine/russia-ukraine-exchange-airstrikes-us-envoy-describes-renewed-security-rcna607778",
-      "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-ukraine-airstrike-ww-1711-59d2cc.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia",
-        "Ukraine",
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Wave of bomb threats against European airliners triggers diversions and tarmac searches",
-      "URL": "https://www.nbcnews.com/world/europe/bomb-threat-plane-dublin-rome-diverted-aer-lingus-france-rcna607594",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-bomb-threat-rs-be5d9b.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c31b418c813c51421e0737b454b6ad5a",
       "TriggerRegion": [
-        "Europe"
+        "Sco"
       ],
       "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 6 at 4:00AM AKST until November 7 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4883e215bbf6b414267be5454cddc77b55aff721.001.1",
+      "Headline": "Flood Warning issued November 7 at 2:32AM CST until November 7 at 2:25PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b1d2923f6c436059bf5e465906b1c3dbf803bb5d.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
-        "Arctic"
+        "Quad"
       ],
       "TriggerCountry": [
-        "US"
+        "United States"
       ],
-      "TriggerADM1": [
-        "Western"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Freeze Watch issued November 6 at 12:11AM CST until November 8 at 8:00AM CST by NWS Paducah KY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.90979a6cb7f742a0e6c47a804d0ca6d6e6366213.002.2",
+      "Headline": "Freeze Warning issued November 6 at 11:22PM CST until November 8 at 8:00AM CST by NWS Paducah KY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.73e8bd76c8756004c29617ff8231429d1d1707bf.002.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
@@ -238,8 +164,29 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 5 at 8:09PM CST until November 9 at 4:00AM CST by NWS Quad Cities IA IL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.19fe2fd029e2e75cebada64a2d7b5ed6f2c5671a.001.1",
+      "Headline": "Freeze Warning issued November 6 at 11:56PM EST until November 8 at 10:00AM EST by NWS Louisville KY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4c55f037a285b4e1252c66073b35844dbea6759c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Sco",
+        "Sco"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Washington",
+        "Ohio",
+        "Washington"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 6 at 9:21PM CST until November 9 at 10:24PM CST by NWS Quad Cities IA IL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.47e6482ef35b649e2a6232cf2300b9a1994a7f92.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
@@ -254,22 +201,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 5 at 8:09PM CST until November 7 at 9:00AM CST by NWS Quad Cities IA IL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.19fe2fd029e2e75cebada64a2d7b5ed6f2c5671a.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [
-        "Quad"
-      ],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 5 at 4:00PM AKST until November 6 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0657edae5219a8e69380b44aaa294176e84f9421.001.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 6 at 4:00PM AKST until November 7 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4428731d6aa92e54bc99cb8a072d420ff8285680.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
@@ -284,8 +217,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 5 at 4:00AM AKST until November 6 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f9edf82e2fbbe8ba26e7db3aa62e1564f462afdc.001.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 6 at 4:00AM AKST until November 7 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4883e215bbf6b414267be5454cddc77b55aff721.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [
@@ -302,25 +235,61 @@
   ],
   "2": [
     {
-      "Headline": "New bomb threats target Irish media, more flights",
-      "URL": "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-flights/a-79875884",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79875906_6.jpg",
+      "Headline": "France braces for new round of Yellow Vest, student protests",
+      "URL": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79876434_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Irish"
+        "France"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Arrests and investigations as Serbia begins post-election clean-up",
-      "URL": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652",
+      "Headline": "More than 600,000 protest in France as anger grows over cost of living",
+      "URL": "https://www.dw.com/en/france-more-than-600000-protest-as-anger-grows-over-cost-of-living/a-79860616",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79868002_6.jpg",
+      "ImageURL": "https://static.dw.com/image/79869347_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Serbia"
+        "France"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "New Zealand election too close to call with over 95% of votes counted",
+      "URL": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79884626_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "New Zealand"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Vehicles major cause of Delhi pollution, top court says",
+      "URL": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/79883261_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Delhi"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Iran war: Gulf tanker attacked, 1 seafarer killed",
+      "URL": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+      "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/79862218_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -362,16 +331,29 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Finland court jails captain and crew member over Baltic cable sabotage",
-      "URL": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/75369613_6.jpg",
+      "Headline": "Tankers carrying Russian diesel to the US change course",
+      "URL": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807",
+      "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/74428143_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Finland"
+        "Russian",
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
+    },
+    {
+      "Headline": "Prague's black tram seeks to raise awareness \u2014 and save lives",
+      "URL": "https://www.dw.com/en/pragues-black-tram-seeks-to-raise-awareness-and-save-lives/video-79864845",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79864017_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Prague"
+      ]
     },
     {
       "Headline": "A similar measure in the United Kingdom suggests that a tax can push manufacturers to reduce sugar levels.",
@@ -399,10 +381,34 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Israel\u2019s President Herzog to name candidate to form government on Sunday",
-      "URL": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
+      "Headline": "US Senator Abdul El-Sayed launches \u2018Habibi\u2019 political action committee",
+      "URL": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeedde9-1794039273.jpg?resize=1200%2C675",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Two main parties neck and neck after New Zealand vote, near complete count",
+      "URL": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed512d29ac-1793937709.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeeca60-1794034272.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "New Zealand"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Palestinian citizens of Israel put to \u2018loyalty test\u2019 after election wins",
+      "URL": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins",
+      "Category": "Sports Results",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/Lama-Yassin-1794039786.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Israel"
@@ -411,43 +417,49 @@
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018We are here\u2019: Kurdish club Amedspor shakes up Turkish football",
-      "URL": "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football",
+      "Headline": "Sudan war and climate change see parents struggle to feed their children",
+      "URL": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA-20261101-42934769-42934762-AMED_SPORTIF_FAALIYETLEREYUPSPOR-1793959407_5d36a5-1793959551.jpg?resize=1200%2C630&quality=80",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/04/GettyImages-2221760288-1776674432.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Turkish"
+        "Sudan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Born to be torn: A generation raised under Houthi rule in Yemen",
-      "URL": "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen",
+      "Headline": "Houston mayor curbs cooperation of US city\u2019s police with ICE",
+      "URL": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aedc46200165-1793967202.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeec587-1794033031.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Yemen"
+        "US"
       ],
       "TriggerADM1": [],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Houston"
+      ]
     },
     {
-      "Headline": "\u2018I will not delete my posts\u2019: Inside Uganda\u2019s crackdown on online critics",
-      "URL": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics",
+      "Headline": "Paraguay\u2019s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "URL": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/10/Andrew-Tabandama-Natumanya-scrolling-through-his-phone-in-Kamwokya-a-Kampala-surburb.-3-1792094670.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee659d-1794008477.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Uganda"
+        "Paraguay"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
+      "TriggerADM1": [
+        "Santiago"
+      ],
+      "TriggerCity": [
+        "Santiago"
+      ]
     },
     {
-      "Headline": "5,US midterm elections 2026: Live results in maps and chartsExternal LinkThis article will be opened in a new browser window",
+      "Headline": "6,US midterm elections 2026: Live results in maps and chartsExternal LinkThis article will be opened in a new browser window",
       "URL": "https://aljazeera.com/us-midterm-elections-2026/results/",
       "Category": "Status Quo",
       "ImageURL": "https://www.aljazeera.com/us-midterm-elections-2026/results/thumbnail.jpg",
@@ -459,22 +471,83 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Trump says he met with Putin envoy, sees Ukraine deal soon",
-      "URL": "https://www.nbcnews.com/world/russia/trump-says-met-putin-envoy-sees-ukraine-deal-soon-rcna607804",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-kirill-dmitriev-es-ff4be3.jpg",
+      "Headline": "Trump briefed on narrow window for a new military campaign in Iran",
+      "URL": "https://www.nbcnews.com/politics/national-security/trump-briefed-narrow-window-new-military-campaign-iran-rcna607879",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-iran-tehran-protest-ww-1222-e86478.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine"
+        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Paraguay President Pe\u00f1a resigns under mounting pressure from bank collapse",
-      "URL": "https://www.nbcnews.com/world/south-america/paraguay-president-pen-resigns-mounting-pressure-bank-collapse-rcna607754",
+      "Headline": "Italy\u2019s Giorgia Meloni blames pro-Russian hackers for leak of foreign minister\u2019s data on the dark web",
+      "URL": "https://www.nbcnews.com/world/italy/italys-giorgia-meloni-blames-russian-hackers-leak-foreign-ministers-da-rcna607974",
+      "Category": "CONFLICT",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261107-meloni-nd-1a7f26.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Italy",
+        "Russian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "New Zealand election early count shows two main parties near deadlocked",
+      "URL": "https://www.nbcnews.com/world/asia/new-zealand-election-early-count-shows-two-main-parties-deadlocked-rcna607970",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-Paraguayan-President-Santiago-Pena-resigns-vsb-1726-99c45d.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261107-nz-nd-2c7ebd.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "New Zealand"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ousted Paraguayan president placed under house arrest after bank collapse",
+      "URL": "https://www.nbcnews.com/world/south-america/ousted-paraguayan-president-placed-house-arrest-bank-collapse-rcna607956",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-paraguay-pena-vsb-2045-4d12f8.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Paraguayan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "ICE arrests Wisconsin state patrol trooper with pending asylum case at airport, attorneys say",
+      "URL": "https://www.nbcnews.com/news/us-news/ice-arrests-wisconsin-state-patrol-trooper-pending-asylum-case-airport-rcna607911",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260122-ice-minneapolis-mn-0800-be88e9.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Wisconsin"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say",
+      "URL": "https://www.nbcnews.com/world/yemen/airstrikes-market-southwestern-yemen-kill-least-30-houthis-say-rcna607908",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-yemen-22-1350-9cb07c.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Yemen"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "ParaguayOusted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "URL": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "Category": "Natural Disaster",
+      "ImageURL": "https://i.guim.co.uk/img/media/3279bdc7ce3e00c2cbd356e73e342e1cba40051e/294_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea347adb597b24623b886ccdfab6966d",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Paraguay"
@@ -483,68 +556,46 @@
       "TriggerCity": []
     },
     {
-      "Headline": "In picturesDelhi braces for \u2018pollution season\u2019 as smog shrouds India\u2019s capital",
-      "URL": "https://www.theguardian.com/world/gallery/2026/nov/06/delhi-braces-for-pollution-season-as-smog-shrouds-indias-capital-in-pictures",
+      "Headline": "BooksRussell Brand books withdrawn by UK publishers after his conviction for rape and sexual assault",
+      "URL": "https://www.theguardian.com/books/2026/nov/06/russell-brand-books-withdrawn-uk-publishers-conviction-rape-sexual-assault",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/cb0fcacb442c0969f981124900f2f7cde6f24005/578_0_6108_4886/master/6108.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbe0daf4f25972c9e80e50cec83906e3",
+      "ImageURL": "https://i.guim.co.uk/img/media/c51672109e3218bf1c146971463ff7171098ee67/260_0_3142_2516/master/3142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9b4165e0d23bedde5f8a01e1a4c0916",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "India"
+        "UK"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018Every day, someone loses a hand or a leg\u2019: the brutal reality of India\u2019s textile recycling industry",
-      "URL": "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations",
-      "Category": "Sports Results",
-      "ImageURL": "https://i.guim.co.uk/img/media/d05cb680ba8b32eab783ac3ebbb35c6ac8ad27ba/0_0_2918_2335/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=817db64ad886bfb581491d693251deee",
+      "Headline": "Famous New Mexico rock formation destroyed after torrential El Ni\u00f1o rains",
+      "URL": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
+      "Category": "CONFLICT",
+      "ImageURL": "https://i.guim.co.uk/img/media/40eb09e62b483bf78ae11851a7c7889f5f68bdb6/171_0_1707_1366/master/1707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfb23b8cef48c43a173698e8ef88c96f",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "India"
+        "Mexico"
+      ],
+      "TriggerADM1": [
+        "New Mexico"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "\u2018Very strange, very sad\u2019: Paraguay bank collapse fells a presidency and leaves millions broke",
+      "URL": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/afadfa53ac809356488933afab4757207240a0c5/551_0_5508_4407/master/5508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93817d457a3f74e6aa743006f9873195",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Paraguay"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 6 at 7:25AM CST until November 6 at 7:30PM CST by NWS Hastings NE",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.08044501215d585b540dad800a12d33d4c28a0be.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 6 at 3:45AM AKST until November 7 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d89d34481af7fe4d9a0745d590bfc7b980384ee1.008.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 6 at 4:33AM MST until November 6 at 11:00AM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.be57ad83a302f0193c6de2832ea7b4bd5b4af3bb.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued November 6 at 12:29AM CST until November 7 at 8:00AM CST by NWS Kansas City/Pleasant Hill MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.699223af8bac2381f3fc0d9c4660e997b3dc7f56.001.1",
+      "Headline": "Freeze Warning issued November 7 at 1:38AM CST until November 7 at 8:00AM CST by NWS Kansas City/Pleasant Hill MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9147c312e339693a0e1951e97a33cd65e7258b13.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -559,8 +610,8 @@
       ]
     },
     {
-      "Headline": "Freeze Warning issued November 6 at 12:11AM CST until November 7 at 8:00AM CST by NWS Paducah KY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.90979a6cb7f742a0e6c47a804d0ca6d6e6366213.001.1",
+      "Headline": "Freeze Warning issued November 6 at 11:22PM CST until November 7 at 8:00AM CST by NWS Paducah KY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.73e8bd76c8756004c29617ff8231429d1d1707bf.001.3",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -573,8 +624,40 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 5 at 10:32PM MST until November 7 at 2:00AM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d0b0cf9a70bde5484b81c6f2a3dc443681a16b7a.001.1",
+      "Headline": "Freeze Warning issued November 6 at 11:38PM EST until November 8 at 10:00AM EST by NWS Wilmington OH",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7a008dec84b9b3b12257dc12be93c6a63f00277d.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Switzerland"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Ohio"
+      ],
+      "TriggerCity": [
+        "Hamilton"
+      ]
+    },
+    {
+      "Headline": "Flood Watch issued November 6 at 8:17PM CST until November 9 at 12:00PM CST by NWS Corpus Christi TX",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.52b47af078f7c8e4a87006184e64b537a0daf3e0.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sa",
+        "Sa",
+        "Sa"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 6 at 3:48PM AKST until November 7 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.85214467e28b65262e1e565960ef37fde7b0560a.004.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -585,8 +668,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 5 at 3:48PM AKST until November 6 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b1ef543e8a96eefce26dbad4aa6503df30a2abd4.008.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 6 at 3:48PM AKST until November 7 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.85214467e28b65262e1e565960ef37fde7b0560a.002.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -597,32 +680,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 5 at 3:48PM AKST until November 6 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b1ef543e8a96eefce26dbad4aa6503df30a2abd4.007.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 3:58PM MST until November 6 at 4:00PM MST by NWS Pueblo CO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3cd4f13218d5ae50b4c6ef29992cf8e3315eaa7.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Red Flag Warning issued November 5 at 1:36PM PST until November 7 at 6:00PM PST by NWS Los Angeles/Oxnard CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.694093a8abd1d0c1e058e5e892776c071e50760f.001.1",
+      "Headline": "Red Flag Warning issued November 6 at 3:14PM PST until November 7 at 6:00PM PST by NWS Los Angeles/Oxnard CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d5dc66e34d68d7180c9c4497b833beefd9b12d01.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -643,8 +702,8 @@
       ]
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 5 at 3:45AM AKST until November 6 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c1dad34e18f98934e4e22e93a7896e84852d1abf.009.2",
+      "Headline": "Heavy Freezing Spray Warning issued November 6 at 3:45AM AKST until November 7 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d89d34481af7fe4d9a0745d590bfc7b980384ee1.008.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -667,39 +726,50 @@
       "TriggerCity": []
     },
     {
-      "Headline": "River discharge near Nova Igua\u00e7u, Brazil running 1.7x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-22.774998&longitude=-43.47499",
+      "Headline": "Severe thunderstorm-strength wind gusts of 95 km/h recorded in Calgary, Canada",
+      "URL": "https://open-meteo.com/en/docs?latitude=51.054447&longitude=-114.07635",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Brazil"
+        "Canada"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Nova Igua\u00e7u"
+        "Calgary"
       ]
     }
   ],
   "3": [
     {
-      "Headline": "Democrats maintain narrow lead in Mississippi and Alaska",
-      "URL": "https://www.today.com/video/democrats-maintain-narrow-lead-in-mississippi-and-alaska-272991301706",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_11/1793967282937_tdy_news_7a_nobles_midterm_races_261106_S3_1920x1080-yrgfe3.jpg",
+      "Headline": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
+      "URL": "https://www.dw.com/en/no-choice-but-to-bear-it-delhis-unrelenting-air-pollution-crisis/a-79873124",
+      "Category": "Natural Disaster",
+      "ImageURL": "https://static.dw.com/image/74696459_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Mississippi",
-        "Alaska"
+        "Delhi"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "California Gov. Gavin Newsom plans to commute all death sentences",
-      "URL": "https://www.nbcnews.com/news/us-news/california-gov-gavin-newsom-commutes-death-sentences-rcna607727",
+      "Headline": "Rains flood thousands of displaced families\u2019 tents in Gaza",
+      "URL": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-gavin-newson--rs-7371cd.jpg",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap-e69e4085004943cab89f9b0e003d01c0-1794050716.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Gaza"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens",
+      "URL": "https://www.nbcnews.com/politics/2026-election/doj-drops-bid-force-california-set-aside-ballots-alleged-noncitizens-rcna607958",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-california-elections-vsb-2237-65c10b.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
@@ -708,100 +778,32 @@
       "TriggerCity": []
     },
     {
-      "Headline": "CaliforniaGavin Newsom commutes more than 500 death sentences in California",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+      "Headline": "New York reports first measles death in more than 30 years",
+      "URL": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/bdc397d3b36a13a62add910178d4d1401f4e303b/447_0_4748_3799/master/4748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ea395f4866c97cf28bfe397deb48c6c",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260826-measles-ch-1545-88fa49.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "California"
+        "New York"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "\u2018An abomination\u2019: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
+      "Headline": "Washington DCMan in custody after being found in vehicle near White House with guns",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
       "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/462b4a3bfa90736eb2b9f2fde98b0f99acd3dcad/475_0_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de0d978603c518a701ce9365465c7dca",
+      "ImageURL": "https://i.guim.co.uk/img/media/30a42bd193109c7cf7e2854cf733ff3179bf6e89/436_0_4356_3485/master/4356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3cd69865cb1bc2a51b14544e4254a06b",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Idaho"
+        "Washington"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Flash Flood Warning issued November 6 at 7:43AM EST until November 6 at 11:00AM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1b9b7ecb9749be93e04882f0737e96344dba8e66.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flash Flood Warning issued November 6 at 7:33AM EST until November 6 at 10:15AM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9a1b0386df6eb2d49eae7c88bb75dca54abdada8.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Watch issued November 6 at 3:05AM MST until November 8 at 8:00PM MST by NWS Great Falls MT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f9ee752d3049dfc09a6b52e07d934d8fbd918f92.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "East",
-        "Northern",
-        "Eastern",
-        "Western",
-        "Central",
-        "Southern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Watch issued November 6 at 3:05AM MST until November 7 at 9:00AM MST by NWS Great Falls MT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f9ee752d3049dfc09a6b52e07d934d8fbd918f92.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "East",
-        "Northern",
-        "Eastern",
-        "Western",
-        "Central",
-        "Southern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Freeze Warning issued November 6 at 1:59AM CST until November 7 at 8:00AM CST by NWS St Louis MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.547511610404dea99dbc946554a7227478f66a0c.001.1",
+      "Headline": "Freeze Warning issued November 7 at 5:25AM CST until November 7 at 8:00AM CST by NWS St Louis MO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cbca4f4a5e64f200f5767c7213486ce51007c045.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -815,8 +817,125 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Storm Watch issued November 5 at 11:32PM PST until November 8 at 4:00AM PST by NWS Portland OR",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a62f4346e97b915feed6c4c4263525eb4d88d2f7.001.4",
+      "Headline": "Freeze Warning issued November 7 at 5:41AM EST until November 8 at 10:00AM EST by NWS Charleston WV",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.97c9a9ccf11f25fafe26cf27a665f74a8cb2386b.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued November 7 at 2:02AM PST until November 8 at 4:00AM PST by NWS Seattle WA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.62b13bfe4c32be95fea48adf48066078516733dd.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Northern",
+        "Washington"
+      ],
+      "TriggerCity": [
+        "Seattle"
+      ]
+    },
+    {
+      "Headline": "High Wind Warning issued November 7 at 2:53AM MST until November 7 at 9:00AM MST by NWS Great Falls MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.41ef7891ef4d95a35773c5fe1f5c5f06bc2e2b46.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "East",
+        "Northern",
+        "Eastern",
+        "Western",
+        "Central",
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued November 7 at 2:53AM MST until November 8 at 8:00PM MST by NWS Great Falls MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.41ef7891ef4d95a35773c5fe1f5c5f06bc2e2b46.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Eastern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued November 7 at 2:53AM MST until November 8 at 8:00PM MST by NWS Great Falls MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.41ef7891ef4d95a35773c5fe1f5c5f06bc2e2b46.002.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "East",
+        "Northern",
+        "Eastern",
+        "Western",
+        "Central",
+        "Southern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Freeze Warning issued November 7 at 3:44AM EST until November 8 at 10:00AM EST by NWS Jackson KY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b901c34d4d471188a6d6b25861abc798d0325c49.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued November 6 at 11:57PM PST until November 7 at 11:00PM PST by NWS Portland OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ddf36544eab518ffcbc30bc21c3a8c888392e880.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Portland",
+        "South",
+        "Washington"
+      ],
+      "TriggerCity": [
+        "Portland"
+      ]
+    },
+    {
+      "Headline": "Storm Warning issued November 6 at 11:55PM PST until November 8 at 4:00AM PST by NWS Portland OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0c131e48a9b1be3dbcb5038d8b6215483e488233.001.3",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -831,8 +950,8 @@
       ]
     },
     {
-      "Headline": "Freeze Warning issued November 6 at 12:24AM CST until November 7 at 8:00AM CST by NWS Springfield MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.535598fa3a9e832211569877b6c300a40e6c9adf.001.1",
+      "Headline": "High Wind Warning issued November 6 at 10:28PM MST until November 7 at 9:00AM MST by NWS Glasgow MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.32cd99446bf819789480504ee49efd13654d5081.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -840,14 +959,110 @@
         "United States"
       ],
       "TriggerADM1": [
-        "Texas",
-        "Oregon"
+        "Southwest"
+      ],
+      "TriggerCity": [
+        "Glasgow"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 6 at 8:32PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1f82b9d57711bcd7208c3eabdc11096674c258b0.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "Bay"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Watch issued November 6 at 12:54AM EST until November 7 at 10:00AM EST by NWS Boston/Norton MA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bcc6c94aeaa277185072b5089f6e27464f018324.001.1",
+      "Headline": "Flood Warning issued November 6 at 8:25PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2cf6bfe2891e6a78c2a7cfe2c5c179783333b76c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 6 at 8:24PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.79863cb3b32d034d07f91f45140fdd37aaa3c1ad.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 6 at 8:21PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.735c64a8c6fdb3be9d994b12914a2bb2fbabc70c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 6 at 8:20PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9f809c9d590f6375cbe0f4e896a3639081c69d0b.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 6 at 8:18PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e89dd61a97e75f450780dba59e2cac0bcf868493.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Watch issued November 6 at 2:30PM EST until November 7 at 10:00AM EST by NWS Boston/Norton MA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.17efc6b6a3665336b470fdb7e4201f1610efb2da.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -870,187 +1085,24 @@
       "TriggerCity": [
         "Boston"
       ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 11:46PM CST until November 7 at 7:15PM CST by NWS Kansas City/Pleasant Hill MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f80ce6bb58eba144fddb7d9cd6b398399865edfc.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Kansas"
-      ],
-      "TriggerCity": [
-        "Kansas City"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:36PM CST until November 8 at 2:16AM CST by NWS Kansas City/Pleasant Hill MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.60a3bc599599c39442b0d35462f494f04af96cea.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Kansas"
-      ],
-      "TriggerCity": [
-        "Kansas City"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:35PM CST until November 9 at 12:00AM CST by NWS Kansas City/Pleasant Hill MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.859c9062422a02029285ae40c5f608332dcd7224.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Kansas"
-      ],
-      "TriggerCity": [
-        "Kansas City"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:35PM CST until November 8 at 3:54PM CST by NWS Kansas City/Pleasant Hill MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.859c9062422a02029285ae40c5f608332dcd7224.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Kansas"
-      ],
-      "TriggerCity": [
-        "Kansas City"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:59PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9ecb9e6c280bf32b944c45968e810b6c816e8b98.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:52PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cdfeefc4a9871de8f637ff8092ae849b471a0776.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:42PM EST until November 6 at 7:00PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6e5f64284c4f97d89a041dc2d2160b84ff477ae8.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:42PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6e5f64284c4f97d89a041dc2d2160b84ff477ae8.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:40PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.04e459e0dee8e2b20a1be54eb390f8d414747189.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:33PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e6428e94827c5e5ebb759d70d7c0b37e6038062c.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 8:25PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c56254b0febcc04cc635379195c3ebec1c31e19c.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
     }
   ],
   "4": [
     {
-      "Headline": "Storm Watch issued November 6 at 12:30AM PST until November 8 at 10:00AM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2e975b94de18fd577d155bbeb5cff4f126d29004.004.2",
+      "Headline": "She\u2019s got a friend in Hollywood: Los Angeles Mayor-elect Nithya Raman\u2019s industry support",
+      "URL": "https://www.nbcnews.com/pop-culture/pop-culture-news/nithya-raman-hollywood-support-rcna607726",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261103-los-angeles-mayor-election-raman-mn-1250-54c1d5.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Los Angeles"
+      ]
+    },
+    {
+      "Headline": "Storm Warning issued November 7 at 12:43AM PST until November 8 at 10:00AM PST by NWS Seattle WA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.28aa1e23aa8f89fdad1cb3f7a252d90ebc03b0c2.008.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1063,8 +1115,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 5 at 9:46PM MST until November 7 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ccbd1f80bb875569df7af76cd7921b744d6a477d.001.1",
+      "Headline": "Flood Warning issued November 6 at 9:23PM MST until November 7 at 11:00AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.fa4f0979121259cd83d281cec38708803184edcd.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1077,8 +1129,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 5 at 9:40PM MST until November 6 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.14d556a3a2f02b32fb7011cae7cdddc621c30815.001.1",
+      "Headline": "Flood Warning issued November 6 at 9:19PM MST until November 7 at 11:00AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50eb6301ebe1c5cca90709d07f56cfc2a2614682.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1091,8 +1143,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 5 at 9:37PM MST until November 6 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6ee781afc2297186f891d56c13c4eddf57dc5e0a.001.1",
+      "Headline": "Flood Warning issued November 6 at 9:03PM MST until November 7 at 2:00PM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6c1824128fe2d31010dd1eb5f3e481c4113b0810.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1105,22 +1157,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 5 at 9:26PM MST until November 6 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.51d99800ffa54a6c994fdeac4d74afad3317a08c.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 5 at 9:21PM MST until November 6 at 2:00PM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cfbc39dc8580dc4228f68d2f737414c7040dcade.001.1",
+      "Headline": "Flood Warning issued November 6 at 4:28PM MST until November 7 at 11:00AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ea08cc7c1053a2428f3307a848bc247188f286fb.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1136,77 +1174,80 @@
   "locationOptions": {
     "TriggerRegion": [
       "Arctic",
-      "Asia",
       "Europe",
       "Quad",
-      "Sco",
-      "South Asia"
+      "Sco"
     ],
     "TriggerCountry": [
-      "Brazil",
+      "Canada",
+      "Canadian",
       "Dutch",
-      "Ethiopia",
-      "Finland",
+      "France",
       "Hungary",
-      "India",
       "Indian",
       "Iran",
-      "Irish",
       "Israel",
-      "Kenya",
-      "Latvia",
+      "Italy",
+      "Mexico",
       "Netherlands",
+      "New Zealand",
       "Paraguay",
+      "Paraguayan",
       "Russia",
-      "Rwanda",
+      "Russian",
       "Sa",
-      "Serbia",
-      "South Korea",
-      "Turkish",
+      "Sudan",
+      "Switzerland",
       "U.S.",
       "UK",
       "US",
-      "Uganda",
       "Ukraine",
       "United Kingdom",
       "United States",
       "Yemen"
     ],
     "TriggerADM1": [
-      "Alaska",
       "Bay",
       "California",
       "Central",
+      "Delhi",
       "EST",
       "East",
       "Eastern",
-      "Idaho",
+      "Gaza",
       "Iowa",
       "Kansas",
       "Michigan",
       "Mississippi",
+      "New Mexico",
+      "New York",
       "Northern",
-      "Oregon",
+      "Ohio",
       "Portland",
+      "Santiago",
       "South",
       "Southeast",
       "Southern",
-      "Texas",
+      "Southwest",
       "Washington",
-      "West",
-      "Western"
+      "Western",
+      "Wisconsin"
     ],
     "TriggerCity": [
       "Boston",
+      "Calgary",
+      "Glasgow",
       "Hamilton",
+      "Houston",
       "Kansas City",
       "Los Angeles",
       "Lyon",
       "Madrid",
       "Melbourne",
-      "Nova Igua\u00e7u",
       "Phoenix",
       "Portland",
+      "Prague",
+      "Santiago",
       "Seattle"
     ]
   },
@@ -1392,6 +1433,7 @@
       "Ireland",
       "Israel",
       "Italy",
+      "Ivory Coast",
       "Jamaica",
       "Japan",
       "Jordan",
@@ -1399,6 +1441,7 @@
       "Kazakhstan",
       "Kenya",
       "Kiribati",
+      "Kosovo",
       "Kuwait",
       "Kyrgyzstan",
       "Laos",
@@ -1428,6 +1471,7 @@
       "Morocco",
       "Mozambique",
       "Myanmar",
+      "N. Cyprus",
       "Namibia",
       "Nauru",
       "Nepal",
@@ -1478,6 +1522,7 @@
       "Slovenia",
       "Solomon Islands",
       "Somalia",
+      "Somaliland",
       "South Africa",
       "South Korea",
       "South Sudan",
@@ -1488,6 +1533,7 @@
       "Sweden",
       "Switzerland",
       "Syria",
+      "Taiwan",
       "Tajikistan",
       "Tanzania",
       "Thailand",
@@ -1519,6 +1565,7 @@
       "Vatican City",
       "Venezuela",
       "Vietnam",
+      "W. Sahara",
       "Yemen",
       "Zambia",
       "Zimbabwe",
