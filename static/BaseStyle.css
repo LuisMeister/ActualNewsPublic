@@ -353,3 +353,22 @@ img[src*="hits.sh"] {
 .world-map.zoomed .continent-group.active .country:hover {
     fill: #38bdf8;
 }
+
+/* Zoomed into one country within that continent: dim its siblings (the
+   active country itself stays full-opacity even once provinces cover it,
+   so there's no flash of its flat fill while they're still loading). */
+.world-map.country-zoomed .continent-group.active .country:not(.active) {
+    opacity: 0.35;
+}
+
+.world-map .province {
+    fill: #334155;
+    stroke: #0f172a;
+    stroke-width: 0.5;
+    cursor: pointer;
+    transition: fill 0.2s ease;
+}
+
+.world-map .province:hover {
+    fill: #38bdf8;
+}
