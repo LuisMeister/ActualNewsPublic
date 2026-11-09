@@ -311,6 +311,15 @@ img[src*="hits.sh"] {
     height: auto;
     display: block;
     overflow: hidden;
+    cursor: grab;
+    /* We handle pan/pinch-zoom ourselves via pointer events -- without this
+       the browser's own touch scrolling/zooming fights our gestures on
+       mobile instead of leaving them to our handlers. */
+    touch-action: none;
+}
+
+.world-map.dragging {
+    cursor: grabbing;
 }
 
 #map-reset-btn {
@@ -324,6 +333,12 @@ img[src*="hits.sh"] {
 
 #map-viewport {
     transition: transform 0.5s ease;
+}
+
+/* Continuous wheel/drag/pinch interaction applies every tick instantly --
+   the 0.5s transition above is only for the discrete click-to-X jumps. */
+#map-viewport.no-transition {
+    transition: none;
 }
 
 .world-map .country {
