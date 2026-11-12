@@ -1,8 +1,21 @@
 {
   "1": [
     {
-      "Headline": "US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange",
-      "URL": "https://www.dw.com/en/us-russia-ukraine-wrap-up-abu-dhabi-talks-with-prisoner-exchange/live-79906232",
+      "Headline": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+      "URL": "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/77996961_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "China",
+        "Taiwan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "US, Russia, Ukraine wrap up talks with prisoner exchange agreement",
+      "URL": "https://www.dw.com/en/us-russia-ukraine-wrap-up-talks-with-prisoner-exchange-agreement/live-79906232",
       "Category": "Status Quo",
       "ImageURL": "https://static.dw.com/image/79918459_6.jpg",
       "TriggerRegion": [],
@@ -11,12 +24,8 @@
         "Russia",
         "Ukraine"
       ],
-      "TriggerADM1": [
-        "Abu Dhabi"
-      ],
-      "TriggerCity": [
-        "Abu Dhabi"
-      ]
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "India ready to mediate Black Sea food corridors \u2014 Ukraine's Zelenskyy",
@@ -32,48 +41,86 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Victims of Nazi war in Poland call on Germany for support",
-      "URL": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311",
+      "Headline": "Germany urges Hungary to spend money on Ukraine",
+      "URL": "https://www.dw.com/en/germany-urges-hungary-to-spend-money-on-ukraine/video-79922689",
       "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/72232464_6.jpg",
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Poland",
-        "Germany"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "US soldier arrested in UK on Russian espionage allegations",
-      "URL": "https://www.dw.com/en/us-american-soldier-arrested-uk-spying-russia/a-79913240",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/79447749_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US",
-        "UK",
-        "Russian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-      "URL": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af45cc5-1794399429.jpg?resize=1920%2C1440",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia",
+        "Germany",
+        "Hungary",
         "Ukraine"
       ],
-      "TriggerADM1": [
-        "Abu Dhabi"
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ukraine vs. Russia's new, jet-powered drones",
+      "URL": "https://www.dw.com/en/ukraine-vs-russias-new-jet-powered-drones/video-79922728",
+      "Category": "CONFLICT",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukraine",
+        "Russia"
       ],
-      "TriggerCity": [
-        "Abu Dhabi"
-      ]
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Iran vows \u2018severe\u2019 reply to any US attack; Israel kills 10 across Gaza",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261102__D66T24M__v2__HighRes__IranIsraelUsWar-1794231920.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "TriggerADM1": [
+        "Gaza"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+      "URL": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af4f84052b2-1794439232.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Iran",
+        "Israel"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+      "URL": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/Cameroon-U-17-team-arrival-1794484183.jpg?resize=1800%2C1200&quality=80",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Qatar",
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Israel is \u2018disrupting entire ecosystems\u2019, including Lebanon\u2019s wheat crop",
+      "URL": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2023/10/2022-09-07T113015Z_1560803045_RC2LBW9EQCZJ_RTRMADP_3_LEBANON-CRISIS-IMF-ECONOMY-1698486107.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israel",
+        "Lebanon"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
       "Headline": "African rights body raises alarm over treatment of Niger\u2019s Mahamid Arabs",
@@ -92,10 +139,10 @@
       "TriggerCity": []
     },
     {
-      "Headline": "5,Iran denies talks with US, says Hormuz will stay shut until demands are met",
-      "URL": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+      "Headline": "8,Iran war updates: Tehran says ball in US court, deal possible",
+      "URL": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
       "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af3eb2f86fc-1794370351.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-08T175027Z_368278914_RC2QJOAACAYC_RTRMADP_3_IRAN-CRISIS-1794415856.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Iran",
@@ -105,75 +152,161 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Russia and Ukraine agree to prisoner swap at U.S.-mediated Abu Dhabi peace talks",
-      "URL": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-      "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-abu-dhabi-talks-rs-ffac97.jpg",
+      "Headline": "9,Xi Jinping says Taiwan\u2019s \u2018complete reunification\u2019 with China will happen",
+      "URL": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen",
+      "Category": "Rumour",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af593ae-1794479022.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russia",
-        "Ukraine",
-        "U.S."
+        "Taiwan",
+        "China"
       ],
-      "TriggerADM1": [
-        "Abu Dhabi"
-      ],
-      "TriggerCity": [
-        "Abu Dhabi"
-      ]
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
-      "Headline": "U.S. moves military aircraft from British base amid Iran threats",
-      "URL": "https://www.nbcnews.com/world/europe/us-moves-military-aircraft-british-base-iran-threats-raf-mildenhall-rcna608501",
-      "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261110-Mildenhall-rs-2f8cee.jpg",
+      "Headline": "Trump says U.S. doesn't need a deal with Iran",
+      "URL": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-election-alaska-senate-colom-live-updates-rcna608929",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-trump-vance-vsb-2321-fcd646.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "U.S.",
-        "British",
         "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Hoax bomb alerts sent to schools in Italy, U.K. and Ireland in latest disruption",
-      "URL": "https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717",
-      "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-police-ita-rs-314f76.jpg",
+      "Headline": "Democrat Scott Colom wins Mississippi Senate seat, breaking GOP\u2019s grip on the state",
+      "URL": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-scott-colom-mn-1230-5a5bb6.jpg",
+      "TriggerRegion": [
+        "Sco"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Mississippi"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "China\u2019s Xi says Taiwan \u2018reunification\u2019 must happen as history cannot be stopped",
+      "URL": "https://www.nbcnews.com/world/asia/china-xi-says-taiwan-reunification-must-happen-history-cannot-stopped-rcna608935",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261112-xi-rs-e54254.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Italy",
-        "U.K.",
-        "Ireland"
+        "China",
+        "Taiwan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "The US politics sketchHegseth lays it on thick for Trump to shave off fallout from Iran war",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-press-conference-impeachment",
-      "Category": "CONFLICT",
-      "ImageURL": "https://i.guim.co.uk/img/media/06ecb4e2e1a8e0c7b03f6bc0fe5373eb6937fb6d/1267_525_3842_3073/master/3842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d2ef0fff8cb7cbb3c054859e860cde0",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US",
-        "Iran"
+      "Headline": "US politics live\u2018I had the courage to believe in Mississippi\u2019 says Scott Colom after historic Senate win",
+      "URL": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "Category": "Rumour",
+      "ImageURL": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8b3b21d83c3226ed1a8056fdefb243b6",
+      "TriggerRegion": [
+        "Sco"
       ],
-      "TriggerADM1": [],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Mississippi"
+      ],
       "TriggerCity": []
     },
     {
-      "Headline": "Singapore seizes US-operated cruise ship that offered \u2018permanent\u2019 life at sea",
-      "URL": "https://www.theguardian.com/world/2026/nov/10/singapore-seizes-us-operated-cruise-ship-mv-odyssey",
+      "Headline": "Building powerHow Scott Colom won deep-red Mississippi with little help from Democrats",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
+      "Category": "Sports Results",
+      "ImageURL": "https://i.guim.co.uk/img/media/0728f93eac7ea8e8a004e047f0567355399d181e/448_0_4476_3581/master/4476.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d284454dcfc65f7f809c8c0bc6d28ae",
+      "TriggerRegion": [
+        "Sco"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Mississippi"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Tell usShare your reaction to Scott Colom\u2019s Mississippi Senate win",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/12/scott-colom-mississippi-senate-win-reader-reaction",
+      "Category": "Sports Results",
+      "ImageURL": "https://i.guim.co.uk/img/media/410fb2eb0c09751bf2ef5eda989e1c4b1593b35f/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec9a611e0effe507c3e146eb34103c2f",
+      "TriggerRegion": [
+        "Sco"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Mississippi"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ukraine war briefingZelenskyy sees \u2018window of opportunity\u2019 for peace as US envoys to meet Putin",
+      "URL": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
       "Category": "CONFLICT",
-      "ImageURL": "https://i.guim.co.uk/img/media/97358d23f113d06b561992096eefae878b91fb37/337_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e9a1ebd300e875560b396afe6fed2fa",
+      "ImageURL": "https://i.guim.co.uk/img/media/1a2a55a1882932563de32668ed95ba1b08548417/1164_65_5376_4301/master/5376.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93fae50b35618705729fcb33c568ba38",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Singapore",
+        "Ukraine",
         "US"
       ],
       "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 12 at 4:00AM AKST until November 13 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.97ed2761554692bbee0774d49d8abbea75bc0dcb.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Western"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Blizzard Warning issued November 12 at 3:25AM AKST until November 13 at 4:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0fb8b2b3dab9aa31e52c720d12759c567728b886.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Northern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 11 at 4:00PM AKST until November 12 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6a79639f32b646703ee538ebd595a13909b28c7a.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Western"
+      ],
       "TriggerCity": []
     },
     {
@@ -191,73 +324,55 @@
         "Western"
       ],
       "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 10 at 4:00PM AKST until November 11 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a8a9183e0790f24c9df06e7894c82c1274860914.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [
-        "Arctic"
-      ],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 10 at 4:00AM AKST until November 11 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d36456b55cc591c6c2fbbfab1a447d64fd8e1aaa.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [
-        "Arctic"
-      ],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "Western"
-      ],
-      "TriggerCity": []
     }
   ],
   "2": [
     {
-      "Headline": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
-      "URL": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79902470_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
-      "URL": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79913686_6.jpg",
+      "Headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+      "URL": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/79926894_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Israel"
       ],
+      "TriggerADM1": [
+        "Gaza"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Australian teenage boy found alive after 6 days in the bush",
+      "URL": "https://www.dw.com/en/australian-teen-found-alive-after-6-days-in-the-bush/a-79926046",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79926577_6.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Australian"
+      ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
-      "URL": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79910540_6.jpg",
+      "Headline": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+      "URL": "https://www.dw.com/en/ebola-tops-11000-cases-in-congos-deadliest-outbreak/video-79928292",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "Congo"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "German football player's goal celebration sparks controversy",
+      "URL": "https://www.dw.com/en/nmechas-celebration-sparks-controversy/video-79922741",
+      "Category": "Status Quo",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "German"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -287,78 +402,6 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Democratic Republic of Congo: Growing fears over return of cholera",
-      "URL": "https://www.dw.com/en/democratic-republic-of-congo-growing-fears-over-return-of-cholera/a-79903658",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79904513_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Congo"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Japan watches for signs of change in Trump's foreign policy priorities",
-      "URL": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trumps-foreign-policy-priorities/a-79909398",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/76443046_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Japan"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "German rescue drone developers seek to offer help from above",
-      "URL": "https://www.dw.com/en/german-rescue-drone-developers-seek-to-offer-help-from-above/video-79902035",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79899446_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "German"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Nvidia launches probe into alleged Chinese spy affair",
-      "URL": "https://www.dw.com/en/nvidia-launches-probe-into-alleged-chinese-spy-affair/video-79900700",
-      "Category": "Status Quo",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Chinese"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Russia's return divides ice hockey",
-      "URL": "https://www.dw.com/en/russias-return-divides-ice-hockey/video-79898957",
-      "Category": "Status Quo",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Egypt convicts Mada Masr editor amid press freedom crackdown",
-      "URL": "https://www.dw.com/en/mada-masr-editor-convicted-as-un-raises-press-freedom-concerns/video-79911860",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79736676_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Egypt"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
       "Headline": "Turkey grapples with climate crisis as farmers hit by extreme weather",
       "URL": "https://www.dw.com/en/turkey-hosts-cop31-can-it-turn-climate-promises-into-action/video-79903316",
       "Category": "Natural Disaster",
@@ -371,37 +414,37 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Megaspeed and the battle to get high-end Nvidia chips into China",
-      "URL": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79909063_6.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "China"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018Climate crisis is outrunning us,\u2019 UN chief Guterres says at COP31",
-      "URL": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
+      "Headline": "Police say at least five people shot at busy thoroughfare in Washington, DC",
+      "URL": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc",
       "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af447b8c34a-1794394040.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T135936Z_744618183_RC2CMOA6HYPY_RTRMADP_3_WASHINGTONDC-SHOOTING-1794492205.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
-      "TriggerCountry": [
-        "us"
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Washington"
       ],
-      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Israeli rights group raises concerns about jailed doctor amid Gaza strikes",
-      "URL": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza",
+      "Headline": "Netanyahu\u2019s legacy: Personality politics reshapes Israeli democracy",
+      "URL": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=1200%2C630",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af341040cae-1794326788.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Israeli"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "\u2018Horrific crime\u2019: Gaza doctor killed as Israel expands war on healthcare",
+      "URL": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T084451Z_867826222_RC26MOAM83YL_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1794490585.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israel"
       ],
       "TriggerADM1": [
         "Gaza"
@@ -409,14 +452,25 @@
       "TriggerCity": []
     },
     {
-      "Headline": "US Treasury chief Bessent moved to military base after \u2018Iranian threats\u2019",
-      "URL": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats",
-      "Category": "CONFLICT",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee21e3-1793991139.jpg?resize=1920%2C1440",
+      "Headline": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+      "URL": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af5b2778a7eb-1794486903.jpg?resize=1920%2C1440",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US",
-        "Iranian"
+        "Italian"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "It is time for a change of leadership in the Democratic Party in the US",
+      "URL": "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af42263-1794384483.jpg?resize=1920%2C1440",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -436,19 +490,7 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
-      "URL": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/photo-1-1794116042.jpg?resize=1200%2C630",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "8,US midterm elections 2026: Live results in maps and chartsExternal LinkThis article will be opened in a new browser window",
+      "Headline": "10,US midterm elections 2026: Live results in maps and chartsExternal LinkThis article will be opened in a new browser window",
       "URL": "https://aljazeera.com/us-midterm-elections-2026/results/",
       "Category": "Status Quo",
       "ImageURL": "https://www.aljazeera.com/us-midterm-elections-2026/results/thumbnail.jpg",
@@ -460,58 +502,36 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Kenya discharges last Ebola patient, starts countdown to Ebola-free declaration",
-      "URL": "https://www.nbcnews.com/world/africa/kenya-countdown-ebola-free-declaration-last-patient-discharged-rcna608712",
+      "Headline": "Ukraine faces new Starshield disruptions as Trump envoys meet with Putin",
+      "URL": "https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-kenya-2-rs-fe0606.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261022-starlink-rs-ad8358.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Kenya"
+        "Ukraine"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Workers launch general strike across Spain over severe housing crisis",
-      "URL": "https://www.nbcnews.com/world/spain/workers-launch-general-strike-spain-severe-housing-crisis-rcna608710",
+      "Headline": "Deadly floods sweep Gaza\u2019s tents, intensifying pressure on Israel",
+      "URL": "https://www.nbcnews.com/world/middle-east/gaza-floods-tents-israel-reconstruction-board-of-peace-hamas-rcna608262",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-strike-spain-rs-3429b0.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-gaza-rs-c20487.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Spain"
+        "Israel"
       ],
-      "TriggerADM1": [],
+      "TriggerADM1": [
+        "Gaza"
+      ],
       "TriggerCity": []
     },
     {
-      "Headline": "Spain demands TikTok suspension until child abuse material is removed",
-      "URL": "https://www.nbcnews.com/world/spain/spain-demands-tiktok-suspension-child-abuse-material-removed-rcna608607",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261110-tiktok-mn-1415-49ca2e.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Spain"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "U.S. judge says Trump\u2019s $10 billion BBC defamation case can proceed",
-      "URL": "https://www.nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251112-bbc-rs-c55929.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "U.S."
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Eisenkot unveils agenda to reverse Netanyahu\u2019s policies as Israel\u2019s new parliament is sworn in",
-      "URL": "https://www.nbcnews.com/world/israel/eisenkot-unveils-agenda-reverse-netanyahus-policies-israels-new-parlia-rcna608684",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261110-Gadi-Eisenkot-vsb-2117-df559c.jpg",
+      "Headline": "Israel called it a \u2018precise strike\u2019 that was targeting a Hamas commander",
+      "URL": "https://www.nbcnews.com/video/israel-launch-deadly-airstrike-on-gaza-s-nasser-hospital-273323077895",
+      "Category": "CONFLICT",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/nasser_2-5rp4x3.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Israel"
@@ -520,101 +540,36 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Central Park serial rape suspect arrested in Florida, NYPD says",
-      "URL": "https://www.nbcnews.com/news/us-news/suspected-central-park-serial-rapist-arrested-florida-nypd-says-rcna608618",
+      "Headline": "White House warns congressional Democrats: Investigating us may be a crime",
+      "URL": "https://www.nbcnews.com/politics/white-house/white-house-warns-congressional-democrats-investigating-us-may-crime-rcna608752",
       "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261110-central-park-assault-suspect-mn-1440-f9ab11.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-garcia-RS-c23d92.jpg",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "us"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "NewsCarrick sacked by Manchester United with Pochettino poised to take over",
+      "URL": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/ebf124cd50774b13f3eae25ce20c59f1b8edc2a5/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=929bfb66ba37cb01d932a926e17e4598",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Central",
-        "Florida"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "GOP Rep. Mar\u00eda Elvira Salazar wins re-election in Florida after clashing with Trump",
-      "URL": "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377",
-      "Category": "Election Results",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-Maria-Elvira-Salazar-House-midterm-ch-1541-c1c2d7.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Florida"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "New YorkUS prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
-      "Category": "CONFLICT",
-      "ImageURL": "https://i.guim.co.uk/img/media/4f57972c096d8ca442bf38916cae721e836a865a/0_29_1616_1293/master/1616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98495f77c37b7e97470a1939b820937a",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iranian",
-        "UK"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "AnalysisDemocrats\u2019 US election sweep brings the price of their promised social contract into focus",
-      "URL": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/07a0f439eb97562ba66c202a2de731facf252107/569_0_5465_4372/master/5465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e19987e3266dd7dec2c449b0ca0a6766",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "TennisHot mics, Andreeva \u2018diva\u2019 drama and a stopgap finale at Indian Wells bail out the WTA",
-      "URL": "https://www.theguardian.com/sport/2026/nov/10/hot-mics-andreeva-diva-drama-and-a-stopgap-finale-at-indian-wells-bail-out-the-wta",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/119b9ea2e88748c473dd02ce13d972f21790743b/534_0_4170_3335/master/4170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e1c01240f0587f0ecae44d44dce90a5",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Indian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "UkraineUkraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-      "URL": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/65096d4645f0ba893acee8e385a8a46095fb0391/1113_504_4209_3367/master/4209.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3ddf4c65824cec8e9e4c22a5db8b7b3",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Indonesian",
-        "Russian"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Ukraine war briefingZelenskyy says Putin \u2018lives in a different reality\u2019 as Abu Dhabi talks get under way",
-      "URL": "https://www.theguardian.com/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
-      "Category": "Rumour",
-      "ImageURL": "https://i.guim.co.uk/img/media/fbe736981db55e7db0fbf141ac9ac4f1ecc233c9/27_0_800_640/master/800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd239c6115a762d792753435bcbcc6c8",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Ukraine"
-      ],
-      "TriggerADM1": [
-        "Abu Dhabi"
+        "Manchester"
       ],
       "TriggerCity": [
-        "Abu Dhabi"
+        "Manchester"
       ]
     },
     {
-      "Headline": "LiveGOP branded \u2018sinking ship\u2019 as Republicans block efforts to impeach Hegseth \u2013 US politics live",
-      "URL": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/b7838838f4e1ef5eb81581e00f7bc4e47c6a741a/303_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=dbece8be90ae43bd88ba7fd338935405",
+      "Headline": "Jeff RueterPochettino\u2019s interest in United job is as natural as it is disruptive to the US",
+      "URL": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+      "Category": "CONFLICT",
+      "ImageURL": "https://i.guim.co.uk/img/media/4b71f17a6ad6948921f197ca2b01e281248968b9/417_0_4525_3622/master/4525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5a74586635e5b8b5c667e920fb30bbe",
       "TriggerRegion": [],
       "TriggerCountry": [
         "US"
@@ -623,15 +578,15 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Baby found alive after being buried in dog crate for 24 hours, South Carolina police say",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina",
-      "Category": "Rumour",
-      "ImageURL": "https://i.guim.co.uk/img/media/2e34769a71f52b7cf9b91481a15a61958fd445c2/127_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32b570bc2521b4d4d78fbaa3c2d44ec1",
+      "Headline": "Punks, sex workers and society in transition: documenting postwar Japan \u2013 in pictures",
+      "URL": "https://www.theguardian.com/artanddesign/gallery/2026/nov/12/postwar-japan-met-museum-photos",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/387e127bcc535bef2f186397620984928752e98c/363_0_6192_4957/master/6192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b0174088166750f5a0eea37f63df95a",
       "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "South Carolina"
+      "TriggerCountry": [
+        "Japan"
       ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
@@ -647,8 +602,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 11 at 3:45AM AKST until November 12 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d6a70036bc5f4b14ca88602070582b8e69e8275b.007.2",
+      "Headline": "Flood Warning issued November 12 at 8:31AM CST by NWS Corpus Christi TX",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.18e883687f46e7c2a345a1cd781a4152492db08b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -659,8 +614,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Winter Storm Watch issued November 11 at 1:19AM PST until November 17 at 4:00AM PST by NWS Hanford CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2d42b8b25f6b824995dc38afa3996a3a5aba1265.001.1",
+      "Headline": "Winter Storm Warning issued November 12 at 5:19AM PST until November 17 at 4:00AM PST by NWS Hanford CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2ed0a7e6590150d09f7396427da209adbd78a631.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -671,38 +626,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 10 at 10:33PM CST until November 11 at 2:00PM CST by NWS Austin/San Antonio TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9360ce98f35b5e5460bc4994d1a8f59c5ab36665.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Austin",
-        "San Antonio"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 10 at 7:08PM CST until November 11 at 11:00PM CST by NWS Austin/San Antonio TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c2ff25da3a9c89eb22325daaf2dbf7d3e8a4c798.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Austin",
-        "San Antonio"
-      ]
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 10 at 3:48PM AKST until November 11 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7de9e4ed87f711d07a548aef2bda761ba6f4a943.004.2",
+      "Headline": "Heavy Freezing Spray Warning issued November 12 at 3:45AM AKST until November 13 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.79e4d840ec9f7c43cd2f22cfc31dbab822a74814.008.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -713,23 +638,20 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 10 at 1:15PM CST until November 11 at 5:20PM CST by NWS Austin/San Antonio TX",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4684a304c656482de6461e14edbf776c9015b20d.001.1",
+      "Headline": "Winter Storm Warning issued November 12 at 12:33AM PST until November 14 at 10:00AM PST by NWS Reno NV",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0e46de464708a8211a1f979b4629df14bae2f4ab.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa"
+        "United States"
       ],
       "TriggerADM1": [],
-      "TriggerCity": [
-        "Austin",
-        "San Antonio"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "Winter Storm Watch issued November 10 at 11:14AM PST until November 16 at 4:00PM PST by NWS Sacramento CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d42764c572d5df8b3ae4c07fd1308e13a2f725b2.001.1",
+      "Headline": "Winter Storm Warning issued November 12 at 12:05AM PST until November 14 at 10:00AM PST by NWS Sacramento CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.71cb916777d6b7820a7f8d815a569443e8982bae.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -749,8 +671,8 @@
       ]
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 10 at 3:45AM AKST until November 11 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c62cc1f4aad03bdbbd99d67988f1b716c55af394.004.2",
+      "Headline": "Heavy Freezing Spray Warning issued November 11 at 3:48PM AKST until November 12 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.8b76d561a16ac88ed56e120569dfa9f374c059a1.004.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -761,100 +683,80 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Storm Warning issued November 5 at 2:35AM AKST until November 12 at 5:00PM AKST by NWS Juneau AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a9924e39621228cb9f057f4bfe4d02c3eb322b25.012.1",
+      "Headline": "River discharge near Birmingham, United Kingdom running 1.7x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=52.475006&longitude=-1.8749847",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "River discharge near Bras\u00edlia, Brazil running 1.6x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-15.774998&longitude=-47.924988",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Brazil"
+        "United Kingdom"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Bras\u00edlia"
+        "Birmingham"
+      ]
+    },
+    {
+      "Headline": "River discharge near Guwahati, India running 1.6x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=26.175003&longitude=91.725006",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "India"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Guwahati"
       ]
     }
   ],
   "3": [
     {
-      "Headline": "Gaza\u2019s infrastructure collapse leaves residents defenceless against floods",
-      "URL": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
+      "Headline": "New York: Brooklyn building collapse death toll climbs to 8",
+      "URL": "https://www.dw.com/en/new-york-brooklyn-building-collapse-death-toll-climbs-to-8/a-79925886",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aeefbdb59024-1794046939.jpg?resize=1920%2C1440",
+      "ImageURL": "https://static.dw.com/image/79925792_6.jpg",
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Gaza"
+        "New York"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Morning Rundown: Three killed after car strikes L.A. pedestrians, Democrats brace for Stephen Miller clashes, and Joe Biden targeted by protesters in Dublin",
-      "URL": "https://www.nbcnews.com/news/us-news/us-measles-vaccination-stephen-millers-morning-rundown-rcna608709",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-vaccine-rs-4c96db.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "car"
-      ],
-      "TriggerCity": [
-        "Dublin"
-      ]
-    },
-    {
-      "Headline": "Call her candid: Sofia Franklyn\u2019s memoir details \nAlex Cooper fallout",
-      "URL": "https://www.nbcnews.com/pop-culture/pop-culture-news/sofia-franklyn-memoir-daddy-issues-alex-cooper-fallout-call-her-daddy-rcna608404",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-sofia-franklyn-and-alex-cooper-vsb-1631-f3883d.jpg",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Sofia"
-      ],
-      "TriggerCity": [
-        "Sofia"
-      ]
-    },
-    {
-      "Headline": "GazaThousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
-      "URL": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "Headline": "High Wind Warning issued November 12 at 6:28AM PST until November 13 at 1:00PM PST by NWS Medford OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6334280d1461fe5677e18975a94b47ecd0e33ade.001.2",
       "Category": "Natural Disaster",
-      "ImageURL": "https://i.guim.co.uk/img/media/09ed02ace6dac194c648de150485e68fa9c38bbb/294_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bcf59766ab0fb835f139489d89eafa95",
+      "ImageURL": null,
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "Gaza"
+        "Central"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Trade deadlineCousins returns to Vikings as Raiders hand starting job to Mendoza",
-      "URL": "https://www.theguardian.com/sport/2026/nov/10/kirk-cousins-minnesota-vikings-las-vegas-raiders-trade-fernando-mendoza",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/be89d6fa60dc0dde2bf6014453bde8ecdc719acf/232_0_4975_3980/master/4975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32f31b99d55df24a5a3d73d09bfbb575",
+      "Headline": "High Wind Warning issued November 12 at 6:28AM PST until November 13 at 10:00AM PST by NWS Medford OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6334280d1461fe5677e18975a94b47ecd0e33ade.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [
-        "Mendoza"
+        "South",
+        "Central",
+        "Oregon"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 11 at 8:20AM EST until November 13 at 7:00PM EST by NWS Tampa Bay Ruskin FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7ba53d3c2ed8735248fe37e223222c41f28255a3.001.1",
+      "Headline": "Flood Warning issued November 12 at 8:47AM EST until November 13 at 1:00PM EST by NWS Tampa Bay Ruskin FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.28719c70c8c08897a979a59e189beb8584729c8c.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -869,8 +771,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "High Wind Watch issued November 11 at 1:04AM PST until November 13 at 10:00PM PST by NWS Reno NV",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.febf73a57340cd3b6f415b2a87160c98c0f36083.003.1",
+      "Headline": "Flood Warning issued November 12 at 8:25AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b603af0369d77eaaebc80d33f19d44feb8aaa99b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -878,14 +780,79 @@
         "United States"
       ],
       "TriggerADM1": [
-        "California",
-        "Northern"
+        "EST"
       ],
-      "TriggerCity": []
+      "TriggerCity": [
+        "Melbourne"
+      ]
     },
     {
-      "Headline": "Winter Storm Watch issued November 11 at 12:15AM PST until November 14 at 4:00PM PST by NWS Las Vegas NV",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e432ea1f537befaa91cc7c1184b929facbd6b754.001.1",
+      "Headline": "Flood Warning issued November 12 at 8:23AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2305617cfc87570d35c0272f7b095ee20824c465.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 12 at 8:22AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e70869259eab578a2af4f3d82dfadc30b74ea22b.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 12 at 8:09AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5f269df4480d0d93e8d46f8f5a477cbd2b549d38.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 12 at 8:06AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c0218479c9cb47f9409b0644c9e2600ae039c28c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Winter Storm Warning issued November 11 at 11:43PM PST until November 14 at 4:00PM PST by NWS Las Vegas NV",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.58fc5913879fd962ca3322794ce0c15395d1853d.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -900,8 +867,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 10 at 7:49PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e4cb99847a805aeb5278526ed5fadc4317dba317.001.1",
+      "Headline": "High Wind Watch issued November 11 at 11:52AM PST until November 13 at 10:00PM PST by NWS Reno NV",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d08ae2ffb1401125073f838e67f1452d9692ce94.004.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -909,63 +876,16 @@
         "United States"
       ],
       "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 10 at 7:48PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f07484db571e2982dcf0ce6581a6bc2ab17436cf.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 10 at 7:47PM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.505e8f7bcdba7736f6bbdd92a1fa13719b15a01e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Winter Storm Watch issued November 10 at 10:37AM PST until November 14 at 10:00AM PST by NWS Reno NV",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f79b58c610923076b618e58db88f6bb3528bf376.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Mono"
+        "California",
+        "Northern"
       ],
       "TriggerCity": []
     }
   ],
   "4": [
     {
-      "Headline": "Flood Warning issued November 11 at 3:39AM PST until November 11 at 4:00PM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.568116e40631edf6192c77720da3efcfc4cbe192.001.1",
+      "Headline": "Flood Watch issued November 12 at 2:12AM PST until November 15 at 4:00AM PST by NWS Seattle WA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e61f29d030be3e1b10c772f49aa8f218a71c2b4b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -978,22 +898,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 10 at 8:06AM MST until November 11 at 11:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e7293264844f55ed46785854802c29c4ea4797b6.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 10 at 8:00AM MST until November 17 at 11:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6919edc7e119bce46062e3c64c5e3fd608b5c01f.001.1",
+      "Headline": "Flood Warning issued November 11 at 11:41AM MST until November 17 at 11:00AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c6ce1e79c6e03fc4627ccbfc4f48df38490db583.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "TriggerRegion": [],
@@ -1009,79 +915,68 @@
   "locationOptions": {
     "TriggerRegion": [
       "Africa",
-      "Arctic"
+      "Arctic",
+      "Sco"
     ],
     "TriggerCountry": [
       "Australia",
-      "Brazil",
-      "British",
+      "Australian",
       "China",
-      "Chinese",
       "Congo",
-      "Egypt",
       "German",
       "Germany",
+      "Hungary",
       "India",
-      "Indian",
-      "Indonesian",
       "Iran",
-      "Iranian",
-      "Ireland",
       "Israel",
       "Israeli",
-      "Italy",
+      "Italian",
       "Japan",
-      "Kenya",
+      "Lebanon",
       "Niger",
-      "Poland",
+      "Qatar",
       "Russia",
-      "Russian",
       "Sa",
-      "Singapore",
       "Solomon Islands",
-      "Spain",
+      "Taiwan",
       "Turkey",
-      "U.K.",
       "U.S.",
       "UK",
       "US",
       "Ukraine",
+      "United Kingdom",
       "United States",
       "us"
     ],
     "TriggerADM1": [
-      "Abu Dhabi",
       "Bay",
       "California",
       "Central",
       "EST",
       "Eastern",
-      "Florida",
       "Gaza",
-      "Mendoza",
-      "Mono",
+      "Manchester",
+      "Mississippi",
       "Nevada",
+      "New York",
       "Niger",
       "Northern",
-      "Sofia",
-      "South Carolina",
+      "Oregon",
+      "South",
       "Southern",
+      "Washington",
       "West",
-      "Western",
-      "car"
+      "Western"
     ],
     "TriggerCity": [
-      "Abu Dhabi",
-      "Austin",
-      "Bras\u00edlia",
-      "Dublin",
+      "Birmingham",
+      "Guwahati",
       "Las Vegas",
+      "Manchester",
       "Melbourne",
       "Phoenix",
       "Sacramento",
-      "San Antonio",
-      "Seattle",
-      "Sofia"
+      "Seattle"
     ]
   },
   "allLocations": {
