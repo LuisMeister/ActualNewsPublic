@@ -6,6 +6,29 @@
     <title>ActualNews</title>
     <link rel="stylesheet" href="./static/BaseStyle.css">
 
+    <style>
+        /* Natural-disaster sensor markers on the world map -- color-coded per
+           EventSource so e.g. an earthquake pin reads distinctly from a flood
+           pin at a glance. Self-contained here (not in BaseStyle.css) because
+           that stylesheet lives only in the separately-published
+           ActualNewsPublic repo and isn't editable from this repo. */
+        .disaster-marker {
+            cursor: pointer;
+            stroke: #1a1a1a;
+            stroke-width: 0.3;
+            vector-effect: non-scaling-stroke;
+            opacity: 0.85;
+        }
+        .disaster-marker:hover {
+            opacity: 1;
+        }
+        .disaster-marker[data-source="USGS Earthquake"]    { fill: #e4572e; }
+        .disaster-marker[data-source="NWS Alert"]           { fill: #f3a712; }
+        .disaster-marker[data-source="Open-Meteo Forecast"] { fill: #3a86ff; }
+        .disaster-marker[data-source="Open-Meteo Flood"]    { fill: #2274a5; }
+        .disaster-marker[data-source="EONET Volcano"]       { fill: #8338ec; }
+    </style>
+
 </head>
 
 
@@ -567,6 +590,63 @@
                 .catch(() => { provinceCache[iso] = null; });
         }
 
+        // Point markers for sensor-generated Natural Disaster events only
+        // (USGS earthquakes, NWS alerts, Open-Meteo storms/floods, EONET
+        // volcanoes) -- scraped/keyword-matched headlines never get a marker
+        // since they only carry text location tags (country/city names), no
+        // coordinate. Unlike province-layer (created/destroyed per country
+        // zoom), this layer is created once, right after data.json loads, so
+        // markers stay visible at every zoom level and on every tab.
+        let markerLayer = null;
+
+        function projectToMap(lat, lon) {
+            // Same equirectangular projection the country/province paths were
+            // digitized in (see commit 675abe5) -- plain linear lon/lat ->
+            // 1000x500 user space, no further conversion needed.
+            return {
+                x: (lon + 180) / 360 * 1000,
+                y: (90 - lat) / 180 * 500
+            };
+        }
+
+        function renderDisasterMarkers(data) {
+            if (markerLayer) {
+                markerLayer.remove();
+                markerLayer = null;
+            }
+
+            const layer = document.createElementNS("http://www.w3.org/2000/svg", "g");
+            layer.setAttribute("id", "marker-layer");
+
+            TIERS.forEach(tier => {
+                (data[tier] || []).forEach(h => {
+                    if (h.Category !== "Natural Disaster") return;
+                    if (h.Latitude == null || h.Longitude == null) return;
+
+                    const { x, y } = projectToMap(h.Latitude, h.Longitude);
+                    const marker = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+                    marker.setAttribute("class", "disaster-marker");
+                    marker.setAttribute("data-source", h.EventSource || "");
+                    marker.setAttribute("cx", x);
+                    marker.setAttribute("cy", y);
+                    marker.setAttribute("r", 2.5);
+
+                    const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
+                    title.textContent = h.Headline || h.EventSource || "Natural disaster event";
+                    marker.appendChild(title);
+
+                    marker.addEventListener("click", () => {
+                        if (h.URL) window.open(h.URL, "_blank", "noopener");
+                    });
+
+                    layer.appendChild(marker);
+                });
+            });
+
+            mapViewport.appendChild(layer);
+            markerLayer = layer;
+        }
+
         function applyCountryState(countryPath, groupEl) {
             if (activeContinentGroup !== groupEl) applyContinentState(groupEl);
             if (activeCountryPath === countryPath) return; // already there
@@ -940,6 +1020,7 @@
                 newsData = data;
                 TRIGGER_COLS.forEach(col => renderDropdownOptions(col));
                 renderTiers();
+                renderDisasterMarkers(newsData);
                 detectVisitorLocation();
             })
             .catch(err => {
