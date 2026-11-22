@@ -1,16 +1,37 @@
 {
   "1": [
     {
-      "Headline": "Russia intensifies aerial attacks on Ukraine",
-      "URL": "https://www.dw.com/en/russia-intensifies-aerial-attacks-on-ukraine/video-80006745",
+      "Headline": "China, ASEAN countries struggle over South China Sea code of conduct",
+      "URL": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
       "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/80001619_6.jpg",
+      "ImageURL": "https://static.dw.com/image/78329421_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "ASEAN"
+      ],
+      "TriggerCountry": [
+        "China",
+        "China"
+      ],
+      "TriggerADM1": [
+        "South"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Poland says Russian missile struck near Ukraine border",
+      "URL": "https://www.dw.com/en/poland-says-russian-missile-struck-near-ukraine-border/video-80005822",
+      "Category": "Rumour",
+      "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russia",
+        "Poland",
+        "Russian",
         "Ukraine"
       ],
       "TriggerADM1": [],
@@ -33,108 +54,57 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Poland says Russian missile struck near Ukraine border",
-      "URL": "https://www.dw.com/en/poland-says-russian-missile-struck-near-ukraine-border/video-80005822",
-      "Category": "Rumour",
-      "ImageURL": null,
+      "Headline": "Germany draw Belgium in Nations League quarterfinals",
+      "URL": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794",
+      "Category": "Sports Results",
+      "ImageURL": "https://static.dw.com/image/80002011_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Poland",
-        "Russian",
-        "Ukraine"
+        "Germany",
+        "Belgium"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "As UK debates rejoining the EU, Brexit divides Newhaven residents",
-      "URL": "https://www.dw.com/en/as-uk-debates-rejoining-the-eu-brexit-divides-newhaven-residents/video-79973946",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79974557_6.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [
-        "EU"
-      ],
-      "TriggerCountry": [
-        "UK"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Pakistan minister to visit India, but no breakthrough expected",
-      "URL": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717",
+      "Headline": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
+      "URL": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
       "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/72483175_6.jpg",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0228165f-1795303446.jpg?resize=1920%2C1440",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Pakistan",
-        "India"
+        "Lebanese",
+        "Israel",
+        "Iran"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-      "URL": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/80001113_6.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [
-        "EU"
-      ],
-      "TriggerCountry": [
-        "UK"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-      "URL": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
+      "Headline": "8,Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "URL": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
       "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-17T144933Z_237291431_RC2UKNA8ZPKO_RTRMADP_3_UKRAINE-CRISIS-FINLAND-1795262589.jpg?resize=1920%2C1440",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia",
-        "Finland"
-      ],
-      "TriggerADM1": [
-        "Kaliningrad"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-      "URL": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
-      "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-05-30T015143Z_1023573013_RC2IALAJ80XV_RTRMADP_3_USA-MILITARY-PUERTO-RICO-1795245920.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b01e7c0bd47-1795286976.jpg?resize=1920%2C1440",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
         "Iran",
+        "Qatari",
         "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "3,Ukraine strikes Kerch Bridge as Putin ally declares \u2018no one needs Europe\u2019",
+      "Headline": "9,Ukraine strikes Kerch Bridge as Putin ally declares \u2018no one needs Europe\u2019",
       "URL": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs",
       "Category": "Status Quo",
       "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0095d668-1795200470.jpg?resize=1920%2C1440",
@@ -151,90 +121,120 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
-      "URL": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542",
+      "Headline": "Cargo ship bound for Russia\u2019s Kaliningrad hit by drones, Finland tightens security",
+      "URL": "https://www.nbcnews.com/world/russia/cargo-ship-bound-russias-kaliningrad-hit-drones-finland-tightens-secur-rcna610567",
       "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-denmark-nd-a842f4.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-cargo-ship-strike-drone-bf-1042-10b70b.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Denmark",
         "Russia",
-        "Ukrainian",
-        "American"
+        "Finland"
       ],
-      "TriggerADM1": [],
+      "TriggerADM1": [
+        "Kaliningrad"
+      ],
       "TriggerCity": []
     },
     {
-      "Headline": "Trump calling Putin \u2018my friend\u2019 at APEC summit sparks backlash",
-      "URL": "https://www.nbcnews.com/world/europe/trump-friend-greeting-putin-causes-alarm-europe-ukraine-rcna610373",
+      "Headline": "Estonia to close border with Russia, Moscow decries \u2018new Iron Curtain\u2019",
+      "URL": "https://www.nbcnews.com/world/europe/estonia-close-border-russia-moscow-decries-new-iron-curtain-rcna610652",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-trump-putin-mb-0944-42ee95.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261122-estonia-nd-1e3c62.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
-      "TriggerRegion": [
-        "APEC"
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Estonia",
+        "Russia"
       ],
-      "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "U.K. and EU strike deals on trade and travel, pledging to rebuild ties after Brexit",
-      "URL": "https://www.nbcnews.com/world/europe/uk-eu-strike-deals-trade-travel-pledging-rebuild-ties-brexit-rcna610482",
+      "Headline": "LiveCop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+      "URL": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-Ursula-von-der-Leyen-andy-burnham-antonio-costa-ew-334p-980745.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e091c7188aef9b47aa9b584009cb3b8c",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [
         "EU"
       ],
-      "TriggerCountry": [
-        "U.K."
-      ],
+      "TriggerCountry": [],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "U.S. deportees in South Sudan went hungry as guards pocketed money from relatives, families say",
-      "URL": "https://www.nbcnews.com/world/africa/us-deportees-south-sudan-went-hungry-guards-pocketed-money-relatives-f-rcna610511",
+      "Headline": "\u2018He\u2019s open and affable \u2013 I avoid being recognised like the plague\u2019: Steve Coogan and Rob Brydon on celebrity, friendship and their trip to the Arctic circle",
+      "URL": "https://www.theguardian.com/tv-and-radio/2026/nov/22/the-trip-northern-lights-steve-coogan-rob-brydon-interview",
+      "Category": "Natural Disaster",
+      "ImageURL": "https://i.guim.co.uk/img/media/7519ebdd14ab7ee1aab961b7d4a446db165453b1/1100_0_5589_4471/master/5589.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fd2ff53c1d5f2024f240ad71c4058d7",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict \u2018spilling over\u2019",
+      "URL": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over",
       "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-Tuan-Phan-ew-502p-0d35c0.jpg",
+      "ImageURL": "https://i.guim.co.uk/img/media/e78e0886cf5784d4a6df5ee9e9a0bd64e1543884/707_0_1633_1308/master/1633.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e92c96d30ac83593ec78bc1f835940fd",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "U.S.",
-        "South Sudan"
+        "Ukraine",
+        "Russian",
+        "Finland"
       ],
-      "TriggerADM1": [
-        "South"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
-      "URL": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland",
-      "Category": "CONFLICT",
-      "ImageURL": "https://i.guim.co.uk/img/media/ee4e8d3bfa15abf02070d9f05b07ca54aee4c586/499_0_4731_3787/master/4731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42b00cf2ec5980c92b4f9988e61d68fd",
+      "Headline": "Storm Watch issued November 22 at 3:04AM PST until November 24 at 4:00PM PST by NWS Eureka CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f6dc5dca7038a66e0568bfecf8da530ec3a5f760.004.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
-      "EventSource": null,
+      "EventSource": "NWS Alert",
       "TriggerRegion": [
-        "Europe"
+        "Eu"
       ],
       "TriggerCountry": [
-        "Ukraine",
-        "Russian",
-        "Poland"
+        "United States"
       ],
       "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 21 at 4:00PM AKST until November 22 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0d910c56d0077ddf85277efd401ef7f12837f10d.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Western"
+      ],
       "TriggerCity": []
     },
     {
@@ -5556,77 +5556,114 @@
   ],
   "2": [
     {
-      "Headline": "Uganda minister at COP31: 'We need a just transition'",
-      "URL": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209",
+      "Headline": "Nigeria: At least 24 dead after boat capsizes",
+      "URL": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79994867_6.jpg",
+      "ImageURL": "https://static.dw.com/image/78967690_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Uganda"
+        "Nigeria"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Support for Ukraine military aid waning, survey shows",
-      "URL": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430",
+      "Headline": "Russia strikes Zelenskyy's hometown, killing 2",
+      "URL": "https://www.dw.com/en/russia-strikes-zelenskyys-hometown-killing-2/a-80009458",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/70805450_6.jpg",
+      "ImageURL": "https://static.dw.com/image/80009123_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine"
+        "Russia"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "UK anti-migrant activist jailed for slashing Channel dinghy",
-      "URL": "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576",
+      "Headline": "A leftist Berlin 'Super PAC' shakes up German politics",
+      "URL": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/80007593_6.jpg",
+      "ImageURL": "https://static.dw.com/image/80002450_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "UK"
+        "German"
+      ],
+      "TriggerADM1": [
+        "Berlin"
+      ],
+      "TriggerCity": [
+        "Berlin"
+      ]
+    },
+    {
+      "Headline": "Elderly woman killed by Israeli settlers in West Bank",
+      "URL": "https://www.dw.com/en/elderly-woman-killed-by-israeli-settlers-in-west-bank/video-80007348",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/80007447_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israeli"
+      ],
+      "TriggerADM1": [
+        "West"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "FBI probes suspected NCIC database breach amid growing concerns over US digital infrastructure.",
+      "URL": "https://www.dw.com/en/fbi-hack-fears-amid-us-tech-failures-is-america-prepared/video-80012938",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/71050666_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-      "URL": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822",
-      "Category": "Rumour",
-      "ImageURL": "https://static.dw.com/image/80001604_6.jpg",
+      "Headline": "Indian Youth Congress members protest Meta account restrictions",
+      "URL": "https://www.dw.com/en/indian-youth-congress-members-protest-meta-account-restrictions/video-80013501",
+      "Category": "Status Quo",
+      "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine",
-        "Russian"
+        "Indian"
       ],
-      "TriggerADM1": [],
+      "TriggerADM1": [
+        "Meta"
+      ],
       "TriggerCity": []
     },
     {
-      "Headline": "Iran: Lawyers increasingly under pressure",
-      "URL": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
+      "Headline": "Most wanted drug lord captured by Mexican military",
+      "URL": "https://www.dw.com/en/most-wanted-drug-lord-captured-by-mexican-military/video-80013188",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/71269556_6.jpg",
+      "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iran"
+        "Mexican"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -5664,36 +5701,6 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
-      "URL": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365",
-      "Category": "Rumour",
-      "ImageURL": "https://static.dw.com/image/71967940_6.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Myanmar"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "UN court rules Myanmar committed genocide against Rohingya",
-      "URL": "https://www.dw.com/en/un-myanmar-committed-genocide-against-rohingya/video-79995935",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://static.dw.com/image/79989983_6.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Myanmar"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
       "Headline": "Leaked files raise questions over Deutsche Bank's Russia ties",
       "URL": "https://www.dw.com/en/deutsche-bank-leak-reveals-russia-business-dealings/video-79983332",
       "Category": "Status Quo",
@@ -5704,6 +5711,22 @@
       "TriggerRegion": [],
       "TriggerCountry": [
         "Russia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Finland says Russian helicopter violated its airspace",
+      "URL": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/74073702_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Finland",
+        "Russian"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -5724,6 +5747,69 @@
       "TriggerCity": []
     },
     {
+      "Headline": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "URL": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T071015Z_268220017_RC2VSOAP8KV4_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-AFTERMATH-1795343380.jpg?resize=1920%2C1440",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israeli"
+      ],
+      "TriggerADM1": [
+        "West"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Russian cargo ship still on fire off Finland after drone attack",
+      "URL": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack",
+      "Category": "CONFLICT",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b02b08a-1795338378.jpg?resize=1200%2C675",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Russian",
+        "Finland"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Kenya\u2019s internet metering bill raises privacy and affordability concerns",
+      "URL": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP21272673665257-1795333756.jpg?resize=1920%2C1440",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Kenya"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+      "URL": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261116_120617-1795265314.jpg?resize=1920%2C1440",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Sudan"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Sudan\u2019s elderly face hardship and heartbreak in a life of displacement",
       "URL": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement",
       "Category": "Status Quo",
@@ -5739,98 +5825,68 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-      "URL": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run",
+      "Headline": "Palestinians in Gaza brace for brutal winter amid Israeli aid restrictions, funding shortfalls",
+      "URL": "https://www.nbcnews.com/world/middle-east/displaced-palestinians-brace-brutal-winter-israels-aid-restrictions-fu-rcna609559",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306179254-1795265252.jpg?resize=1200%2C675",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261118-gaza-refugees-mb-1239-64dedc.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Australia"
+        "Israeli"
       ],
       "TriggerADM1": [
-        "England"
+        "Gaza"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "7,Usman Khawaja and David Warner taken off air over Australia\u2019s Sandpapergate",
-      "URL": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate",
-      "Category": "Rumour",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305632926-1795257284.jpg?resize=1200%2C675",
+      "Headline": "NBC News' Tom Llamas reports from China\u2019s Silicon Valley",
+      "URL": "https://www.nbcnews.com/nightly-news/video/inside-china-s-ai-powered-silicon-valley-273772101995",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1795045997051_nn_tll_shenzhen_tech_261118_S3_1920x1080-tstb9k.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Australia"
+        "China"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks",
-      "URL": "https://www.nbcnews.com/world/ukraine/russia-strikes-kyiv-bridges-ukraine-crimea-putin-zelenskyy-apec-trump-rcna610372",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg",
+      "Headline": "Mexico captures cartel boss \u2018El Chapo Isidro,\u2019 one of FBI\u2019s 10 most wanted",
+      "URL": "https://www.nbcnews.com/world/mexico/mexico-detains-top-cartel-boss-el-chapo-isidro-rcna610559",
+      "Category": "CONFLICT",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-mexico-el-chapo-isidro-capture-ww-1014-fea9a1.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russian"
+        "Mexico"
       ],
       "TriggerADM1": [
-        "Kyiv"
+        "Mexico"
       ],
-      "TriggerCity": [
-        "Kyiv"
-      ]
-    },
-    {
-      "Headline": "Force-fed by ICE\u2018Weak and dizzy\u2019: the secretive ICE force-feeding tactics that ended a Cuban father\u2019s hunger strike",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/753c8bfdbccb0b49e67ae5dbfac970caa7c20394/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45d3388ff0289ade4e800d5054ccdef3",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Cuban"
-      ],
-      "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "US policingUS police departments warn GTA VI users to \u2018keep it in the game\u2019",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+      "Headline": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+      "URL": "https://www.nbcnews.com/world/gaza/israeli-strike-kills-three-aid-gaza-witnesses-rcna610569",
       "Category": "Rumour",
-      "ImageURL": "https://i.guim.co.uk/img/media/589ef3157396f2a51452956b4b33336ffae07539/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e966834bd4477f233b3a99a722acc98",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-israeli-strike-gaza-world-kitchen-bf-1013-b469ff.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "Israeli"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Onlookers say botched Texas prison execution is like nothing they have ever seen",
-      "URL": "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
-      "Category": "Rumour",
-      "ImageURL": "https://i.guim.co.uk/img/media/4cafb92aa24ab1dd66791308efa6469d336ac8e2/17_0_1880_1504/master/1880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f75dc1b69094f060a6fba33143f561e1",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [],
       "TriggerADM1": [
-        "Texas"
+        "Gaza"
       ],
       "TriggerCity": []
     },
@@ -5895,64 +5951,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Special Marine Warning issued November 21 at 9:02AM EST until November 21 at 10:00AM EST by NWS Miami FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aa79831387852c3542fec17b8ee82215b65b9213.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 25.3155,
-      "Longitude": -81.1535,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "East"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Special Marine Warning issued November 21 at 8:54AM EST until November 21 at 9:30AM EST by NWS Key West FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4a00c67fc3e0b2b9a4728b2aa9e7b79dd9aca66c.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 25.227,
-      "Longitude": -81.53999999999999,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "West",
-        "East"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 21 at 5:05AM MST until November 21 at 11:00AM MST by NWS Salt Lake City UT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b1022fce1e5b4f066138e67c1613a6aad11f493e.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "North"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 21 at 2:37AM AKST until November 21 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f3eeca8195b0e594493c8390042baf36e0d67614.021.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 22 at 3:45AM AKST until November 23 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.04137e75506c591659f59bd6565a6d6fe3cd7cf3.010.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -5966,8 +5966,53 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Freeze Warning issued November 21 at 1:42AM MST until November 22 at 8:00AM MST by NWS Tucson AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d35fe0da814a4fe2e5ec7cbc8665bf9fe1dd680d.001.2",
+      "Headline": "High Wind Warning issued November 22 at 3:06AM AKST until November 23 at 9:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.02226020b38094a4902f3b53216639db687c4b09.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Watch issued November 22 at 12:38AM PST until November 24 at 4:00PM PST by NWS Medford OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.64f7c907d9ff3b3c34430883100d8656c44ad4dc.002.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Freeze Watch issued November 22 at 12:11AM CST until November 23 at 10:00AM CST by NWS Midland/Odessa TX",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b18fc283f1fa07c6cba1fe090583ea0e0b6aca3c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Freeze Warning issued November 21 at 5:59PM MST until November 22 at 9:00AM MST by NWS El Paso Tx/Santa Teresa NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.00abc4de7d9d803fbeb3433a7114789fae8abb04.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -5979,63 +6024,26 @@
         "Sa"
       ],
       "TriggerADM1": [
-        "San Pedro",
-        "Eastern"
+        "Southern",
+        "Southwest",
+        "Southwest",
+        "Eastern",
+        "Lakes",
+        "Northern",
+        "West",
+        "Central",
+        "East",
+        "Central",
+        "Southeast"
       ],
       "TriggerCity": [
-        "Tucson"
+        "El Paso",
+        "Mesa"
       ]
     },
     {
-      "Headline": "Freeze Warning issued November 20 at 10:49PM MST until November 21 at 9:00AM MST by NWS Salt Lake City UT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cf3fccc621e8ac269ff051639d0eff9f60f1763e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "Washington"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 20 at 3:01PM AKST until November 22 at 5:00AM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aec84fe800063f5cc649a320f642942282745067.021.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 20 at 3:01PM AKST until November 21 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aec84fe800063f5cc649a320f642942282745067.020.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 20 at 2:52PM PST until November 26 at 4:00PM PST by NWS San Francisco CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7c3009fb0ba23631e2ec9388cd109962b0cd83b6.001.1",
+      "Headline": "Coastal Flood Warning issued November 21 at 2:30PM PST until November 26 at 4:00PM PST by NWS San Francisco CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cf3ef7b560fc1df45b5251d5d1c411a194d493fe.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6059,8 +6067,8 @@
       ]
     },
     {
-      "Headline": "High Wind Watch issued November 20 at 12:55PM AKST until November 23 at 9:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.be689b51d5e3946189c11371cbd15c42367ad6c5.001.1",
+      "Headline": "Freeze Warning issued November 21 at 1:12PM MST until November 22 at 8:00AM MST by NWS Tucson AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.afaca8da5d1e01928d40da7d9520f4b92baa3f64.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6068,58 +6076,49 @@
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "United States"
+        "Sa",
+        "Sa"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 20 at 2:57AM AKST until November 21 at 5:00PM AKST by NWS Anchorage AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.83deef828dfd35360566967c061c71e2cce67b98.020.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
+      "TriggerADM1": [
+        "San Pedro",
+        "Eastern"
       ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "River discharge near Ranchi, India running 2.4x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=23.325005&longitude=85.32501",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 23.34316,
-      "Longitude": 85.3094,
-      "EventSource": "Open-Meteo Flood",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India"
-      ],
-      "TriggerADM1": [],
       "TriggerCity": [
-        "Ranchi"
+        "Tucson"
       ]
     },
     {
-      "Headline": "River discharge near Campo Grande, Brazil running 1.6x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-20.425&longitude=-54.624992",
+      "Headline": "River discharge near Douala, Cameroon running 1.8x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=4.0250015&longitude=9.725006",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": -20.44278,
-      "Longitude": -54.64639,
+      "Latitude": 4.04827,
+      "Longitude": 9.70428,
       "EventSource": "Open-Meteo Flood",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Brazil"
+        "Cameroon"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Campo Grande"
+        "Douala"
+      ]
+    },
+    {
+      "Headline": "River discharge near Yaound\u00e9, Cameroon running 3.1x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=3.8750038&longitude=11.525009",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 3.86667,
+      "Longitude": 11.51667,
+      "EventSource": "Open-Meteo Flood",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Cameroon"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": [
+        "Yaound\u00e9"
       ]
     },
     {
@@ -67204,110 +67203,71 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Army detonation of bomb-making chemicals in Iowa delayed indefinitely",
-      "URL": "https://www.nbcnews.com/video/army-detonation-of-bomb-making-chemicals-in-iowa-delayed-indefinitely-273940037981",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1795225820712_now_topstory_iowa_lead_detonation_261120_S3_1920x1080-zocz0u.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Iowa"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Harry KaneBayern confirm England captain \u2018out for next few months\u2019",
-      "URL": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4af0df2954609d9abd3e0c0deb753c9",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "England"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "\u2018Trust was hard won\u2019: Bell Pond, summer 1983, Worcester, Massachusetts \u2013 in pictures",
-      "URL": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer",
+      "Headline": "Kansas City Current win first NWSL championship, defeating Washington Spirit 2-1",
+      "URL": "https://www.nbcnews.com/sports/soccer/kansas-city-current-win-2026-nwsl-championship-beat-washington-spirit-rcna610643",
       "Category": "Sports Results",
-      "ImageURL": "https://i.guim.co.uk/img/media/e56feffc1b6274115dc7a1cf5739da51768090f0/0_0_4750_3799/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdb7a053d35d6cbc10d060ca5568db81",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-nwsl-soccer-championship-ww-1740-15eecb.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Massachusetts"
+        "Kansas",
+        "Washington"
+      ],
+      "TriggerCity": [
+        "Kansas City"
+      ]
+    },
+    {
+      "Headline": "At least four injured after rapper OsamaSon\u2019s New York show",
+      "URL": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-OsamaSon-louisville-ww-1322-032792.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 21 at 8:24AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.65767a90ea5c62b0d912efbe1ee365d6f65ec168.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 29.186,
-      "Longitude": -81.536,
-      "EventSource": "NWS Alert",
+      "Headline": "As it happenedLap-by-lap updates from an instant F1 classic in Nevada",
+      "URL": "https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/0e1e25e345ae136abd5b4d9c660839454e3b5265/50_0_3416_2735/master/3416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=341d41d871c86d4ffe209ddaa42e1a1e",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
       "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
+      "TriggerCountry": [],
       "TriggerADM1": [
-        "EST"
+        "Nevada"
       ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 21 at 8:12AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.507a6c0c3cd8c77e4305ecbd78ef4f9009e7a31e.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 28.982,
-      "Longitude": -81.402,
-      "EventSource": "NWS Alert",
+      "Headline": "Two New Jersey women indicted over alleged false claims of violent attack",
+      "URL": "https://www.theguardian.com/us-news/2026/nov/21/new-jersey-two-women-indicted",
+      "Category": "Status Quo",
+      "ImageURL": "https://i.guim.co.uk/img/media/a645c9f800ccfef531a9748aa51b6db75aa3eefc/221_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54ff5b5910b67ef4285a864b88a0d586",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
       "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
+      "TriggerCountry": [],
       "TriggerADM1": [
-        "EST"
+        "New Jersey"
       ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 21 at 8:09AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c87a4c49fd0ad32e034b10ff3b1d0346fabf2aa3.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 28.80399999999999,
-      "Longitude": -81.266,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 21 at 8:05AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.966a0f1d40ce48a62fc85e5044efd4e01181d431.001.1",
+      "Headline": "Flood Warning issued November 22 at 9:01AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.304e4b71ba25d3a4b54e90c9b51276843ee63e08.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": 28.692,
@@ -67325,8 +67285,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 21 at 7:56AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.805dcd84ca231b9a32867908d0ad63ddd2749585.001.1",
+      "Headline": "Flood Warning issued November 22 at 8:52AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.29b066556e6e78ad845c927797cf35a06f45248b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": 28.406,
@@ -67344,8 +67304,8 @@
       ]
     },
     {
-      "Headline": "Freeze Warning issued November 21 at 3:05AM PST until November 21 at 8:00AM PST by NWS Medford OR",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.98685fa53ec102392145bd613f21c68ccbab28cb.001.1",
+      "Headline": "High Wind Watch issued November 22 at 3:49AM PST until November 24 at 10:00PM PST by NWS Medford OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2428ed677e1076b15887db83a67d5718326e54e0.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67361,8 +67321,46 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Freeze Warning issued November 20 at 11:52PM MST until November 21 at 9:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6cb3d19617e6b1dc3bcbbd1451283aff36f28d64.001.1",
+      "Headline": "High Wind Watch issued November 22 at 3:49AM PST until November 24 at 7:00PM PST by NWS Medford OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2428ed677e1076b15887db83a67d5718326e54e0.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "South",
+        "Central",
+        "Oregon"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Storm Watch issued November 22 at 12:46AM PST until November 24 at 4:00PM PST by NWS Portland OR",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d981141a82a1ef00585c2488ead0127fd925b17d.003.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Portland"
+      ],
+      "TriggerCity": [
+        "Portland"
+      ]
+    },
+    {
+      "Headline": "Freeze Warning issued November 21 at 11:37PM MST until November 22 at 9:00AM MST by NWS Phoenix AZ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.eecfb956d233eecfa61084e33a0965068db098a8.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67380,27 +67378,8 @@
       ]
     },
     {
-      "Headline": "Freeze Warning issued November 20 at 11:52PM MST until November 22 at 9:00AM MST by NWS Phoenix AZ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6cb3d19617e6b1dc3bcbbd1451283aff36f28d64.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Southeast"
-      ],
-      "TriggerCity": [
-        "Phoenix"
-      ]
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 21 at 1:30AM EST until November 22 at 7:00AM EST by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a6fa5086145354d0ed1a90a690364b8badc81719.003.1",
+      "Headline": "Coastal Flood Warning issued November 22 at 1:20AM EST until November 23 at 5:00AM EST by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0bd7583406e3892dc93cdd490c967674b936e7b8.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67412,45 +67391,67 @@
       ],
       "TriggerADM1": [
         "EST",
-        "EST",
-        "Eastern"
+        "EST"
       ],
       "TriggerCity": [
         "Jacksonville"
       ]
     },
     {
-      "Headline": "High Wind Watch issued November 20 at 12:55PM AKST until November 23 at 12:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.be689b51d5e3946189c11371cbd15c42367ad6c5.002.1",
+      "Headline": "Flood Warning issued November 21 at 8:36PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0fe566f7de9bb701b753de4d1259546b366d1ed3.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 28.982,
+      "Longitude": -81.402,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Southern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "River discharge near Istanbul, Republic of T\u00fcrkiye running 1.6x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=41.025&longitude=28.925003",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 41.01384,
-      "Longitude": 28.94966,
-      "EventSource": "Open-Meteo Flood",
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Istanbul"
+        "EST"
       ],
       "TriggerCity": [
-        "Istanbul"
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 21 at 8:30PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.54d707ba929816c75bd2e216944c0e782533a8f2.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 28.80399999999999,
+      "Longitude": -81.266,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 21 at 8:21PM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2434f7f90123d06e6e444ba09353499a761ad91c.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 29.186,
+      "Longitude": -81.536,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
       ]
     },
     {
@@ -111072,25 +111073,10 @@
   ],
   "4": [
     {
-      "Headline": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
-      "URL": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+      "Headline": "Las Vegas GPVerstappen claims dramatic triumph after Ferrari drivers collide",
+      "URL": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261119-pacific-palisades-vsb-1934-56c4e2.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Los Angeles"
-      ]
-    },
-    {
-      "Headline": "Super Bowl of F1How Las Vegas GP hit the jackpot after turbulent start",
-      "URL": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot",
-      "Category": "Status Quo",
-      "ImageURL": "https://i.guim.co.uk/img/media/6a397f4d6d5143a0125acf6622962aa546535091/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=def286638f4e84aaad0b4fdeedd180ef",
+      "ImageURL": "https://i.guim.co.uk/img/media/d0a9ab789d250cb38b422c64b38f325f59d9c741/503_0_4225_3380/master/4225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=700b47d7d361a7820962fd212438d573",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
@@ -111138,7 +111124,7 @@
   ],
   "locationOptions": {
     "TriggerRegion": [
-      "APEC",
+      "ASEAN",
       "Africa",
       "Arctic",
       "EU",
@@ -111154,6 +111140,7 @@
       "Argentina",
       "Australia",
       "Bangladesh",
+      "Belgium",
       "Benin",
       "Bolivia",
       "Botswana",
@@ -111172,17 +111159,17 @@
       "Congo",
       "Costa Rica",
       "Cuba",
-      "Cuban",
-      "Denmark",
       "Dutch",
       "Ecuador",
       "Egypt",
+      "Estonia",
       "Ethiopia",
       "Finland",
       "France",
       "Gabon",
       "Georgia",
       "German",
+      "Germany",
       "Ghana",
       "Greece",
       "Guatemala",
@@ -111190,18 +111177,23 @@
       "Haitian",
       "Iceland",
       "India",
+      "Indian",
       "Indonesia",
       "Iran",
+      "Israel",
+      "Israeli",
       "Italy",
       "Japan",
       "Kazakhstan",
       "Kenya",
       "Laos",
+      "Lebanese",
       "Liberia",
       "Madagascar",
       "Malawi",
       "Mali",
       "Mauritania",
+      "Mexican",
       "Mexico",
       "Moldova",
       "Mongolia",
@@ -111210,14 +111202,15 @@
       "Namibia",
       "Nicaragua",
       "Niger",
+      "Nigeria",
       "North Macedonia",
-      "Pakistan",
       "Papua New Guinea",
       "Paraguay",
       "Peru",
       "Philippines",
       "Poland",
       "Portugal",
+      "Qatari",
       "ROC",
       "Roc",
       "Romania",
@@ -111228,20 +111221,14 @@
       "Senegal",
       "Serbia",
       "South Africa",
-      "South Sudan",
       "Sudan",
       "Swiss",
       "Tanzania",
       "Thailand",
       "Trinidad and Tobago",
       "Turkey",
-      "U.K.",
-      "U.S.",
-      "UK",
       "US",
-      "Uganda",
       "Ukraine",
-      "Ukrainian",
       "United States",
       "Vanuatu",
       "Venezuela",
@@ -111256,6 +111243,7 @@
       "Arkansas",
       "BAY",
       "Bay",
+      "Berlin",
       "CENTRAL",
       "California",
       "Cascade",
@@ -111268,7 +111256,6 @@
       "EST",
       "East",
       "Eastern",
-      "England",
       "Florida",
       "Gaza",
       "Georgia",
@@ -111278,11 +111265,9 @@
       "Illinois",
       "Indiana",
       "Iowa",
-      "Istanbul",
       "Kaliningrad",
       "Kansas",
       "Kentucky",
-      "Kyiv",
       "La Paz",
       "Lac",
       "Lakes",
@@ -111292,6 +111277,7 @@
       "Maryland",
       "Masaya",
       "Massachusetts",
+      "Meta",
       "Mexico",
       "Michigan",
       "Minnesota",
@@ -111319,6 +111305,7 @@
       "Pasco",
       "Pennsylvania",
       "Pool",
+      "Portland",
       "SOUTH",
       "Saint George",
       "San Juan",
@@ -111332,6 +111319,7 @@
       "South Dakota",
       "Southeast",
       "Southern",
+      "Southwest",
       "Tennessee",
       "Texas",
       "Tobago",
@@ -111355,17 +111343,17 @@
       "AUSTIN",
       "Athens",
       "Austin",
+      "Berlin",
       "Birmingham",
-      "Campo Grande",
       "Columbus",
+      "Douala",
       "El Paso",
       "FRESNO",
       "Fresno",
       "Hamilton",
       "Houston",
-      "Istanbul",
       "Jacksonville",
-      "Kyiv",
+      "Kansas City",
       "La Paz",
       "Las Vegas",
       "Leeds",
@@ -111374,14 +111362,15 @@
       "Melbourne",
       "Mesa",
       "Phoenix",
-      "Ranchi",
+      "Portland",
       "SAN FRANCISCO",
       "San Diego",
       "San Francisco",
       "Tucson",
       "VAN",
       "Valencia",
-      "Van"
+      "Van",
+      "Yaound\u00e9"
     ]
   },
   "allLocations": {
