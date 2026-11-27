@@ -1,6 +1,55 @@
 {
   "1": [
     {
+      "Headline": "Thailand presses Myanmar over mining pollution",
+      "URL": "https://www.dw.com/en/arsenic-in-the-water-thailand-presses-myanmar-over-mining-pollution/a-80074295",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/80077709_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Thailand",
+        "Myanmar"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Georgia: Police clash with Besiktas fans at Israel club game",
+      "URL": "https://www.dw.com/en/georgia-police-clash-with-besiktas-fans-at-israel-club-game/a-80076111",
+      "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/80072900_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Georgia",
+        "Israel"
+      ],
+      "TriggerADM1": [
+        "Georgia"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Trump says he urged Putin to 'pull back' military aggression in Europe",
+      "URL": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/79990968_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
       "Headline": "Russia-Ukraine war extends to the Baltic Sea and the Mediterranean",
       "URL": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604",
       "Category": "Status Quo",
@@ -17,26 +66,26 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Thawing of relations: Hungary and Ukraine turn a new page",
-      "URL": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/80040962_6.jpg",
+      "Headline": "Philippines: Indigenous communities fear eviction for US-led AI hub",
+      "URL": "https://www.dw.com/en/philippines-indigenous-communities-fear-eviction-for-us-led-ai-hub/video-80077918",
+      "Category": "CONFLICT",
+      "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Hungary",
-        "Ukraine"
+        "Philippines",
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Breaking bad \u2014 Meth made in Africa",
-      "URL": "https://www.dw.com/en/breaking-bad-meth-made-in-africa/video-79978791",
+      "Headline": "Africa's opposition voices face growing pressure",
+      "URL": "https://www.dw.com/en/africas-opposition-voices-face-growing-pressure/a-80063893",
       "Category": "Status Quo",
-      "ImageURL": null,
+      "ImageURL": "https://static.dw.com/image/79731528_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
@@ -48,36 +97,153 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Fact check: Deepfakes, 'US abandons Taiwan' claims target island vote",
-      "URL": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/80033774_6.jpg",
+      "Headline": "EU-Indonesia trade deal opens new markets, but challenges remain",
+      "URL": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/80012688_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
-      "TriggerRegion": [],
+      "TriggerRegion": [
+        "EU"
+      ],
       "TriggerCountry": [
-        "US",
-        "Taiwan"
+        "Indonesia"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Ukraine: Poland to create no-fly zone near Ukraine border",
-      "URL": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border/live-80047122",
+      "Headline": "This weekly podcast is a deep dive into the twists and turns of European current affairs, politics and culture.",
+      "URL": "https://www.dw.com/en/inside-europe/program-19041931",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/65612924_6.jpg",
+      "ImageURL": "https://static.dw.com/image/59113315_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "At odds over budget, EU leaders break off summit early",
+      "URL": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/80062083_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "EU"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Resolve tariff concerns in trade talks \u2014 India tells US",
+      "URL": "https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202",
+      "Category": "CONFLICT",
+      "ImageURL": "https://static.dw.com/image/80056119_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Ukraine",
-        "Poland",
+        "India",
+        "US"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "\u2018Borrowing to make ends meet\u2019: The rising cost of living in Europe",
+      "URL": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09233e37-1795760958_2ee403-1795761015.jpg?resize=1200%2C630&quality=80",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Russian sabotage attacks in Europe up 16% as Ukraine supply lines targeted, new report says",
+      "URL": "https://www.nbcnews.com/world/russia/russian-sabotage-attacks-europe-16-ukraine-supply-lines-targeted-new-r-rcna611533",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260808-germany-aiport-drone-ch-1102-c38853.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [
+        "Europe"
+      ],
+      "TriggerCountry": [
+        "Russian",
         "Ukraine"
       ],
       "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Two Italians killed in attack on Kuwait site, Iran denies involvement",
+      "URL": "https://www.nbcnews.com/world/middle-east/two-italians-killed-attack-kuwait-site-iran-denies-involvement-rcna611491",
+      "Category": "CONFLICT",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-Rheinmetall-rs-9dae66.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Kuwait",
+        "Iran"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 27 at 4:00AM AKST until November 28 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9d8108cd8bbb236dcc9534162c2dccc43317f39b.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Western"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 26 at 4:00PM AKST until November 27 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c44e5b2cbb35ce182bf4ef828a2daa6cf6a40836.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [
+        "Arctic"
+      ],
+      "TriggerCountry": [
+        "US"
+      ],
+      "TriggerADM1": [
+        "Western"
+      ],
       "TriggerCity": []
     },
     {
@@ -100,65 +266,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Heavy Freezing Spray Warning issued November 25 at 4:00PM AKST until November 26 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.de297488c5edda353b0b7d0f605872b0265f9882.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [
-        "Arctic"
-      ],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 25 at 4:00AM AKST until November 26 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.98a6338e0ecc79fc22f9c84677fcf26d2b08b1ee.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [
-        "Arctic"
-      ],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
       "Headline": "Heavy Freezing Spray Warning issued November 20 at 4:00PM AKST until November 28 at 5:00AM AKST by NWS Fairbanks AK",
       "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e223157a6e1ae839a3129fb0c0c2be643bcde0fa.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [
-        "Arctic"
-      ],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 20 at 4:00AM AKST until November 27 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.490ebf70bfce45a8a35590e51ce6d4fcfd4d0c6a.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -5437,31 +5546,61 @@
   ],
   "2": [
     {
-      "Headline": "Russia's independent Novaya Gazeta shuts Moscow newsroom",
-      "URL": "https://www.dw.com/en/russias-independent-novaya-gazeta-shuts-moscow-newsroom/a-79899827",
-      "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/79902470_6.jpg",
+      "Headline": "Philippines: VP Duterte says father's ICC case 'not a fair trial'",
+      "URL": "https://www.dw.com/en/philippines-vp-duterte-says-fathers-icc-case-not-a-fair-trial/a-80074359",
+      "Category": "Rumour",
+      "ImageURL": "https://static.dw.com/image/80075315_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Russia"
+        "Philippines"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Mass protests in Kurdish Irbil against Iraqi government reform plans",
-      "URL": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994",
+      "Headline": "The December 5 election will test the appeal of Gambia's opposition and the country's progress on democratic reform.",
+      "URL": "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/80066528_6.jpg",
+      "ImageURL": "https://static.dw.com/image/63383870_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Iraqi"
+        "Gambia"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Vietnam has voted to abolish the death penalty for six more crimes, continuing a trend restricting capital punishment.",
+      "URL": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/68793763_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Vietnam"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Truck loses control on US highway",
+      "URL": "https://www.dw.com/en/truck-loses-control-on-us-highway/video-80078724",
+      "Category": "Status Quo",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "US"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
@@ -5482,25 +5621,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Iranian drone kills 2 Italian Rheinmetall workers in Kuwait",
-      "URL": "https://www.dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974",
-      "Category": "CONFLICT",
-      "ImageURL": "https://static.dw.com/image/76620712_6.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Iranian",
-        "Italian",
-        "Kuwait"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Health issues delay trial of Berlin woman accused of spying for Russia",
-      "URL": "https://www.dw.com/en/health-issues-delay-trial-of-berlin-woman-accused-of-spying-for-russia/a-80057677",
+      "Headline": "Trial of Berlin woman accused of spying for Russia begins after delay",
+      "URL": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677",
       "Category": "Status Quo",
       "ImageURL": "https://static.dw.com/image/75618243_6.jpg",
       "Latitude": null,
@@ -5518,136 +5640,120 @@
       ]
     },
     {
-      "Headline": "German chancellor calls Russia's nuclear plans in space 'shocking'",
-      "URL": "https://www.dw.com/en/german-chancellor-calls-russias-nuclear-plans-in-space-shocking/video-80041883",
-      "Category": "CONFLICT",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "German",
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Russia plans to launch nuke-armed satellite into space, reports say",
-      "URL": "https://www.dw.com/en/russia-plans-to-launch-nuke-armed-satellite-into-space-reports-say/video-80041778",
-      "Category": "Rumour",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Russia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Exploring Georgia's abandoned Soviet-era resort town of Tskaltubo",
-      "URL": "https://www.dw.com/en/exploring-georgias-abandoned-soviet-era-resort-town-of-tskaltubo/video-80006367",
+      "Headline": "Determined residents work to rebuild Syria's ancient city of Palmyra",
+      "URL": "https://www.dw.com/en/determined-residents-work-to-rebuild-syrias-ancient-city-of-palmyra/video-80044273",
       "Category": "Status Quo",
-      "ImageURL": "https://static.dw.com/image/80006527_6.jpg",
+      "ImageURL": "https://static.dw.com/image/73621524_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Georgia"
+        "Syria"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Mexico's national symbol, the axolotl, is under threat. But conservationists are working to restore its native habitat.",
+      "URL": "https://www.dw.com/en/can-mexicos-superstar-axolotl-salamander-still-be-saved/video-80000372",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/77465725_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Mexico"
       ],
       "TriggerADM1": [
-        "Georgia"
+        "Mexico"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Qatari, Egyptian leaders discuss Gaza \u2018ceasefire\u2019 and regional security",
-      "URL": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security",
+      "Headline": "\u2018You can\u2019t stop it\u2019: Indians embrace Pakistani dramas, defying bans",
+      "URL": "https://www.aljazeera.com/news/2026/11/27/you-cant-stop-it-indians-embrace-pakistani-dramas-defying-bans",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/Dar-e-Nijat-party-Delhi-1795760374.jpeg?resize=1920%2C1440",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Qatari",
-        "Egyptian"
+        "Pakistani"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+      "URL": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=1920%2C1440",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Israeli",
+        "Israeli"
       ],
       "TriggerADM1": [
-        "Gaza"
+        "Western"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Thanksgiving dinner costs rise, putting pressure on US households",
-      "URL": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households",
+      "Headline": "Old wounds reopen as Kyrgyzstan\u2019s Osh embraces a new urban project",
+      "URL": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project",
       "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06e66b48388-1795614315.jpg?resize=1920%2C1440",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/USD20260506_USD3290-1794299084.jpg?resize=1920%2C1440",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "US"
+        "Kyrgyzstan"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
-      "URL": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261120-WA0001-1795612088.jpg?resize=1200%2C630",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sri Lanka"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Zambia bans protest against push to remove presidential term limits",
-      "URL": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2021/08/ZambiaElection-003.jpg?resize=1920%2C1440",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Zambia"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "6,World reacts to Trump\u2019s new tariffs as US stocks tumble",
-      "URL": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble",
-      "Category": "Status Quo",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0717159b5cc-1795626773.jpg?resize=1920%2C1440",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "US"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Army says detonation of bomb chemicals in Iowa a \u2018success\u2019",
-      "URL": "https://www.nbcnews.com/news/us-news/army-says-detonation-bomb-chemicals-iowa-success-rcna611434",
+      "Headline": "2,Costa Rica denies entry to UN\u2019s Albanese over \u2018links to terrorist acts\u2019",
+      "URL": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist",
       "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261125-iowa-ammunition-plant-mn-1030-0d6e15.jpg",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0e2a6c-1779313260_6da276-1779323018.jpg?resize=1200%2C630&quality=80",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Costa Rica"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Putin hammers Ukraine with deadly strikes after Trump calls him \u2018my friend\u2019",
+      "URL": "https://www.nbcnews.com/world/ukraine/trump-praise-putin-friend-ukraine-strikes-war-kushner-shenzhen-rcna610859",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261127-ukr-rs-1dc74a.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Ukraine"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Test results from samples taken after Iowa detonation are expected soon, EPA says",
+      "URL": "https://www.nbcnews.com/news/us-news/test-results-samples-taken-iowa-detonation-are-expected-soon-epa-says-rcna611525",
+      "Category": "Rumour",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261127-iowa-rs-15cde5.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
@@ -5659,66 +5765,34 @@
       "TriggerCity": []
     },
     {
-      "Headline": "French film star Gerard Depardieu to stand trial for rape, lawyer says",
-      "URL": "https://www.nbcnews.com/world/france/french-film-star-gerard-depardieu-stand-trial-rape-lawyer-says-rcna611428",
-      "Category": "Rumour",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-gerard-depardieu-mb-0950-f859fd.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "French"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Trump proposes a new wave of tariffs on China and other trade partners",
-      "URL": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087",
+      "Headline": "Attack on Saudi Aramco\u2019s Jazan refinery kills worker, halts some operations",
+      "URL": "https://www.nbcnews.com/world/saudi-arabia/attack-saudi-aramcos-jazan-refinery-kills-worker-halts-operations-rcna611484",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-trump-xi-rs-5b9856.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-jazan-rs-5fb040.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "China"
+        "Saudi"
       ],
       "TriggerADM1": [],
       "TriggerCity": []
     },
     {
-      "Headline": "Israel kills nine in Gaza, including Hamas-appointed deputy education minister",
-      "URL": "https://www.nbcnews.com/world/gaza/israel-kills-nine-gaza-hamas-appointed-deputy-education-minister-offic-rcna611420",
+      "Headline": "Pregnant inmate escapes from New Mexico corrections facility",
+      "URL": "https://www.nbcnews.com/news/us-news/pregnant-inmate-escapes-new-mexico-corrections-facility-rcna611443",
       "Category": "CONFLICT",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-gaza-strike-mb-0849-22d7ac.jpg",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-Rebecca-Taylor-rs-2623d0.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Israel"
+        "Mexico"
       ],
       "TriggerADM1": [
-        "Gaza"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Massachusetts turkey farm shut down by health officials days before Thanksgiving",
-      "URL": "https://www.nbcnews.com/news/us-news/mass-turkey-farm-shut-health-officials-days-thanksgiving-rcna611290",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261125-belwing-turkey-farm-massachusetts-mn-1000-80b8c6.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "turkey"
-      ],
-      "TriggerADM1": [
-        "Massachusetts"
+        "New Mexico"
       ],
       "TriggerCity": []
     },
@@ -5783,272 +5857,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Flood Warning issued November 26 at 11:14AM EST until November 27 at 8:00PM EST by NWS Albany NY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.bd5fea7bd93b335c5cc58e024c85a8a225a76713.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 41.804,
-      "Longitude": -73.96,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Dutch"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Ulster"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 26 at 9:52AM CST until November 26 at 12:00PM CST by NWS St Louis MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.78b0aa18ed8b5dafdcd2117924d2b30a86efe85b.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 10:05AM EST until November 26 at 6:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e64ff9d17666f53ba8770f8eadb627f0216a2170.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Washington",
-        "Bay",
-        "north",
-        "Bay",
-        "Bay",
-        "North",
-        "Bay",
-        "North",
-        "Bay",
-        "Eastern",
-        "Bay"
-      ],
-      "TriggerCity": [
-        "Baltimore",
-        "Baltimore",
-        "Tangier"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued November 26 at 10:03AM EST until November 26 at 4:00PM EST by NWS Blacksburg VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.38ef53f2ac5a76c872590e157560a6fdbb116c76.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Roc",
-        "Roc"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Charlotte"
-      ],
-      "TriggerCity": [
-        "Charlotte"
-      ]
-    },
-    {
-      "Headline": "Lakeshore Flood Warning issued November 26 at 9:59AM EST until November 27 at 4:00AM EST by NWS Cleveland OH",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.608f24f29a21e4d04cbedc27d1d8fd6f7260685f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Ottawa"
-      ]
-    },
-    {
-      "Headline": "Freeze Watch issued November 26 at 8:04AM CST until November 27 at 7:00AM CST by NWS Mobile AL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5b5e4cb134210c72bdd330528b30bebc5af3c446.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 26 at 7:56AM CST until November 26 at 3:00PM CST by NWS Paducah KY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3c3a95ddf92af1a0b898c3adfb58c96bbd73ed38.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 8:46AM EST until November 27 at 1:00AM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3d7760cc715caf03eef55a82ebf42a07b2768908.007.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 8:41AM EST until November 27 at 1:00AM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1d23fdecf24095a3aa71cb2b060327a2c8f4a235.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Delaware",
-        "Western",
-        "Eastern",
-        "Western",
-        "Eastern"
-      ],
-      "TriggerCity": [
-        "Salem",
-        "Philadelphia"
-      ]
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 3:07AM HST until November 27 at 3:00AM HST by NWS Honolulu HI",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c10c3267b08f237b44f8255f084614a064e26c41.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 26 at 3:46AM AKST until November 27 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3555198127251a9b670c7f2f3600c3b20fb5d30a.015.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 26 at 3:45AM AKST until November 27 at 5:00AM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.50c9faec58f328e896ef5ec16dfdb5c10ed343c5.005.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 4:42AM EST until November 26 at 10:00PM EST by NWS State College PA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.11fdd4087fda74c125bc4808a683e2180286a497.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Lebanon"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 1:32AM PST until November 27 at 1:00PM PST by NWS San Diego CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7a7403d2b0884cc34d388edc5f21165418406cd9.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "San Diego"
-      ]
-    },
-    {
-      "Headline": "Winter Storm Watch issued November 26 at 12:59AM MST until November 28 at 11:00AM MST by NWS Riverton WY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b95279b6cc613295db5af8e5ed73bf963fadf6c3.001.1",
+      "Headline": "Winter Storm Warning issued November 27 at 8:33AM MST until November 28 at 11:00AM MST by NWS Riverton WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.91f2ee4d3e2b06a2fa5ff0221cdc31339ce70882.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6066,8 +5876,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 2:57AM EST until November 27 at 4:00AM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2fbd7072619a3b3593b2468927a2e5b241dc6128.006.1",
+      "Headline": "High Wind Warning issued November 27 at 8:26AM MST until November 28 at 11:00AM MST by NWS Riverton WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.308e36b2ed162ad344ef16d4210c2a457375be1c.002.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6075,19 +5885,44 @@
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Sa"
+        "United States"
       ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Salem"
-      ]
+      "TriggerADM1": [],
+      "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued November 25 at 11:54PM PST until November 26 at 4:00PM PST by NWS San Francisco CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c5673f938e83f2d9b35ef02225957f60afaac099.003.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 27 at 3:45AM AKST until November 28 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3818ea5c8a2ac8f7c8372874ce664ace7b47d96d.010.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Winter Storm Warning issued November 27 at 5:19AM MST until November 28 at 12:00PM MST by NWS Billings MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ae6ef692c6ae8d5dda217b1828d7aed94ac2bcb0.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 4:03AM PST until November 27 at 1:00PM PST by NWS San Diego CA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aa0af5b019e270ef0ef960408031798236435d3a.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6098,61 +5933,15 @@
         "Sa",
         "Sa"
       ],
-      "TriggerADM1": [
-        "North",
-        "Bay",
-        "Bay"
-      ],
+      "TriggerADM1": [],
       "TriggerCity": [
-        "San Francisco",
-        "San Francisco"
+        "San Diego",
+        "San Diego"
       ]
     },
     {
-      "Headline": "Storm Warning issued November 26 at 2:36AM EST until November 27 at 1:00AM EST by NWS Upton NY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ca8c1b0325aef956858d1f98759721a618b323f7.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 2:26AM EST until November 26 at 7:00PM EST by NWS Pittsburgh PA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.68b1581b0286baf532290094c1de617b7cffd09f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "India"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Westmoreland",
-        "Indiana",
-        "Eastern",
-        "Western",
-        "Eastern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 12:23AM MST until November 27 at 2:00PM MST by NWS Great Falls MT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cfb80d0773efc3078002a6682bce5d6787e3e274.003.1",
+      "Headline": "Winter Storm Warning issued November 27 at 4:23AM MST until November 29 at 5:00AM MST by NWS Grand Junction CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.134077e7a90264d940bf0b4808840bb1a6704dee.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6166,8 +5955,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Winter Storm Warning issued November 25 at 11:23PM MST until November 28 at 12:00PM MST by NWS Billings MT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ac8fada5649451f84541286d6a1b29dc85a646df.001.1",
+      "Headline": "High Wind Warning issued November 27 at 3:59AM MST until November 27 at 2:00PM MST by NWS Great Falls MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5c5578f88544e7af422b639331c282eb825fc31c.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6181,90 +5970,27 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Winter Storm Warning issued November 25 at 10:34PM CST until November 26 at 3:00PM CST by NWS Springfield MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.14a72e1be054e679e3b4d6de0efa1e56ed4dab5f.001.2",
+      "Headline": "Coastal Flood Warning issued November 27 at 1:22AM PST until November 27 at 11:00AM PST by NWS Seattle WA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.71902bbada6c2bc4fcdf2fccebf6ffb67f89b736.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 25 at 3:49PM AKST until November 26 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a9f49479faf5ae2f38e580f72051d8ced8eeb59b.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Heavy Freezing Spray Warning issued November 25 at 3:48PM AKST until November 26 at 5:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6b600c0dadadccda9978d74cb5df0a6942561837.008.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 25 at 10:33AM PST until November 26 at 6:00PM PST by NWS Sacramento CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.26caa66b93241cd914dcbd29bbce0b5622bfff1d.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 38.03500000000001,
-      "Longitude": -121.642,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Sa",
-        "Sa",
-        "Sa"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Sacramento",
-        "Sacramento"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 25 at 9:50AM PST until November 26 at 6:00PM PST by NWS Sacramento CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a3d269831a580f2e789e94f5328183a80c2c40b0.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 38.11476190476191,
-      "Longitude": -122.0690476190476,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
         "Sa"
       ],
-      "TriggerADM1": [],
+      "TriggerADM1": [
+        "San Juan"
+      ],
       "TriggerCity": [
-        "Sacramento"
+        "Seattle"
       ]
     },
     {
-      "Headline": "The Winter Storm Watch has been replaced. Please see the latest information from NWS Paducah KY on this developing situation.",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b3f8a01331c1baaa2e71675e4d42831363522e16.001.1",
+      "Headline": "Winter Storm Warning issued November 27 at 1:09AM MST until November 29 at 12:00AM MST by NWS Cheyenne WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.940b638addd3abea54881efa29ea65736947ff1b.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -6278,71 +6004,86 @@
       "TriggerCity": []
     },
     {
-      "Headline": "River discharge near Bras\u00edlia, Brazil running 1.8x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-15.774998&longitude=-47.924988",
+      "Headline": "High Wind Watch issued November 26 at 11:32PM MST until November 28 at 5:00PM MST by NWS Goodland KS",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.01c92a8bffe9b948cc24cd08a23e8f4db553452a.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": -15.77972,
-      "Longitude": -47.92972,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 26 at 9:57PM EST until November 27 at 8:00PM EST by NWS Albany NY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b0aeafa4aa84d35825450be6d9aaaf3bab93b076.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 41.804,
+      "Longitude": -73.96,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "Dutch"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Ulster"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Heavy Freezing Spray Warning issued November 26 at 3:48PM AKST until November 27 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.eed42829ecae461e778743911c88fb372b6357bd.005.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "River discharge near Ibadan, Nigeria running 2.1x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=7.375&longitude=3.925003",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 7.37756,
+      "Longitude": 3.90591,
       "EventSource": "Open-Meteo Flood",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "Brazil"
+        "Niger"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Bras\u00edlia"
+        "Ibadan"
       ]
     },
     {
-      "Headline": "River discharge near Madurai, India running 1.9x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=9.925003&longitude=78.125",
+      "Headline": "River discharge near Yaound\u00e9, Cameroon running 1.8x above its typical range, indicating elevated flood risk",
+      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=3.8750038&longitude=11.525009",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": 9.919,
-      "Longitude": 78.11953,
+      "Latitude": 3.86667,
+      "Longitude": 11.51667,
       "EventSource": "Open-Meteo Flood",
       "TriggerRegion": [],
       "TriggerCountry": [
-        "India"
+        "Cameroon"
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Madurai"
-      ]
-    },
-    {
-      "Headline": "River discharge near Goi\u00e2nia, Brazil running 1.8x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=-16.675&longitude=-49.274994",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": -16.67861,
-      "Longitude": -49.25389,
-      "EventSource": "Open-Meteo Flood",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Brazil"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Goi\u00e2nia"
-      ]
-    },
-    {
-      "Headline": "River discharge near Asmara, Eritrea running 2.0x above its typical range, indicating elevated flood risk",
-      "URL": "https://open-meteo.com/en/docs/flood-api?latitude=15.325005&longitude=38.925003",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 15.33805,
-      "Longitude": 38.93184,
-      "EventSource": "Open-Meteo Flood",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "Eritrea"
-      ],
-      "TriggerADM1": [],
-      "TriggerCity": [
-        "Asmara"
+        "Yaound\u00e9"
       ]
     },
     {
@@ -67429,6 +67170,38 @@
   ],
   "3": [
     {
+      "Headline": "New York Archdiocese to pay $800 million to sex abuse survivors",
+      "URL": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347",
+      "Category": "Status Quo",
+      "ImageURL": "https://static.dw.com/image/79753331_6.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "New York"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Protests in Irbil as Baghdad seeks control over Kurdish region",
+      "URL": "https://www.dw.com/en/protests-in-irbil-as-baghdad-seeks-control-over-kurdish-region/video-80067795",
+      "Category": "Status Quo",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Baghdad"
+      ],
+      "TriggerCity": [
+        "Baghdad"
+      ]
+    },
+    {
       "Headline": "California pier partially collapses",
       "URL": "https://www.dw.com/en/california-pier-partially-collapses/video-80061669",
       "Category": "Status Quo",
@@ -67444,50 +67217,53 @@
       "TriggerCity": []
     },
     {
-      "Headline": "7,Six killed, including children, in plane crash off Mississippi coast",
-      "URL": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b078c9edba4c-1795656862.jpg?resize=1920%2C1440",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Mississippi"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Mississippi plane crash victims were Florida family returning from a fishing trip",
-      "URL": "https://www.nbcnews.com/news/us-news/mississippi-plane-crash-victims-members-prominent-florida-family-rcna611318",
-      "Category": "Natural Disaster",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261125-mississippi-plane-crash-knox-mn-1410-8f12d3.jpg",
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": null,
-      "TriggerRegion": [],
-      "TriggerCountry": [],
-      "TriggerADM1": [
-        "Mississippi",
-        "Florida"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Al Gore returning to roots to become owner of Tennessee newspaper",
-      "URL": "https://www.nbcnews.com/news/us-news/al-gore-owner-tennessee-newsaper-rcna611232",
+      "Headline": "Macy's postpones New York Thanksgiving Day Parade amid extreme weather",
+      "URL": "https://www.dw.com/en/macys-postpones-new-york-thanksgiving-day-parade-amid-extreme-weather/video-80068243",
       "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261124-al-gore-mn-2015-244b9a.jpg",
+      "ImageURL": "https://static.dw.com/image/80067671_6.jpg",
       "Latitude": null,
       "Longitude": null,
       "EventSource": null,
       "TriggerRegion": [],
       "TriggerCountry": [],
       "TriggerADM1": [
-        "Tennessee"
+        "New York"
       ],
       "TriggerCity": []
+    },
+    {
+      "Headline": "Manchester United trigger Bruno Fernandes contract extension to 2028",
+      "URL": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-trigger-bruno-fernandes-contract-extension-to-2028",
+      "Category": "Status Quo",
+      "ImageURL": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-03T213146Z_518157365_UP1EMB31NSWHK_RTRMADP_3_SOCCER-CHAMPIONS-MUN-ROM-1795789180.jpg?resize=1920%2C1440",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Manchester"
+      ],
+      "TriggerCity": [
+        "Manchester"
+      ]
+    },
+    {
+      "Headline": "Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control",
+      "URL": "https://www.nbcnews.com/world/middle-east/thousands-protest-irbil-baghdad-moves-seize-kurdish-oil-border-control-rcna611489",
+      "Category": "Status Quo",
+      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-irbil-rs-a1f9ee.jpg",
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": null,
+      "TriggerRegion": [],
+      "TriggerCountry": [],
+      "TriggerADM1": [
+        "Baghdad"
+      ],
+      "TriggerCity": [
+        "Baghdad"
+      ]
     },
     {
       "Headline": "Wisconsin reports 3rd measles death, as illnesses spread to the general public",
@@ -67505,28 +67281,28 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Winter Storm Warning issued November 26 at 10:08AM CST until November 26 at 9:00PM CST by NWS Nashville TN",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c67307bbc4254892f30402442152ef446eeefc85.001.2",
+      "Headline": "Flood Warning issued November 27 at 10:50AM EST until November 30 at 1:00AM EST by NWS Boston/Norton MA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d5abf6bef76738303db79a93b1d656fe39df1263.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 41.874,
+      "Longitude": -71.064,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "Van"
+        "EST",
+        "EST"
       ],
       "TriggerCity": [
-        "Nashville",
-        "Van"
+        "Boston"
       ]
     },
     {
-      "Headline": "Freeze Warning issued November 26 at 9:59AM CST until November 27 at 9:00AM CST by NWS Lake Charles LA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.12d1301a13a4c066a5701316775d1f92b129ba00.002.1",
+      "Headline": "High Wind Watch issued November 27 at 9:50AM CST until November 29 at 12:00AM CST by NWS Amarillo TX",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f865f895beffd36c8d7064fedb9b7b0373c429c8.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67537,41 +67313,70 @@
         "United States"
       ],
       "TriggerADM1": [
-        "Northern",
+        "Texas"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 27 at 10:49AM EST until November 27 at 10:00PM EST by NWS Boston/Norton MA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.66f4d290241e01f8caf836fbd3b728f5a573d0cc.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 41.756,
+      "Longitude": -71.494,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST"
+      ],
+      "TriggerCity": [
+        "Boston"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 10:09AM EST until November 27 at 3:00PM EST by NWS Newport/Morehead City NC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5ae82f8293ebae1d5be25888287a36dd1f746666.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
         "Northern"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Freeze Watch issued November 26 at 9:55AM CST until November 27 at 7:00AM CST by NWS New Orleans LA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.872f5484ed790b16e3d32125a4356df464fa4288.002.1",
+      "Headline": "Flood Warning issued November 27 at 9:45AM EST until November 28 at 7:22PM EST by NWS Wakefield VA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c957aa801ba9f35f3d197ce6a292a798ec3233c2.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 36.73428571428571,
+      "Longitude": -77.85142857142856,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
         "United States"
       ],
       "TriggerADM1": [
-        "West",
-        "East",
-        "Northern",
-        "Southeast",
-        "Northern",
-        "Northern",
-        "Northern",
-        "Northern",
-        "Southern",
-        "Southern",
-        "Southern"
+        "EST",
+        "EST"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Freeze Warning issued November 26 at 9:55AM CST until November 27 at 7:00AM CST by NWS New Orleans LA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.872f5484ed790b16e3d32125a4356df464fa4288.001.2",
+      "Headline": "Coastal Flood Warning issued November 27 at 9:29AM EST until November 27 at 10:00PM EST by NWS Wakefield VA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.01df62ec427a1e6973d10d86301748972cd47e6c.004.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67582,13 +67387,14 @@
         "United States"
       ],
       "TriggerADM1": [
-        "Washington"
+        "EST",
+        "EST"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Winter Storm Warning issued November 26 at 9:52AM CST until November 26 at 6:00PM CST by NWS St Louis MO",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.78b0aa18ed8b5dafdcd2117924d2b30a86efe85b.008.1",
+      "Headline": "Coastal Flood Warning issued November 27 at 9:29AM EST until November 27 at 5:00PM EST by NWS Wakefield VA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.01df62ec427a1e6973d10d86301748972cd47e6c.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67599,17 +67405,18 @@
         "United States"
       ],
       "TriggerADM1": [
-        "Washington"
+        "EST",
+        "EST"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 10:50AM EST until November 26 at 10:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f5a2a298971c9e90213cf66d131ff14efd3a88b.002.1",
+      "Headline": "Flood Warning issued November 27 at 9:22AM EST until November 28 at 1:55PM EST by NWS Raleigh NC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dbf1433c42b1b4d90c6c41920572e9e26e18a160.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 35.49142857142857,
+      "Longitude": -78.33,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -67617,20 +67424,17 @@
       ],
       "TriggerADM1": [
         "EST",
-        "EST",
-        "Washington"
+        "EST"
       ],
-      "TriggerCity": [
-        "Baltimore"
-      ]
+      "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 10:50AM EST until November 27 at 12:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f5a2a298971c9e90213cf66d131ff14efd3a88b.003.1",
+      "Headline": "Flood Warning issued November 27 at 9:18AM EST until November 28 at 5:00AM EST by NWS Wakefield VA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1474792d7cb72a4d96c6dbfa2053f2cd3ef68bf8.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 36.036,
+      "Longitude": -76.992,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -67638,20 +67442,55 @@
       ],
       "TriggerADM1": [
         "EST",
-        "EST",
-        "Washington"
+        "EST"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 27 at 9:04AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.56b12d0cc17ae3150726944a5758607b6fc145ed.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 28.982,
+      "Longitude": -81.402,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
       ],
       "TriggerCity": [
-        "Baltimore"
+        "Melbourne"
       ]
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 10:50AM EST until November 26 at 7:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f5a2a298971c9e90213cf66d131ff14efd3a88b.001.1",
+      "Headline": "Flood Warning issued November 27 at 8:57AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3bfa11dc453338513b85ad753a7562454ffcee9a.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 28.80399999999999,
+      "Longitude": -81.266,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
+      ],
+      "TriggerCity": [
+        "Melbourne"
+      ]
+    },
+    {
+      "Headline": "Flood Warning issued November 27 at 8:56AM EST until November 27 at 6:00PM EST by NWS Mount Holly NJ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.18f9aa47adf20f74c0c74da6f13816d543c5d15a.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 40.11111111111111,
+      "Longitude": -74.13777777777779,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -67659,16 +67498,32 @@
       ],
       "TriggerADM1": [
         "EST",
-        "EST",
-        "Washington"
+        "EST"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 27 at 8:50AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a6af74ba5c327fd1160e38c240e3ec4dd4724b71.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": 28.692,
+      "Longitude": -81.10600000000001,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST"
       ],
       "TriggerCity": [
-        "Baltimore"
+        "Melbourne"
       ]
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 10:50AM EST until November 27 at 3:00AM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f5a2a298971c9e90213cf66d131ff14efd3a88b.004.1",
+      "Headline": "Coastal Flood Warning issued November 27 at 8:48AM EST until November 27 at 12:00PM EST by NWS Baltimore MD/Washington DC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.35cb311f186fda3bade0775a8d5be51a275b7f3f.003.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67690,8 +67545,30 @@
       ]
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 10:50AM EST until November 26 at 9:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f5a2a298971c9e90213cf66d131ff14efd3a88b.005.1",
+      "Headline": "Coastal Flood Warning issued November 27 at 8:48AM EST until November 27 at 2:00PM EST by NWS Baltimore MD/Washington DC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.35cb311f186fda3bade0775a8d5be51a275b7f3f.004.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Washington",
+        "Southeast"
+      ],
+      "TriggerCity": [
+        "Baltimore"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 8:48AM EST until November 28 at 12:00AM EST by NWS Baltimore MD/Washington DC",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.35cb311f186fda3bade0775a8d5be51a275b7f3f.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -67711,450 +67588,8 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 26 at 10:25AM EST until November 27 at 2:00PM EST by NWS Raleigh NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0104dc32e1fa7e5de10cd23d94399aa9e4f187d5.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 35.635,
-      "Longitude": -78.38000000000001,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 10:24AM EST until November 28 at 10:00AM EST by NWS Raleigh NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cf49241804786a37d19ed3746e3c57538d0db97a.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 35.49142857142857,
-      "Longitude": -78.33,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 10:09AM EST until November 26 at 4:15PM EST by NWS Blacksburg VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.865b87d7c6806c1a8a3a3fc5484f9b9b67c847d5.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 37.2825,
-      "Longitude": -79.96,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Watch issued November 26 at 10:02AM EST until November 26 at 1:00PM EST by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7fd000fb13da558c823d62a920c33909f12e607c.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Washington",
-        "Northern",
-        "Southern",
-        "West",
-        "East",
-        "Northern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 9:58AM EST until November 26 at 7:00PM EST by NWS Blacksburg VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.176f78baa2335b248241056b7f947940cf6c4276.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 9:47AM EST until December 1 at 5:00AM EST by NWS Wilmington NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.dd6c781e012980abab21434b833108527b35b7bc.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 34.60285714285714,
-      "Longitude": -77.87571428571428,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 9:41AM EST until November 26 at 2:00PM EST by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7c28625c60dec2423dba7ce9ff01c212692be145.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Oregon",
-        "Oregon"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 9:32AM EST until November 26 at 3:30PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4c7a751131a12f2f6822aa55f8d797bdcc03c4a1.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 37.12095238095238,
-      "Longitude": -76.79666666666667,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Virginia"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 9:12AM EST until November 27 at 7:00AM EST by NWS Boston/Norton MA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3ea6666da7703dd102344378f1096479afa6d1d4.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Boston"
-      ]
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 9:12AM EST until November 27 at 1:00AM EST by NWS Boston/Norton MA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3ea6666da7703dd102344378f1096479afa6d1d4.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": [
-        "Boston"
-      ]
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 27 at 5:00AM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 27 at 12:00AM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Maryland"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 26 at 3:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Virginia"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 26 at 9:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.006.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 26 at 12:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Eastern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 26 at 5:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.007.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Eastern",
-        "Eastern",
-        "Western",
-        "Eastern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 27 at 9:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.009.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 9:10AM EST until November 26 at 7:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9aedb091e7efbb4d3be511378cde76bad7da58b5.008.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Westmoreland"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 9:09AM EST until November 26 at 7:00PM EST by NWS Charleston WV",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a7695fe2c0d0ee352a61428f97cb0429ef29c416.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Southeast",
-        "Southeast",
-        "Southeast"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 8:57AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.fe216edb0d562d513ddc0bc33ce4c3b6d716f060.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 28.982,
-      "Longitude": -81.402,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 8:54AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.06fc286eb034547be1fd1d14173387b1b79dcd3f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 28.80399999999999,
-      "Longitude": -81.266,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 8:50AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.93299397ef621c4e79363076d7d3b8d895f4d203.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 28.692,
-      "Longitude": -81.10600000000001,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": [
-        "Melbourne"
-      ]
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 8:46AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3d7760cc715caf03eef55a82ebf42a07b2768908.005.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 8:45AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ceb499e1cd48c3baf0a73be82770e6524d485996.001.1",
+      "Headline": "Flood Warning issued November 27 at 8:45AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3878c7e5dfc91648ac84db49fef0a2c9b1aac48f.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": 28.406,
@@ -68172,8 +67607,25 @@
       ]
     },
     {
-      "Headline": "Flood Warning issued November 26 at 8:42AM EST by NWS Melbourne FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.82e240d5b7858a33d34a4a130d8fb59232902db1.001.1",
+      "Headline": "Winter Storm Warning issued November 27 at 4:41AM AKST until November 27 at 10:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9a2ccda0a754f527b71d18a4851b536d5161b821.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Eastern"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Flood Warning issued November 27 at 8:41AM EST by NWS Melbourne FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cac35691580e4ec61cd7e1b2f407994064d1fcfd.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": 29.186,
@@ -68191,8 +67643,8 @@
       ]
     },
     {
-      "Headline": "High Wind Warning issued November 26 at 8:41AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.1d23fdecf24095a3aa71cb2b060327a2c8f4a235.004.1",
+      "Headline": "High Wind Watch issued November 27 at 5:51AM MST until November 28 at 8:00PM MST by NWS Pueblo CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cc06cd5682ddec04c34df39b1c5e9ff6a5a4b395.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68203,130 +67655,18 @@
         "United States"
       ],
       "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 8:22AM EST until November 26 at 2:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9300a26a22bff596ab02bbcda11eb31c81b72f96.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 37.36142857142858,
-      "Longitude": -77.85619047619049,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 7:30AM EST until November 26 at 1:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a18fa32b7ce7fb347ba23ea07617bc89d996d02d.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 36.57047619047619,
-      "Longitude": -77.79095238095239,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 2:41AM PST until November 26 at 12:00PM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2e14e289db0927882c25dc441187fc6304916d8c.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "East"
-      ],
-      "TriggerCity": [
-        "Seattle"
-      ]
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 2:40AM PST until November 26 at 10:00AM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4cab40822fe157908caddf76922d9999ca74b0b1.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Western",
-        "Western",
-        "South",
+        "Colorado",
         "Southern",
-        "Southern",
-        "Southern",
-        "Northern",
-        "Eastern"
-      ],
-      "TriggerCity": [
-        "Seattle",
-        "Seattle"
-      ]
-    },
-    {
-      "Headline": "Flood Watch issued November 26 at 5:34AM EST until November 26 at 1:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ee802e24a0192538baed2025102d207023630629.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Western",
-        "Eastern",
-        "Virginia",
-        "Western",
-        "Eastern",
-        "Western",
-        "Hanover",
-        "Eastern",
-        "Hanover",
-        "Western",
-        "Eastern",
         "Western",
         "Eastern"
       ],
       "TriggerCity": [
-        "Hanover",
-        "Hanover"
+        "El Paso"
       ]
     },
     {
-      "Headline": "Flood Watch issued November 26 at 5:34AM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ee802e24a0192538baed2025102d207023630629.002.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 27 at 3:46AM AKST until November 28 at 5:00AM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.770a49974ddf195367a34d23f8e2515df2d537a5.019.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68337,22 +67677,13 @@
         "United States"
       ],
       "TriggerADM1": [
-        "EST",
-        "EST",
-        "Maryland",
-        "Westmoreland",
-        "Western",
-        "Eastern",
-        "Western",
-        "Eastern",
-        "Western",
-        "Eastern"
+        "Wales"
       ],
       "TriggerCity": []
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 5:31AM EST until November 26 at 4:00PM EST by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7438ebd38b4ae4921ff9cd58101192ca87d1c4d4.001.1",
+      "Headline": "Winter Storm Warning issued November 27 at 5:48AM CST until November 27 at 12:00PM CST by NWS Nashville TN",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e8b9656ef00a1e413a9b57b6128ea02a7606e3af.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68363,392 +67694,16 @@
         "United States"
       ],
       "TriggerADM1": [
-        "EST",
-        "EST",
-        "East"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 5:31AM EST until November 27 at 3:00PM EST by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7438ebd38b4ae4921ff9cd58101192ca87d1c4d4.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 2:05AM PST until November 26 at 7:00PM PST by NWS Medford OR",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.76e894cac0ec20da2bfcee4effbdd27b99985577.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "South",
-        "Central",
-        "Oregon"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 4:51AM EST by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3ce809d2883d11d0a821d2cd3d9dd5342270fd8b.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 35.59428571428571,
-      "Longitude": -77.37428571428572,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 4:42AM EST until November 26 at 7:00PM EST by NWS State College PA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.11fdd4087fda74c125bc4808a683e2180286a497.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 4:33AM EST until November 27 at 6:00AM EST by NWS Upton NY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c4951226e15f213261de759eeab71abeb55482d2.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Southern",
-        "Southern",
-        "Southern",
-        "Northern",
-        "Northern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 4:29AM EST until November 26 at 4:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.643dfb66b98776d9cc519686c424070f1aa3a7a4.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Washington",
-        "Northern",
-        "Virginia",
-        "Central",
-        "Virginia"
+        "Van"
       ],
       "TriggerCity": [
-        "Baltimore"
+        "Nashville",
+        "Van"
       ]
     },
     {
-      "Headline": "High Wind Warning issued November 26 at 4:29AM EST until November 26 at 7:00PM EST by NWS Baltimore MD/Washington DC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.643dfb66b98776d9cc519686c424070f1aa3a7a4.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Washington",
-        "Southern",
-        "Southeast"
-      ],
-      "TriggerCity": [
-        "Baltimore",
-        "Baltimore"
-      ]
-    },
-    {
-      "Headline": "Flood Warning issued November 26 at 4:08AM EST by NWS Newport/Morehead City NC",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2bad9ad5d6a49438e91f3981d9b7431a2ae325c2.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": 35.02714285714286,
-      "Longitude": -77.22571428571429,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 3:32AM EST until November 27 at 1:00AM EST by NWS Upton NY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f75ee67500475be6b6afa2cdd01a1605f4716733.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Eastern",
-        "Eastern",
-        "New York",
-        "Northeast",
-        "Southwest",
-        "Southeast",
-        "Northern",
-        "Northern",
-        "Southern",
-        "Southern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 12:25AM PST until November 26 at 10:00AM PST by NWS Portland OR",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c9dd9bd64427d566777e9f06ef1db616b5f7940a.004.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Portland"
-      ],
-      "TriggerCity": [
-        "Portland"
-      ]
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 3:00AM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.66c0a7dc7dc2fc70bd27f9d62717d5d720b322a8.003.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Westmoreland",
-        "Eastern",
-        "Eastern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 3:00AM EST until November 26 at 7:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.66c0a7dc7dc2fc70bd27f9d62717d5d720b322a8.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Maryland"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 3:00AM EST until November 26 at 1:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.66c0a7dc7dc2fc70bd27f9d62717d5d720b322a8.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Western",
-        "Eastern",
-        "Virginia"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Watch issued November 26 at 12:59AM MST until November 28 at 5:00PM MST by NWS Riverton WY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b95279b6cc613295db5af8e5ed73bf963fadf6c3.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "West",
-        "Southeast"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 2:57AM EST until November 27 at 3:00PM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2fbd7072619a3b3593b2468927a2e5b241dc6128.002.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 2:57AM EST until November 27 at 3:00AM EST by NWS Mount Holly NJ",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2fbd7072619a3b3593b2468927a2e5b241dc6128.005.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 12:23AM MST until November 27 at 8:00AM MST by NWS Great Falls MT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.cfb80d0773efc3078002a6682bce5d6787e3e274.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "East",
-        "Northern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 25 at 11:17PM PST until November 27 at 4:00AM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.57ff218c78d9d06a8a891698a9961a7e7bf57753.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Cascades"
-      ],
-      "TriggerCity": [
-        "Seattle"
-      ]
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 25 at 9:54PM AKST until November 27 at 3:00PM AKST by NWS Fairbanks AK",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.432c597076dae8142c0f2ff63950523ea82f7383.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Eastern"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 25 at 11:26PM MST until November 27 at 11:00AM MST by NWS Cheyenne WY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e0b0309f84d4ab750b082e7fe333e9dc538922e9.001.2",
+      "Headline": "High Wind Warning issued November 27 at 1:29AM MST until November 27 at 11:00AM MST by NWS Cheyenne WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2b6a5fdabb325a2de8dba4ed27c6f74743e1c455.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68765,8 +67720,25 @@
       "TriggerCity": []
     },
     {
-      "Headline": "High Wind Warning issued November 25 at 11:26PM MST until November 28 at 8:00PM MST by NWS Cheyenne WY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.e0b0309f84d4ab750b082e7fe333e9dc538922e9.002.2",
+      "Headline": "High Wind Watch issued November 27 at 1:29AM MST until November 27 at 5:00PM MST by NWS Cheyenne WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2b6a5fdabb325a2de8dba4ed27c6f74743e1c455.005.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Central"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued November 27 at 1:29AM MST until November 28 at 8:00PM MST by NWS Cheyenne WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2b6a5fdabb325a2de8dba4ed27c6f74743e1c455.003.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68782,8 +67754,122 @@
       "TriggerCity": []
     },
     {
-      "Headline": "High Wind Warning issued November 25 at 11:21PM MST until November 27 at 8:00PM MST by NWS Billings MT",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9806b02176a649ebe9f2b60ca1b5509e0fc14a77.001.1",
+      "Headline": "High Wind Warning issued November 27 at 1:29AM MST until November 28 at 12:00PM MST by NWS Cheyenne WY",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2b6a5fdabb325a2de8dba4ed27c6f74743e1c455.001.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Central"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Watch issued November 27 at 1:15AM MST until November 28 at 6:00PM MST by NWS Midland/Odessa TX",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.9e72e26b2f7a5ac43491865ee5befad43d502a29.001.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Delaware"
+      ],
+      "TriggerCity": [
+        "Guadalupe",
+        "Guadalupe",
+        "Guadalupe"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 2:50AM EST until November 28 at 12:00AM EST by NWS Mount Holly NJ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b2eb954e2d1e6def459c3e0a91443953d2e6e839.005.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 2:50AM EST until November 27 at 3:00PM EST by NWS Mount Holly NJ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b2eb954e2d1e6def459c3e0a91443953d2e6e839.008.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Delaware"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 2:50AM EST until November 27 at 8:00PM EST by NWS Mount Holly NJ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b2eb954e2d1e6def459c3e0a91443953d2e6e839.009.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST",
+        "Delaware"
+      ],
+      "TriggerCity": [
+        "Philadelphia"
+      ]
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 27 at 2:50AM EST until November 27 at 10:00PM EST by NWS Mount Holly NJ",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b2eb954e2d1e6def459c3e0a91443953d2e6e839.006.2",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "EST",
+        "EST"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "High Wind Warning issued November 27 at 12:40AM MST until November 27 at 8:00PM MST by NWS Billings MT",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.7ce2b251fd8798e9f407805c572f4410537845cf.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68800,8 +67886,8 @@
       "TriggerCity": []
     },
     {
-      "Headline": "Storm Warning issued November 26 at 12:56AM EST until November 27 at 7:00AM EST by NWS Boston/Norton MA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.29267578007fb54310fb205314eba568fb135c8b.006.1",
+      "Headline": "High Wind Watch issued November 27 at 12:36AM MST until November 28 at 8:00PM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0c6a2792166402ac96d1445d6cc8b8649a15ee36.002.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68812,18 +67898,15 @@
         "United States"
       ],
       "TriggerADM1": [
-        "EST",
-        "EST",
-        "Bay",
-        "Rhode Island"
+        "Central"
       ],
       "TriggerCity": [
-        "Boston"
+        "Albuquerque"
       ]
     },
     {
-      "Headline": "Storm Warning issued November 26 at 12:51AM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a0da7d076e9b3b1c81e428f9666f88c27d24751f.003.1",
+      "Headline": "Winter Storm Warning issued November 26 at 10:05PM MST until November 29 at 12:00AM MST by NWS Denver CO",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.08e874364c61a320d772afb6a80bca56fcaf87df.001.2",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68834,113 +67917,33 @@
         "United States"
       ],
       "TriggerADM1": [
-        "EST",
-        "EST",
-        "Bay",
-        "Bay",
-        "Bay"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 12:51AM EST until November 26 at 7:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a0da7d076e9b3b1c81e428f9666f88c27d24751f.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Storm Warning issued November 26 at 12:51AM EST until November 26 at 1:00PM EST by NWS Wakefield VA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a0da7d076e9b3b1c81e428f9666f88c27d24751f.007.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Winter Storm Warning issued November 25 at 9:42PM PST until November 27 at 4:00AM PST by NWS Spokane WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5b28b971fc9b6e2226c5eb269f1cd2c83413f790.001.1",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Western"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "High Wind Warning issued November 26 at 12:36AM EST until November 27 at 1:00AM EST by NWS Binghamton NY",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.aed8fd7a1852bc544f6b1520cd95e38e6cc7e529.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Wyoming"
-      ],
-      "TriggerCity": []
-    },
-    {
-      "Headline": "Coastal Flood Warning issued November 26 at 12:24AM EST until November 26 at 7:00PM EST by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.db574f009fbd4685e0bc9286a8fc5d17a3f47993.005.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "EST",
-        "EST",
-        "Eastern",
-        "South",
-        "Central",
-        "Western"
+        "West",
+        "West"
       ],
       "TriggerCity": [
-        "Jacksonville"
+        "Denver"
       ]
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 12:24AM EST until November 27 at 7:00AM EST by NWS Jacksonville FL",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.db574f009fbd4685e0bc9286a8fc5d17a3f47993.006.1",
+      "Headline": "Heavy Freezing Spray Warning issued November 26 at 3:49PM AKST until November 27 at 5:00PM AKST by NWS Fairbanks AK",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0fbe050bbeda141ea68dc4ce87ca93fc5330a12a.019.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
+      "Latitude": null,
+      "Longitude": null,
+      "EventSource": "NWS Alert",
+      "TriggerRegion": [],
+      "TriggerCountry": [
+        "United States"
+      ],
+      "TriggerADM1": [
+        "Wales"
+      ],
+      "TriggerCity": []
+    },
+    {
+      "Headline": "Coastal Flood Warning issued November 26 at 7:02PM EST until November 27 at 7:00PM EST by NWS Jacksonville FL",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4e7911818a1fd623ea81ad8f3dc2682de47e23d4.005.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -68957,25 +67960,6 @@
       ],
       "TriggerCity": [
         "Jacksonville"
-      ]
-    },
-    {
-      "Headline": "The Winter Storm Watch has been replaced. Please see the latest information from NWS Seattle WA on this developing situation.",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.25cf1a9b4a62108c32e1ac156b7ae3d26a1b433e.001.2",
-      "Category": "Natural Disaster",
-      "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
-      "EventSource": "NWS Alert",
-      "TriggerRegion": [],
-      "TriggerCountry": [
-        "United States"
-      ],
-      "TriggerADM1": [
-        "Cascades"
-      ],
-      "TriggerCity": [
-        "Seattle"
       ]
     },
     {
@@ -112642,23 +111626,25 @@
   ],
   "4": [
     {
-      "Headline": "Fuel tanker crash ignites a massive fire on Cairo highway, killing at least 31",
-      "URL": "https://www.nbcnews.com/world/africa/fuel-tanker-crash-ignites-massive-fire-highway-surrounding-cairo-killi-rcna611418",
-      "Category": "Status Quo",
-      "ImageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-cairo-mb-0744-099ae5.jpg",
+      "Headline": "High Wind Watch issued November 27 at 9:55AM CST until November 28 at 8:00PM CST by NWS Dodge City KS",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b68bc6fe066d761d3330f904b260b3c5a3f96c27.002.1",
+      "Category": "Natural Disaster",
+      "ImageURL": null,
       "Latitude": null,
       "Longitude": null,
-      "EventSource": null,
+      "EventSource": "NWS Alert",
       "TriggerRegion": [],
-      "TriggerCountry": [],
+      "TriggerCountry": [
+        "United States"
+      ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Cairo"
+        "Hamilton"
       ]
     },
     {
-      "Headline": "Flood Warning issued November 26 at 4:34AM PST until November 27 at 9:27AM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a8c32d5faa8740ff3b010f337311a4640607b521.001.1",
+      "Headline": "Flood Warning issued November 27 at 5:23AM PST until November 28 at 1:00AM PST by NWS Seattle WA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.f56b79fb1b1816e84b158339481a49dea4c2a15e.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": 47.32571428571428,
@@ -112674,8 +111660,8 @@
       ]
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 3:03AM PST until November 26 at 12:00PM PST by NWS Los Angeles/Oxnard CA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b0048f71bb4b034429323d20a27d0f1d65bf288f.002.1",
+      "Headline": "High Wind Watch issued November 27 at 12:36AM MST until November 29 at 12:00AM MST by NWS Albuquerque NM",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.0c6a2792166402ac96d1445d6cc8b8649a15ee36.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
       "Latitude": null,
@@ -112687,16 +111673,16 @@
       ],
       "TriggerADM1": [],
       "TriggerCity": [
-        "Los Angeles"
+        "Albuquerque"
       ]
     },
     {
-      "Headline": "Coastal Flood Warning issued November 26 at 2:40AM PST until November 26 at 6:00PM PST by NWS Seattle WA",
-      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4cab40822fe157908caddf76922d9999ca74b0b1.001.1",
+      "Headline": "Flood Warning issued November 26 at 4:34AM PST until November 27 at 9:27AM PST by NWS Seattle WA",
+      "URL": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.a8c32d5faa8740ff3b010f337311a4640607b521.001.1",
       "Category": "Natural Disaster",
       "ImageURL": null,
-      "Latitude": null,
-      "Longitude": null,
+      "Latitude": 47.32571428571428,
+      "Longitude": -123.1828571428571,
       "EventSource": "NWS Alert",
       "TriggerRegion": [],
       "TriggerCountry": [
@@ -112748,6 +111734,7 @@
       "Arctic",
       "EU",
       "Eu",
+      "Europe",
       "SCO",
       "Sco"
     ],
@@ -112779,34 +111766,29 @@
       "Dutch",
       "Ecuador",
       "Egypt",
-      "Egyptian",
-      "Eritrea",
       "Ethiopia",
       "France",
-      "French",
       "Gabon",
+      "Gambia",
       "Georgia",
-      "German",
       "Germany",
       "Ghana",
       "Greece",
       "Guatemala",
       "Guinea",
-      "Hungary",
       "Iceland",
       "India",
       "Indonesia",
-      "Iranian",
-      "Iraqi",
+      "Iran",
       "Israel",
-      "Italian",
+      "Israeli",
       "Italy",
       "Japan",
       "Kazakhstan",
       "Kenya",
       "Kuwait",
+      "Kyrgyzstan",
       "Laos",
-      "Lebanon",
       "Liberia",
       "Madagascar",
       "Malawi",
@@ -112822,25 +111804,25 @@
       "Nicaragua",
       "Niger",
       "North Macedonia",
+      "Pakistani",
       "Papua New Guinea",
       "Paraguay",
       "Peru",
       "Philippines",
-      "Poland",
       "Portugal",
-      "Qatari",
       "ROC",
       "Roc",
       "Russia",
+      "Russian",
       "SA",
       "Sa",
+      "Saudi",
       "Senegal",
       "Serbia",
       "South Africa",
-      "Sri Lanka",
       "Sudan",
       "Swiss",
-      "Taiwan",
+      "Syria",
       "Tanzania",
       "Thailand",
       "Turkey",
@@ -112849,9 +111831,9 @@
       "United States",
       "Vanuatu",
       "Venezuela",
+      "Vietnam",
       "Zambia",
-      "Zimbabwe",
-      "turkey"
+      "Zimbabwe"
     ],
     "TriggerADM1": [
       "ALABAMA",
@@ -112860,14 +111842,13 @@
       "Arizona",
       "Arkansas",
       "BAY",
+      "Baghdad",
       "Bay",
       "Berlin",
       "CENTRAL",
       "California",
       "Cascade",
-      "Cascades",
       "Central",
-      "Charlotte",
       "Chin",
       "Colorado",
       "Delaware",
@@ -112878,10 +111859,8 @@
       "East",
       "Eastern",
       "Florida",
-      "Gaza",
       "Georgia",
       "Guatemala",
-      "Hanover",
       "Hawaii",
       "Idaho",
       "Illinois",
@@ -112894,6 +111873,7 @@
       "Lakes",
       "Leon",
       "Louisiana",
+      "Manchester",
       "Mary",
       "Maryland",
       "Masaya",
@@ -112925,8 +111905,6 @@
       "Pasco",
       "Pennsylvania",
       "Pool",
-      "Portland",
-      "Rhode Island",
       "SOUTH",
       "Saint George",
       "San Juan",
@@ -112950,60 +111928,53 @@
       "WALES",
       "WEST",
       "WESTERN",
+      "Wales",
       "Washington",
       "West",
       "West Virginia",
       "Western",
-      "Westmoreland",
       "Wisconsin",
       "Wyoming",
-      "Yukon",
-      "north"
+      "Yukon"
     ],
     "TriggerCity": [
       "AUSTIN",
+      "Albuquerque",
       "Alexandria",
-      "Asmara",
       "Athens",
       "Austin",
+      "Baghdad",
       "Baltimore",
       "Berlin",
       "Birmingham",
       "Boston",
-      "Bras\u00edlia",
-      "Cairo",
-      "Charlotte",
       "Columbus",
+      "Denver",
       "El Paso",
       "FRESNO",
       "Fresno",
-      "Goi\u00e2nia",
+      "Guadalupe",
       "Hamilton",
-      "Hanover",
       "Houston",
+      "Ibadan",
       "Jacksonville",
       "La Paz",
       "Leeds",
       "Los Angeles",
       "Lyon",
-      "Madurai",
+      "Manchester",
       "Melbourne",
       "Mesa",
       "Nashville",
-      "Ottawa",
       "Philadelphia",
       "Phoenix",
-      "Portland",
       "SAN FRANCISCO",
-      "Sacramento",
-      "Salem",
       "San Diego",
-      "San Francisco",
       "Seattle",
-      "Tangier",
       "VAN",
       "Valencia",
-      "Van"
+      "Van",
+      "Yaound\u00e9"
     ]
   },
   "allLocations": {
